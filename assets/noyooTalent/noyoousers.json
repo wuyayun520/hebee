@@ -1,0 +1,464 @@
+{
+  "users": [
+    {
+      "id": "noyoo1",
+      "username": "Alex Thompson",
+      "displayName": "Alex Thompson",
+      "avatar": "assets/noyooTalent/noyoo1/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo1/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo1/noyooVideo.mp4",
+      "description": "Classical piano virtuoso with 15 years of experience. Specializing in Romantic era compositions and contemporary interpretations. Music conservatory graduate, passionate about sharing the beauty of piano music with the world.",
+      "country": "United States",
+      "city": "New York",
+      "instrument": "Piano",
+      "skillLevel": "Professional",
+      "yearsPlaying": 15,
+      "followers": 125,
+      "likes": 342,
+      "posts": [
+        {
+          "postId": "post_noyoo1_001",
+          "content": "Just finished recording Chopin's Nocturne in E-flat major. This piece has always held a special place in my heart - the delicate melodies and emotional depth never fail to move me. Every time I play it, I discover something new. Hope this performance brings you the same peace and beauty it brings me. 🎹✨\n\n#ClassicalPiano #Chopin #Nocturne #PianoMusic #MusicLovers",
+          "video": "assets/noyooTalent/noyoo1/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo1/noyooUserBg.webp",
+          "likes": 342,
+          "isLiked": false,
+          "tags": ["classical", "chopin", "nocturne", "piano", "romantic"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo2",
+      "username": "Sophie Martinez",
+      "displayName": "Sophie Martinez",
+      "avatar": "assets/noyooTalent/noyoo2/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo2/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo2/noyooVideo.mp4",
+      "description": "Jazz and contemporary piano artist from Paris. Blending classical technique with modern improvisation. Performed at numerous jazz festivals across Europe. Love exploring the boundaries between genres and creating unique musical experiences.",
+      "country": "France",
+      "city": "Paris",
+      "instrument": "Piano",
+      "skillLevel": "Professional",
+      "yearsPlaying": 12,
+      "followers": 210,
+      "likes": 568,
+      "posts": [
+        {
+          "postId": "post_noyoo2_001",
+          "content": "Here's my latest improvisation session! I've been experimenting with blending Debussy's impressionistic style with modern jazz harmonies. The result is something ethereal and unexpected. Music is all about breaking boundaries and finding new ways to express emotion. What do you think? 🎹🎵\n\nThis piece started as a simple melody that evolved into a full composition. Sometimes the best music comes from just letting your fingers dance across the keys.\n\n#JazzPiano #ContemporaryPiano #Improvisation #PianoMusic #MusicCreation #ParisMusician",
+          "video": "assets/noyooTalent/noyoo2/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo2/noyooUserBg.webp",
+          "likes": 568,
+          "isLiked": false,
+          "tags": ["jazz", "contemporary", "improvisation", "piano", "france"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo3",
+      "username": "James Wilson",
+      "displayName": "James Wilson",
+      "avatar": "assets/noyooTalent/noyoo3/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo3/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo3/noyooVideo.mp4",
+      "description": "Baroque and early music specialist. Dedicated to authentic performance practice on period instruments. Member of the Royal Academy of Music. Passionate about bringing historical piano works to life with period-appropriate technique and interpretation.",
+      "country": "United Kingdom",
+      "city": "London",
+      "instrument": "Piano",
+      "skillLevel": "Professional",
+      "yearsPlaying": 18,
+      "followers": 89,
+      "likes": 215,
+      "posts": [
+        {
+          "postId": "post_noyoo3_001",
+          "content": "Today I'm sharing Bach's Goldberg Variations, Aria. This is one of the most profound works in the keyboard repertoire - a set of 30 variations that explore every possible musical idea. I've been studying this piece for months, and each variation reveals new layers of complexity and beauty.\n\nThe Aria itself is deceptively simple, but it contains the seed from which all 30 variations grow. Playing this on a period instrument really brings out the nuances that Bach intended. The clarity of each voice, the intricate counterpoint - it's like solving a beautiful mathematical puzzle.\n\nHope you enjoy this journey through one of music's greatest masterpieces! 🎹📚\n\n#Bach #GoldbergVariations #BaroqueMusic #ClassicalPiano #PeriodPerformance #MusicHistory",
+          "video": "assets/noyooTalent/noyoo3/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo3/noyooUserBg.webp",
+          "likes": 215,
+          "isLiked": false,
+          "tags": ["bach", "baroque", "goldberg", "classical", "piano", "london"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo4",
+      "username": "Emma Anderson",
+      "displayName": "Emma Anderson",
+      "avatar": "assets/noyooTalent/noyoo4/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo4/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo4/noyooVideo.mp4",
+      "description": "Film score and cinematic piano composer. Creating emotional soundscapes that tell stories through music. Worked on several independent film projects. Love combining classical piano technique with modern production to create immersive musical experiences.",
+      "country": "Canada",
+      "city": "Toronto",
+      "instrument": "Piano",
+      "skillLevel": "Professional",
+      "yearsPlaying": 10,
+      "followers": 156,
+      "likes": 412,
+      "posts": [
+        {
+          "postId": "post_noyoo4_001",
+          "content": "Just released my latest original composition: 'Midnight Reverie'. This piece came to me during a late-night practice session when the city was quiet and my mind was free to wander.\n\nThe melody started as a simple phrase that kept repeating in my head, and I couldn't stop until I had developed it into a full piece. It's about those quiet moments of reflection we all have - when the world slows down and we can truly listen to ourselves.\n\nI've layered the piano with subtle ambient textures to create a cinematic atmosphere. Each section builds on the last, taking you on a journey from contemplation to hope, and back to peace.\n\nMusic is my way of translating emotions into sound. I hope this piece resonates with you. 🎹🌙\n\n#OriginalComposition #CinematicPiano #PianoMusic #FilmScore #AmbientMusic #MusicComposer #TorontoMusician",
+          "video": "assets/noyooTalent/noyoo4/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo4/noyooUserBg.webp",
+          "likes": 412,
+          "isLiked": false,
+          "tags": ["original", "cinematic", "composition", "piano", "ambient", "canada"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo5",
+      "username": "Michael Chen",
+      "displayName": "Michael Chen",
+      "avatar": "assets/noyooTalent/noyoo5/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo5/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo5/noyooVideo.mp4",
+      "description": "Pop and modern piano arranger. Specializing in transforming popular songs into beautiful piano arrangements. Creating accessible piano covers that bring contemporary music to classical instrument lovers. Passionate about making piano music relatable to everyone.",
+      "country": "Australia",
+      "city": "Sydney",
+      "instrument": "Piano",
+      "skillLevel": "Professional",
+      "yearsPlaying": 11,
+      "followers": 178,
+      "likes": 456,
+      "posts": [
+        {
+          "postId": "post_noyoo5_001",
+          "content": "Just finished this piano arrangement of a popular song! I love taking modern hits and reimagining them for solo piano. It's amazing how a great melody can shine in any arrangement.\n\nThis arrangement focuses on bringing out the emotional core of the song - stripping away the production and letting the melody speak for itself. I've added some subtle harmonic extensions to give it that rich, full sound that only a piano can provide.\n\nWhat songs would you like to hear me arrange next? Drop your suggestions below! 🎹🎵\n\n#PianoCover #PopPiano #PianoArrangement #ModernPiano #PianoMusic #MusicArrangement #SydneyMusician",
+          "video": "assets/noyooTalent/noyoo5/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo5/noyooUserBg.webp",
+          "likes": 456,
+          "isLiked": false,
+          "tags": ["pop", "cover", "arrangement", "piano", "modern", "australia"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo6",
+      "username": "Isabella Rossi",
+      "displayName": "Isabella Rossi",
+      "avatar": "assets/noyooTalent/noyoo6/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo6/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo6/noyooVideo.mp4",
+      "description": "Contemporary and experimental piano artist. Exploring the fusion of acoustic piano with electronic elements and digital effects. Pushing the boundaries of what piano music can be. Creating immersive sound experiences that blend tradition with innovation.",
+      "country": "Italy",
+      "city": "Milan",
+      "instrument": "Piano",
+      "skillLevel": "Professional",
+      "yearsPlaying": 9,
+      "followers": 142,
+      "likes": 389,
+      "posts": [
+        {
+          "postId": "post_noyoo6_001",
+          "content": "Experimenting with new textures today! I've been exploring how acoustic piano can interact with subtle electronic processing to create something entirely new.\n\nThis piece started as a simple piano melody, but I wanted to see how far I could push it while still maintaining the soul of the instrument. The result is a hybrid sound that bridges the gap between acoustic and electronic music.\n\nThere's something magical about taking a traditional instrument and finding new ways to express with it. The piano has so much potential that we're only just beginning to explore.\n\nWhat do you think of this fusion? 🎹⚡\n\n#ExperimentalPiano #ContemporaryPiano #ElectronicPiano #PianoMusic #MusicInnovation #ModernMusic #MilanMusician",
+          "video": "assets/noyooTalent/noyoo6/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo6/noyooUserBg.webp",
+          "likes": 389,
+          "isLiked": false,
+          "tags": ["experimental", "contemporary", "electronic", "piano", "fusion", "italy"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo7",
+      "username": "David Kim",
+      "displayName": "David Kim",
+      "avatar": "assets/noyooTalent/noyoo7/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo7/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo7/noyooVideo.mp4",
+      "description": "Piano educator and technique specialist. Teaching piano for over 8 years with a focus on proper technique and musical expression. Creating educational content to help students of all levels improve their playing. Passionate about making quality piano education accessible to everyone.",
+      "country": "South Korea",
+      "city": "Seoul",
+      "instrument": "Piano",
+      "skillLevel": "Professional",
+      "yearsPlaying": 14,
+      "followers": 203,
+      "likes": 521,
+      "posts": [
+        {
+          "postId": "post_noyoo7_001",
+          "content": "Sharing a practice session today! I'm working on perfecting my technique for this challenging piece. As a teacher, I believe in practicing what I preach - continuous improvement is key.\n\nThis piece requires precise finger control and careful attention to dynamics. Every note needs to be intentional, every phrase needs to breathe. It's a great exercise in patience and discipline.\n\nFor my students watching: notice how I'm focusing on evenness in the runs, and how I'm using my wrist to create smooth transitions. Technique isn't just about playing the right notes - it's about playing them beautifully.\n\nKeep practicing, everyone! 🎹📚\n\n#PianoTechnique #PianoEducation #PianoPractice #PianoMusic #MusicEducation #PianoTeacher #SeoulMusician",
+          "video": "assets/noyooTalent/noyoo7/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo7/noyooUserBg.webp",
+          "likes": 521,
+          "isLiked": false,
+          "tags": ["education", "technique", "practice", "piano", "teaching", "korea"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo8",
+      "username": "Maria Garcia",
+      "displayName": "Maria Garcia",
+      "avatar": "assets/noyooTalent/noyoo8/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo8/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo8/noyooVideo.mp4",
+      "description": "Collaborative pianist and chamber music specialist. Experienced in accompanying vocalists, instrumentalists, and ensembles. Bringing out the best in collaborative performances through sensitive and responsive playing. Love the art of musical dialogue and partnership.",
+      "country": "Spain",
+      "city": "Madrid",
+      "instrument": "Piano",
+      "skillLevel": "Professional",
+      "yearsPlaying": 13,
+      "followers": 167,
+      "likes": 438,
+      "posts": [
+        {
+          "postId": "post_noyoo8_001",
+          "content": "Playing a beautiful solo piece today that I often use in collaborative settings. As an accompanist, I've learned that the best performances happen when you truly listen and respond to your musical partners.\n\nThis piece showcases the piano's ability to sing and support simultaneously - something that's essential in chamber music. The melody needs to soar while the accompaniment provides a rich foundation without overwhelming.\n\nEven when playing solo, I try to maintain that collaborative spirit - creating a dialogue between different voices within the piece. Each section responds to the last, building a conversation that tells a complete story.\n\nMusic is always better when it's shared! 🎹🎼\n\n#ChamberMusic #CollaborativePiano #PianoAccompaniment #PianoMusic #EnsembleMusic #MusicCollaboration #MadridMusician",
+          "video": "assets/noyooTalent/noyoo8/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo8/noyooUserBg.webp",
+          "likes": 438,
+          "isLiked": false,
+          "tags": ["chamber", "collaborative", "accompaniment", "piano", "ensemble", "spain"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo9",
+      "username": "Ryan O'Connor",
+      "displayName": "Ryan O'Connor",
+      "avatar": "assets/noyooTalent/noyoo9/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo9/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo9/noyooVideo.mp4",
+      "description": "Acoustic fingerstyle guitarist specializing in Celtic and folk traditions. Creating intricate arrangements that showcase the guitar's melodic and harmonic capabilities. Passionate about preserving traditional music while adding contemporary touches.",
+      "country": "Ireland",
+      "city": "Dublin",
+      "instrument": "Guitar",
+      "skillLevel": "Professional",
+      "yearsPlaying": 12,
+      "followers": 198,
+      "likes": 467,
+      "posts": [
+        {
+          "postId": "post_noyoo9_001",
+          "content": "Playing a traditional Celtic piece today with my own fingerstyle arrangement. There's something magical about these old melodies - they've been passed down through generations, and each time I play them, I feel connected to something timeless.\n\nI've arranged this to highlight both the melody and the rich harmonic possibilities of the guitar. The fingerpicking pattern creates a full sound that almost sounds like multiple instruments playing together.\n\nTraditional music doesn't have to be stuck in the past - it can evolve and grow while still honoring its roots. That's what I love about folk music - it's alive and breathing. 🎸🍀\n\n#CelticGuitar #FingerstyleGuitar #FolkMusic #AcousticGuitar #TraditionalMusic #IrishMusic #DublinMusician",
+          "video": "assets/noyooTalent/noyoo9/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo9/noyooUserBg.webp",
+          "likes": 467,
+          "isLiked": false,
+          "tags": ["celtic", "fingerstyle", "folk", "guitar", "acoustic", "ireland"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo10",
+      "username": "Lucas Silva",
+      "displayName": "Lucas Silva",
+      "avatar": "assets/noyooTalent/noyoo10/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo10/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo10/noyooVideo.mp4",  
+      "description": "Flamenco and classical guitar virtuoso. Trained in the Spanish tradition with deep understanding of rhythm, harmony, and technique. Bringing the passion and fire of flamenco to audiences worldwide. Master of both traditional and contemporary guitar styles.",
+      "country": "Spain",
+      "city": "Barcelona",
+      "instrument": "Guitar",
+      "skillLevel": "Professional",
+      "yearsPlaying": 16,
+      "followers": 234,
+      "likes": 589,
+      "posts": [
+        {
+          "postId": "post_noyoo10_001",
+          "content": "Sharing a flamenco piece that's close to my heart. Flamenco isn't just music - it's emotion, it's story, it's life itself expressed through the strings.\n\nThis piece combines traditional flamenco techniques with some modern harmonic ideas. The rasgueado (strumming patterns) create that distinctive flamenco rhythm, while the melody tells a story of passion and longing.\n\nEvery note has intention, every phrase has meaning. That's what makes flamenco so powerful - it's not just about playing the right notes, it's about feeling them deeply and letting that feeling flow through your fingers.\n\n¡Olé! 🎸🔥\n\n#FlamencoGuitar #ClassicalGuitar #SpanishGuitar #GuitarMusic #Flamenco #GuitarVirtuoso #BarcelonaMusician",
+          "video": "assets/noyooTalent/noyoo10/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo10/noyooUserBg.webp",
+          "likes": 589,
+          "isLiked": false,
+          "tags": ["flamenco", "classical", "spanish", "guitar", "virtuoso", "spain"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo11",
+      "username": "Jake Mitchell",
+      "displayName": "Jake Mitchell",
+      "avatar": "assets/noyooTalent/noyoo11/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo11/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo11/noyooVideo.mp4",
+      "description": "Blues and rock guitarist with a soulful touch. Specializing in electric guitar with expressive bends, vibrato, and dynamic phrasing. Influenced by the great blues masters while developing a unique modern voice. Love the raw emotion and storytelling power of blues guitar.",
+      "country": "United States",
+      "city": "Chicago",
+      "instrument": "Guitar",
+      "skillLevel": "Professional",
+      "yearsPlaying": 14,
+      "followers": 187,
+      "likes": 523,
+      "posts": [
+        {
+          "postId": "post_noyoo11_001",
+          "content": "Playing some blues today - this is where my heart lives. The blues isn't about being sad, it's about expressing real emotion, telling stories that resonate with everyone.\n\nI'm using a lot of bends and vibrato here to really make the guitar sing. Every note has to have feeling, has to mean something. That's what I learned from the great blues players - technique is important, but emotion is everything.\n\nThis solo builds from a quiet, introspective beginning to a powerful, expressive climax. It's like a conversation - sometimes you whisper, sometimes you shout, but you always have something to say.\n\nLet the guitar do the talking! 🎸🎵\n\n#BluesGuitar #RockGuitar #ElectricGuitar #GuitarSolo #BluesMusic #GuitarPlaying #ChicagoMusician",
+          "video": "assets/noyooTalent/noyoo11/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo11/noyooUserBg.webp",
+          "likes": 523,
+          "isLiked": false,
+          "tags": ["blues", "rock", "electric", "guitar", "solo", "usa"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo12",
+      "username": "Yuki Tanaka",
+      "displayName": "Yuki Tanaka",
+      "avatar": "assets/noyooTalent/noyoo12/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo12/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo12/noyooVideo.mp4",
+      "description": "Classical violinist with exceptional technique and musical sensitivity. Trained in the Russian school of violin playing. Specializing in Romantic and modern repertoire. Bringing emotional depth and technical precision to every performance.",
+      "country": "Japan",
+      "city": "Tokyo",
+      "instrument": "Violin",
+      "skillLevel": "Professional",
+      "yearsPlaying": 17,
+      "followers": 256,
+      "likes": 634,
+      "posts": [
+        {
+          "postId": "post_noyoo12_001",
+          "content": "Playing one of my favorite pieces from the Romantic era. The violin has such an incredible ability to express human emotion - from the most delicate whisper to the most powerful cry.\n\nThis piece requires both technical mastery and deep emotional connection. Every bow stroke, every vibrato, every shift in position has to serve the music. The challenge is making all that technique invisible, so only the emotion comes through.\n\nI've been working on this piece for months, and I'm still discovering new layers of meaning in it. That's what I love about great music - it never stops revealing itself to you.\n\nMusic is a language that speaks directly to the soul. 🎻✨\n\n#ClassicalViolin #ViolinMusic #RomanticMusic #ViolinPerformance #ClassicalMusic #ViolinPlaying #TokyoMusician",
+          "video": "assets/noyooTalent/noyoo12/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo12/noyooUserBg.webp",
+          "likes": 634,
+          "isLiked": false,
+          "tags": ["classical", "romantic", "violin", "performance", "japan"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo13",
+      "username": "Elena Petrov",
+      "displayName": "Elena Petrov",
+      "avatar": "assets/noyooTalent/noyoo13/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo13/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo13/noyooVideo.mp4",
+      "description": "Fiddle and folk violinist bringing traditional music to life. Specializing in Eastern European and Balkan folk traditions. Creating energetic, danceable music that connects people to their cultural roots. Love the raw energy and community spirit of folk music.",
+      "country": "Russia",
+      "city": "Moscow",
+      "instrument": "Violin",
+      "skillLevel": "Professional",
+      "yearsPlaying": 11,
+      "followers": 172,
+      "likes": 445,
+      "posts": [
+        {
+          "postId": "post_noyoo13_001",
+          "content": "Playing a traditional folk tune that's been passed down in my family for generations! Folk music is the heartbeat of a culture - it tells the stories of ordinary people, their joys, their struggles, their celebrations.\n\nThis piece is meant to be danced to, and you can feel that energy in the rhythm. The ornamentation and variations are traditional, but I add my own personality to it. That's how folk music lives - each player adds their voice while respecting the tradition.\n\nThe violin in folk music is different from classical - it's more raw, more direct, more connected to the earth. It's about feeling the music in your bones and letting that feeling flow through your bow.\n\nLet's keep these traditions alive! 🎻🎪\n\n#FolkViolin #FiddleMusic #TraditionalMusic #FolkMusic #ViolinPlaying #CulturalMusic #MoscowMusician",
+          "video": "assets/noyooTalent/noyoo13/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo13/noyooUserBg.webp",
+          "likes": 445,
+          "isLiked": false,
+          "tags": ["folk", "fiddle", "traditional", "violin", "cultural", "russia"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo14",
+      "username": "Marcus Johnson",
+      "displayName": "Marcus Johnson",
+      "avatar": "assets/noyooTalent/noyoo14/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo14/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo14/noyooVideo.mp4",
+      "description": "Jazz and fusion drummer with impeccable groove and creativity. Known for complex polyrhythms and dynamic playing. Versatile across multiple genres, from straight-ahead jazz to modern fusion. The heartbeat of every band, driving the music forward with power and finesse.",
+      "country": "United States",
+      "city": "New Orleans",
+      "instrument": "Drums",
+      "skillLevel": "Professional",
+      "yearsPlaying": 15,
+      "followers": 221,
+      "likes": 567,
+      "posts": [
+        {
+          "postId": "post_noyoo14_001",
+          "content": "Laying down some serious groove today! Drums are the foundation - they don't just keep time, they create the feel, the energy, the soul of the music.\n\nThis solo explores different rhythmic ideas while maintaining that essential groove. I'm playing with polyrhythms, syncopation, and dynamic contrast. Every hit has a purpose, every fill serves the music.\n\nWhat I love about drumming is that it's both physical and mental. You need the technique to execute your ideas, but you also need the musicality to know when to play and when to hold back. The space between the notes is just as important as the notes themselves.\n\nFeel the rhythm! 🥁🔥\n\n#JazzDrums #Drumming #DrumSolo #JazzMusic #Drummer #Groove #NewOrleansMusician",
+          "video": "assets/noyooTalent/noyoo14/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo14/noyooUserBg.webp",
+          "likes": 567,
+          "isLiked": false,
+          "tags": ["jazz", "drums", "groove", "solo", "fusion", "usa"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo15",
+      "username": "Li Wei",
+      "displayName": "Li Wei",
+      "avatar": "assets/noyooTalent/noyoo15/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo15/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo15/noyooVideo.mp4",
+      "description": "Traditional Chinese flute (Xiao) master. Preserving and promoting ancient Chinese musical traditions. Creating meditative, ethereal soundscapes that connect listeners to nature and inner peace. Expert in breath control and expressive phrasing unique to Chinese wind instruments.",
+      "country": "China",
+      "city": "Beijing",
+      "instrument": "Flute",
+      "skillLevel": "Professional",
+      "yearsPlaying": 20,
+      "followers": 289,
+      "likes": 678,
+      "posts": [
+        {
+          "postId": "post_noyoo15_001",
+          "content": "Playing a traditional piece on the Xiao (Chinese vertical flute). This instrument has been played for thousands of years in China, and its sound is deeply connected to nature and meditation.\n\nThe Xiao requires incredible breath control - you have to learn to breathe with the music, to let each phrase flow naturally like water. The tone is soft and ethereal, perfect for expressing the subtle emotions found in traditional Chinese music.\n\nThis piece describes a scene in nature - perhaps a mountain stream, or birds at dawn. The music doesn't just describe these things, it becomes them. That's the philosophy behind traditional Chinese music - unity with nature.\n\nLet the music carry you away to a peaceful place. 🎵🌿\n\n#ChineseFlute #Xiao #TraditionalMusic #ChineseMusic #FluteMusic #MeditationMusic #BeijingMusician",
+          "video": "assets/noyooTalent/noyoo15/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo15/noyooUserBg.webp",
+          "likes": 678,
+          "isLiked": false,
+          "tags": ["chinese", "flute", "xiao", "traditional", "meditation", "china"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo16",
+      "username": "Tommy Rodriguez",
+      "displayName": "Tommy Rodriguez",
+      "avatar": "assets/noyooTalent/noyoo16/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo16/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo16/noyooVideo.mp4",
+      "description": "Rock and metal drummer with thunderous power and precision. Known for fast double-bass work and creative fills. Driving the energy of heavy music with technical skill and raw power. Making every beat count with intensity and musicality.",
+      "country": "United States",
+      "city": "Los Angeles",
+      "instrument": "Drums",
+      "skillLevel": "Professional",
+      "yearsPlaying": 13,
+      "followers": 195,
+      "likes": 512,
+      "posts": [
+        {
+          "postId": "post_noyoo16_001",
+          "content": "Bringing the thunder today! Rock drumming is all about power, precision, and serving the song. Every crash, every fill, every beat has to drive the music forward.\n\nThis piece showcases some of my favorite techniques - fast double-bass patterns, creative fills, and dynamic control. Even in heavy music, you need dynamics. The loud parts hit harder when you have quiet moments to contrast them.\n\nI love the physicality of drumming - it's a full-body workout, but it's also incredibly musical. The challenge is maintaining technique and musicality even when you're playing with maximum intensity.\n\nLet's rock! 🥁⚡\n\n#RockDrums #MetalDrums #Drumming #DrumSolo #RockMusic #HeavyMusic #LAMusician",
+          "video": "assets/noyooTalent/noyoo16/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo16/noyooUserBg.webp",
+          "likes": 512,
+          "isLiked": false,
+          "tags": ["rock", "metal", "drums", "heavy", "power", "usa"]
+        }
+      ]
+    },
+    {
+      "id": "noyoo17",
+      "username": "Pierre Dubois",
+      "displayName": "Pierre Dubois",
+      "avatar": "assets/noyooTalent/noyoo17/noyooUser.webp",
+      "backgroundImage": "assets/noyooTalent/noyoo17/noyooUserBg.webp",
+      "video": "assets/noyooTalent/noyoo17/noyooVideo.mp4",
+      "description": "Jazz saxophonist with a smooth, soulful tone. Specializing in bebop and modern jazz styles. Creating melodic improvisations that tell stories through music. The saxophone's voice is uniquely expressive, capable of both powerful intensity and tender intimacy.",
+      "country": "France",
+      "city": "Lyon",
+      "instrument": "Saxophone",
+      "skillLevel": "Professional",
+      "yearsPlaying": 14,
+      "followers": 243,
+      "likes": 601,
+      "posts": [
+        {
+          "postId": "post_noyoo17_001",
+          "content": "Improvising over a classic jazz standard today. Jazz is all about conversation - with the other musicians, with the audience, and most importantly, with yourself.\n\nThis solo is completely improvised, created in the moment. That's the magic of jazz - every performance is unique, every note is a choice made in real-time. I'm drawing on years of study, but in the moment, it's all about feeling and intuition.\n\nThe saxophone is such a vocal instrument - it can sing, it can cry, it can shout, it can whisper. I try to use all of those colors in my playing, to tell a complete story with each solo.\n\nLet the music speak! 🎷🎵\n\n#JazzSaxophone #Saxophone #JazzMusic #Improvisation #Bebop #SaxophonePlaying #LyonMusician",
+          "video": "assets/noyooTalent/noyoo17/noyooVideo.mp4",
+          "thumbnail": "assets/noyooTalent/noyoo17/noyooUserBg.webp",
+          "likes": 601,
+          "isLiked": false,
+          "tags": ["jazz", "saxophone", "improvisation", "bebop", "france"]
+        }
+      ]
+    }
+  ]
+}
+
