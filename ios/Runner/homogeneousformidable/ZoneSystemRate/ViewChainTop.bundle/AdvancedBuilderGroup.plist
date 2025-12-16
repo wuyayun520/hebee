@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sinkFunctionShape</key>
+	<string>logarithmOrOperation</string>
+	<key>subtlePositionPosition</key>
+	<string>displayableFlexMargin</string>
+	<key>titleStyleCoord</key>
+	<string>chartAtState</string>
+</dict>
+</plist>

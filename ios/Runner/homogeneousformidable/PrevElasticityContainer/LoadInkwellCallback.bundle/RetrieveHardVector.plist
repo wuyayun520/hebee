@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelCycleRight</key>
+	<string>disabledAwaitCoord</string>
+	<key>completionOperationFormat</key>
+	<string>widgetOrSingleton</string>
+	<key>cubitDespitePattern</key>
+	<string>immutableFactoryCoord</string>
+	<key>delegateCycleShade</key>
+	<string>drawerActivityShade</string>
+	<key>interactivePositionedHead</key>
+	<string>cubitStrategyPressure</string>
+	<key>overlayContainFunction</key>
+	<string>accordionBufferOpacity</string>
+	<key>pageviewVariableFeedback</key>
+	<string>directProviderContrast</string>
+	<key>previewForJob</key>
+	<string>sizedboxLevelLocation</string>
+	<key>uniqueCertificateVisibility</key>
+	<string>entityVariableLocation</string>
+</dict>
+</plist>

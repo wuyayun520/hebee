@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAsParameter</key>
+	<string>controllerAwayBridge</string>
+	<key>alignmentAboutPattern</key>
+	<string>accessiblePositionedDistance</string>
+	<key>compositionAroundPattern</key>
+	<string>interactorIncludeContext</string>
+	<key>directlyPreviewIndex</key>
+	<string>screenBufferDistance</string>
+	<key>documentLayerStyle</key>
+	<string>labelSingletonRotation</string>
+	<key>masterFacadeMomentum</key>
+	<string>gateDecoratorInterval</string>
+	<key>secondEntityShade</key>
+	<string>decorationPerTemple</string>
+</dict>
+</plist>

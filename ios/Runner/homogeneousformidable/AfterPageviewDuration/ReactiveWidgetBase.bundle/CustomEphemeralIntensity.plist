@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorMementoVisible</key>
+	<string>routeAtMediator</string>
+	<key>deferredConfigurationState</key>
+	<string>asyncLayoutColor</string>
+	<key>delegateAtState</key>
+	<string>responsiveVectorSize</string>
+	<key>nextModulusTint</key>
+	<string>sinkPlatformSize</string>
+	<key>sceneProxyDistance</key>
+	<string>asyncAppbarVisible</string>
+	<key>staticMarginLocation</key>
+	<string>equalizationDecoratorOffset</string>
+	<key>storeUntilType</key>
+	<string>immutableStateRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferPrototypeBound</key>
+	<string>asynchronousLocalizationFlags</string>
+	<key>enabledIconAppearance</key>
+	<string>persistentPaddingStyle</string>
+	<key>ignoredIndicatorPressure</key>
+	<string>disabledResourceOffset</string>
+	<key>layoutForStage</key>
+	<string>accessibleStreamSkewx</string>
+	<key>mediumRouteForce</key>
+	<string>allocatorFlyweightVisibility</string>
+	<key>methodVersusState</key>
+	<string>isolateOutsideLayer</string>
+	<key>mobileBufferSkewy</key>
+	<string>mediumTableStatus</string>
+	<key>protectedCompleterCenter</key>
+	<string>animatedcontainerDespiteSingleton</string>
+</dict>
+</plist>

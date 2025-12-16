@@ -3,9 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import '../widgets/background_wrapper.dart';
 import '../services/profile_service.dart';
+import '../services/vip_status_service.dart';
 import 'terms_of_service_screen.dart';
 import 'privacy_policy_screen.dart';
 import 'about_us_screen.dart';
+import 'noyoo_wallet_screen.dart';
+import 'noyoo_vip_screen.dart';
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({super.key});
@@ -55,6 +58,8 @@ class _ProfileScreenState extends State<ProfileScreen> {
             children: [
               GestureDetector(
                 onTap: () async {
+                  final allowed = await _ensureMonthlyVip();
+                  if (!allowed) return;
                   await _pickImage();
                   Navigator.of(context).pop();
                   _showEditDialog();
@@ -145,6 +150,97 @@ class _ProfileScreenState extends State<ProfileScreen> {
     }
   }
 
+  Future<bool> _ensureMonthlyVip() async {
+    final isMonthly = await VipStatusService.isMonthlyVip();
+    if (isMonthly) return true;
+
+    final shouldSubscribe = await showDialog<bool>(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: Colors.grey[900],
+        title: const Text(
+          'Monthly VIP Required',
+          style: TextStyle(color: Colors.white),
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              'Changing avatar is available for Monthly VIP subscribers. Subscribe now?',
+              style: TextStyle(color: Colors.white70),
+            ),
+            const SizedBox(height: 12),
+            Container(
+              width: double.infinity,
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.grey[800]?.withOpacity(0.5),
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(
+                  color: Colors.pink.withOpacity(0.3),
+                  width: 1,
+                ),
+              ),
+              child: Row(
+                children: [
+                 
+                  const SizedBox(width: 8),
+                  Flexible(
+                    child: RichText(
+                      overflow: TextOverflow.ellipsis,
+                      text: TextSpan(
+                        style: const TextStyle(
+                          color: Colors.white70,
+                          fontSize: 13,
+                        ),
+                        children: [
+                          const TextSpan(text: 'Monthly Plan: '),
+                          TextSpan(
+                            text: '\$49.99/month',
+                            style: TextStyle(
+                              color: Colors.pink,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(false),
+            child: const Text(
+              'Cancel',
+              style: TextStyle(color: Colors.grey),
+            ),
+          ),
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(true),
+            child: const Text(
+              'Subscribe',
+              style: TextStyle(color: Colors.pink),
+            ),
+          ),
+        ],
+      ),
+    );
+
+    if (shouldSubscribe == true) {
+      await Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => const NoyooVipScreen(),
+        ),
+      );
+    }
+    return false;
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -157,6 +253,8 @@ class _ProfileScreenState extends State<ProfileScreen> {
                 _buildHeader(context),
                 _buildProfileInfo(),
                 const SizedBox(height: 50),
+                _buildImageRow(),
+                const SizedBox(height: 24),
                 _buildListItems(context),
                 const SizedBox(height: 40),
               ],
@@ -251,6 +349,47 @@ class _ProfileScreenState extends State<ProfileScreen> {
                 ),
               ),
             ],
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildImageRow() {
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 20),
+      child: Row(
+        children: [
+          Expanded(
+            child: GestureDetector(
+              onTap: () {
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const NoyooVipScreen(),
+                  ),
+                );
+              },
+              child: Image.asset(
+                'assets/noyoo_me_vip.webp',
+                fit: BoxFit.contain,
+              ),
+            ),
+          ),
+          const SizedBox(width: 16),
+          Expanded(
+            child: GestureDetector(
+              onTap: () {
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const WalletScreen(),
+                  ),
+                );
+              },
+              child: Image.asset(
+                'assets/noyoo_me_wallet.webp',
+                fit: BoxFit.contain,
+              ),
+            ),
           ),
         ],
       ),

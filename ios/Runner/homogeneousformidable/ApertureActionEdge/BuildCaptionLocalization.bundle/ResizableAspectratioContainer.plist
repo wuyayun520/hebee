@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardWidgetFormat</key>
+	<string>materialAgainstObserver</string>
+	<key>customControllerDuration</key>
+	<string>normalDurationRight</string>
+	<key>cycleInsideContext</key>
+	<string>accessibleFrameMargin</string>
+	<key>integerAwayType</key>
+	<string>granularGesturedetectorFlags</string>
+	<key>listenerAgainstFacade</key>
+	<string>durationParameterHue</string>
+</dict>
+</plist>

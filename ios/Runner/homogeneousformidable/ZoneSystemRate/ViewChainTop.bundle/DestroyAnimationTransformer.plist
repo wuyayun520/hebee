@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocExceptTask</key>
+	<string>missedMissionOrigin</string>
+	<key>matrixBeyondStage</key>
+	<string>finalParticleKind</string>
+	<key>rectTaskRotation</key>
+	<string>permissiveScrollVisibility</string>
+</dict>
+</plist>

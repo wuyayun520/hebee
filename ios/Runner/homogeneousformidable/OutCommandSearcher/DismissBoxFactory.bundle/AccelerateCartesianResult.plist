@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerVarRotation</key>
+	<string>modelFlyweightBehavior</string>
+	<key>dependencyWithoutValue</key>
+	<string>parallelIntensityRate</string>
+	<key>eventDuringTier</key>
+	<string>animatedGraphMode</string>
+	<key>missionDecoratorCenter</key>
+	<string>referenceVisitorSkewy</string>
+	<key>publicAnimatedcontainerDuration</key>
+	<string>unactivatedViewDuration</string>
+	<key>stateMediatorBorder</key>
+	<string>decorationSingletonOpacity</string>
+</dict>
+</plist>

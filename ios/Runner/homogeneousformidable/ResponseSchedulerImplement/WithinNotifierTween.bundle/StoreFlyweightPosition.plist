@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemUntilBridge</key>
+	<string>webGestureBorder</string>
+	<key>logarithmAtCycle</key>
+	<string>tableParamDuration</string>
+	<key>overlayTaskCoord</key>
+	<string>positionedMethodType</string>
+	<key>pivotalAsyncSaturation</key>
+	<string>displayableTransitionCount</string>
+	<key>priorityContextState</key>
+	<string>completerPlatformCount</string>
+	<key>temporaryBoxInteraction</key>
+	<string>reducerCycleMode</string>
+	<key>textfieldPrototypeTail</key>
+	<string>immediateConstraintFeedback</string>
+</dict>
+</plist>

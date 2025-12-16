@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoInjectionOffset</key>
+	<string>configurationStyleTheme</string>
+	<key>imageSystemCoord</key>
+	<string>cupertinoDescriptionMargin</string>
+	<key>routeVersusActivity</key>
+	<string>persistentOffsetFeedback</string>
+	<key>sizeTypeBehavior</key>
+	<string>timerLayerResponse</string>
+	<key>tappableCompletionOrientation</key>
+	<string>equipmentOfInterpreter</string>
+</dict>
+</plist>

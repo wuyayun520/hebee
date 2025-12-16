@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartPerParameter</key>
+	<string>resourceLikeParameter</string>
+	<key>consumerPerVariable</key>
+	<string>sineTierState</string>
+	<key>curveBesideStrategy</key>
+	<string>sessionParamOrigin</string>
+	<key>delegateStrategyTop</key>
+	<string>extensionPlatformSaturation</string>
+	<key>entityPlatformOrigin</key>
+	<string>stackTypeMode</string>
+	<key>metadataStateInset</key>
+	<string>accessibleMomentumDepth</string>
+	<key>observerSingletonMode</key>
+	<string>pivotalSpotFrequency</string>
+	<key>particleContextValidation</key>
+	<string>oldResourceBehavior</string>
+	<key>respectiveSliderFeedback</key>
+	<string>expandedOfDecorator</string>
+</dict>
+</plist>

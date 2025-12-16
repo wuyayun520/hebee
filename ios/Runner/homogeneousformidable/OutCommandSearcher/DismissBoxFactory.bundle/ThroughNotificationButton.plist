@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDependencyTheme</key>
+	<string>relationalCheckboxSpacing</string>
+	<key>controllerCompositeSize</key>
+	<string>inheritedLabelSize</string>
+	<key>cubeFunctionFlags</key>
+	<string>protocolOrSingleton</string>
+	<key>inactiveCursorMargin</key>
+	<string>awaitAlongStyle</string>
+	<key>layoutParameterTension</key>
+	<string>widgetCompositePressure</string>
+	<key>mainUtilDensity</key>
+	<string>publicAxisBound</string>
+	<key>routerIncludeTask</key>
+	<string>cubitProcessFlags</string>
+	<key>textInType</key>
+	<string>semanticsDuringContext</string>
+</dict>
+</plist>

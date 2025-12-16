@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAroundProcess</key>
+	<string>consumerKindScale</string>
+	<key>errorLikePrototype</key>
+	<string>concurrentProviderCoord</string>
+	<key>explicitMatrixIndex</key>
+	<string>layoutOfVariable</string>
+	<key>resolverLayerMargin</key>
+	<string>mobxSingletonDirection</string>
+	<key>transitionFromVariable</key>
+	<string>canvasAmongMemento</string>
+</dict>
+</plist>

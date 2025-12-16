@@ -7,8 +7,12 @@ import '../services/user_service.dart';
 import '../services/like_service.dart';
 import '../services/block_service.dart';
 import '../services/ai_music_service.dart';
+import '../services/user_unlock_service.dart';
+import '../services/vip_status_service.dart';
 import 'create_ai_music_screen.dart';
 import 'user_detail_screen.dart';
+import 'noyoo_wallet_screen.dart';
+import 'noyoo_vip_screen.dart';
 
 class HomeContentScreen extends StatefulWidget {
   const HomeContentScreen({super.key});
@@ -27,6 +31,7 @@ class _HomeContentScreenState extends State<HomeContentScreen> {
   Map<String, bool> _likedMap = {}; // postId -> isLiked
   Map<String, int> _aiLikesMap = {}; // aiMusicId -> likes
   Map<String, bool> _aiLikedMap = {}; // aiMusicId -> isLiked
+  Map<String, bool> _unlockedMap = {}; // userId -> isUnlocked
   
   // 音频播放相关
   AudioPlayer? _audioPlayer;
@@ -73,11 +78,16 @@ class _HomeContentScreenState extends State<HomeContentScreen> {
       // 过滤掉被拉黑的用户
       final filteredUsers = users.where((user) => !blockedUsers.contains(user.id)).toList();
       
-      // 加载点赞状态
+      // 加载点赞状态和解锁状态
       final likesMap = <String, int>{};
       final likedMap = <String, bool>{};
+      final unlockedMap = <String, bool>{};
       
       for (final user in filteredUsers) {
+        // 检查解锁状态
+        final isUnlocked = await UserUnlockService.isUserUnlocked(user.id);
+        unlockedMap[user.id] = isUnlocked;
+        
         if (user.posts.isNotEmpty) {
           final post = user.posts[0];
           final savedLikes = await LikeService.getLikes(post.postId, post.likes);
@@ -98,6 +108,7 @@ class _HomeContentScreenState extends State<HomeContentScreen> {
         _users = filteredUsers;
         _likesMap = likesMap;
         _likedMap = likedMap;
+        _unlockedMap = unlockedMap;
         _isLoading = false;
       });
     } catch (e) {
@@ -132,14 +143,128 @@ class _HomeContentScreenState extends State<HomeContentScreen> {
           ),
           GestureDetector(
             onTap: () async {
-              await Navigator.of(context).push(
-                MaterialPageRoute(
-                  builder: (context) => const CreateAIMusicScreen(),
-                ),
-              );
-              // 返回时刷新 AI 音乐列表
-              if (_selectedTab == 1) {
-                _loadAIMusics();
+              // 检查最新 VIP 状态
+              final isVip = await VipStatusService.isVip();
+              if (isVip) {
+                await Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const CreateAIMusicScreen(),
+                  ),
+                );
+                // 返回时刷新 AI 音乐列表
+                if (_selectedTab == 1) {
+                  _loadAIMusics();
+                }
+              } else {
+                final shouldSubscribe = await showDialog<bool>(
+                  context: context,
+                  builder: (context) => AlertDialog(
+                    backgroundColor: Colors.grey[900],
+                    title: const Text(
+                      'VIP Required',
+                      style: TextStyle(color: Colors.white),
+                    ),
+                    content: Column(
+                      mainAxisSize: MainAxisSize.min,
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        const Text(
+                          'Create AI Music requires VIP. Would you like to subscribe now?',
+                          style: TextStyle(color: Colors.white70),
+                        ),
+                        const SizedBox(height: 16),
+                        Container(
+                          padding: const EdgeInsets.all(12),
+                          decoration: BoxDecoration(
+                            color: Colors.grey[800]?.withOpacity(0.5),
+                            borderRadius: BorderRadius.circular(8),
+                            border: Border.all(
+                              color: Colors.pink.withOpacity(0.3),
+                              width: 1,
+                            ),
+                          ),
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Row(
+                                children: [
+                                  const Text(
+                                    'Weekly Plan: ',
+                                    style: TextStyle(
+                                      color: Colors.white70,
+                                      fontSize: 13,
+                                    ),
+                                  ),
+                                  Text(
+                                    '\$12.99/week',
+                                    style: TextStyle(
+                                      color: Colors.pink,
+                                      fontSize: 13,
+                                      fontWeight: FontWeight.bold,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                              const SizedBox(height: 8),
+                              Row(
+                                children: [
+                                  
+                                  Flexible(
+                                    child: RichText(
+                                      overflow: TextOverflow.ellipsis,
+                                      text: TextSpan(
+                                        style: const TextStyle(
+                                          color: Colors.white70,
+                                          fontSize: 13,
+                                        ),
+                                        children: [
+                                          const TextSpan(
+                                            text: 'Monthly Plan: ',
+                                          ),
+                                          TextSpan(
+                                            text: '\$49.99/month',
+                                            style: TextStyle(
+                                              color: Colors.pink,
+                                              fontWeight: FontWeight.bold,
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ],
+                          ),
+                        ),
+                      ],
+                    ),
+                    actions: [
+                      TextButton(
+                        onPressed: () => Navigator.of(context).pop(false),
+                        child: const Text(
+                          'Cancel',
+                          style: TextStyle(color: Colors.grey),
+                        ),
+                      ),
+                      TextButton(
+                        onPressed: () => Navigator.of(context).pop(true),
+                        child: const Text(
+                          'Subscribe',
+                          style: TextStyle(color: Colors.pink),
+                        ),
+                      ),
+                    ],
+                  ),
+                );
+
+                if (shouldSubscribe == true) {
+                  await Navigator.of(context).push(
+                    MaterialPageRoute(
+                      builder: (context) => const NoyooVipScreen(),
+                    ),
+                  );
+                }
               }
             },
             child: Padding(
@@ -252,16 +377,88 @@ class _HomeContentScreenState extends State<HomeContentScreen> {
     final defaultLikes = post?.likes ?? user.likes;
     final likes = _likesMap[postId] ?? defaultLikes;
     final isLiked = _likedMap[postId] ?? false;
+    final isUnlocked = _unlockedMap[user.id] ?? false;
 
     return GestureDetector(
       onTap: () async {
-        await Navigator.of(context).push(
-          MaterialPageRoute(
-            builder: (context) => UserDetailScreen(user: user),
-          ),
-        );
-        // 返回时刷新用户列表（可能用户被拉黑了）
-        _loadUsers();
+        // 检查用户是否已解锁
+        final isUnlocked = await UserUnlockService.isUserUnlocked(user.id);
+        
+        if (isUnlocked) {
+          // 已解锁，直接跳转
+          await Navigator.of(context).push(
+            MaterialPageRoute(
+              builder: (context) => UserDetailScreen(user: user),
+            ),
+          );
+          // 返回时刷新用户列表（可能用户被拉黑了）
+          _loadUsers();
+        } else {
+          // 未解锁，检查金币
+          final currentCoins = await UserUnlockService.getCoins();
+          final unlockCost = UserUnlockService.unlockCost;
+          
+          if (currentCoins >= unlockCost) {
+            // 金币足够，扣除并解锁
+            final success = await UserUnlockService.deductCoins(unlockCost);
+            if (success) {
+              await UserUnlockService.unlockUser(user.id);
+              // 更新解锁状态
+              setState(() {
+                _unlockedMap[user.id] = true;
+              });
+              // 解锁成功，跳转到详情页
+              await Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (context) => UserDetailScreen(user: user),
+                ),
+              );
+              // 返回时刷新用户列表
+              _loadUsers();
+            }
+          } else {
+            // 金币不足，显示确认弹窗
+            final shouldRecharge = await showDialog<bool>(
+              context: context,
+              builder: (context) => AlertDialog(
+                backgroundColor: Colors.grey[900],
+                title: const Text(
+                  'Insufficient Coins',
+                  style: TextStyle(color: Colors.white),
+                ),
+                content: Text(
+                  'You need $unlockCost coins to unlock this user. You currently have $currentCoins coins. Would you like to recharge?',
+                  style: const TextStyle(color: Colors.white70),
+                ),
+                actions: [
+                  TextButton(
+                    onPressed: () => Navigator.of(context).pop(false),
+                    child: const Text(
+                      'Cancel',
+                      style: TextStyle(color: Colors.grey),
+                    ),
+                  ),
+                  TextButton(
+                    onPressed: () => Navigator.of(context).pop(true),
+                    child: const Text(
+                      'Recharge',
+                      style: TextStyle(color: Colors.pink),
+                    ),
+                  ),
+                ],
+              ),
+            );
+            
+            if (shouldRecharge == true) {
+              // 跳转到钱包页面
+              await Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (context) => const WalletScreen(),
+                ),
+              );
+            }
+          }
+        }
       },
       child: Container(
         decoration: BoxDecoration(
@@ -301,32 +498,51 @@ class _HomeContentScreenState extends State<HomeContentScreen> {
           Positioned(
             top: 8,
             left: 8,
-            child: GestureDetector(
-              onTap: () async {
-                final result = await LikeService.toggleLike(postId, likes);
-                setState(() {
-                  _likesMap[postId] = result['likes'] as int;
-                  _likedMap[postId] = result['isLiked'] as bool;
-                });
-              },
-              child: Row(
-                children: [
-                  Icon(
-                    isLiked ? Icons.favorite : Icons.favorite_border,
-                    color: isLiked ? Colors.pink : Colors.white,
-                    size: 24,
+            child: Row(
+              children: [
+                // 锁/解锁图标
+                Container(
+                  padding: const EdgeInsets.all(4),
+                  decoration: BoxDecoration(
+                    color: Colors.black.withOpacity(0.5),
+                    borderRadius: BorderRadius.circular(6),
                   ),
-                  const SizedBox(width: 4),
-                  Text(
-                    _formatLikes(likes),
-                    style: const TextStyle(
-                      color: Colors.white,
-                      fontSize: 14,
-                      fontWeight: FontWeight.bold,
-                    ),
+                  child: Icon(
+                    isUnlocked ? Icons.lock_open : Icons.lock,
+                    color: isUnlocked ? Colors.green : Colors.orange,
+                    size: 18,
                   ),
-                ],
-              ),
+                ),
+                const SizedBox(width: 8),
+                // 点赞按钮
+                GestureDetector(
+                  onTap: () async {
+                    final result = await LikeService.toggleLike(postId, likes);
+                    setState(() {
+                      _likesMap[postId] = result['likes'] as int;
+                      _likedMap[postId] = result['isLiked'] as bool;
+                    });
+                  },
+                  child: Row(
+                    children: [
+                      Icon(
+                        isLiked ? Icons.favorite : Icons.favorite_border,
+                        color: isLiked ? Colors.pink : Colors.white,
+                        size: 24,
+                      ),
+                      const SizedBox(width: 4),
+                      Text(
+                        _formatLikes(likes),
+                        style: const TextStyle(
+                          color: Colors.white,
+                          fontSize: 14,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
             ),
           ),
          

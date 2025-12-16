@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainObserver</key>
+	<string>localizationPlatformCenter</string>
+	<key>channelPerTier</key>
+	<string>ephemeralMapSkewx</string>
+	<key>completerInEnvironment</key>
+	<string>ternaryCompositeFrequency</string>
+	<key>entityVisitorSpeed</key>
+	<string>baseOfCycle</string>
+	<key>giftValueStyle</key>
+	<string>framePerMemento</string>
+	<key>uniformStackBrightness</key>
+	<string>pointChainValidation</string>
+</dict>
+</plist>

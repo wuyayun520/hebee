@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushWithBridge</key>
+	<string>dedicatedBatchBound</string>
+	<key>captionEnvironmentOrientation</key>
+	<string>queryFrameworkRotation</string>
+	<key>clipperProcessForce</key>
+	<string>staticSessionHue</string>
+	<key>invisibleLabelEdge</key>
+	<string>managerBridgeFlags</string>
+	<key>isolateContextName</key>
+	<string>hyperbolicSignIndex</string>
+	<key>normAsMode</key>
+	<string>primaryOperationFrequency</string>
+	<key>stampAmongInterpreter</key>
+	<string>requestCompositeBrightness</string>
+	<key>subtleResourceType</key>
+	<string>layoutVarAcceleration</string>
+	<key>temporaryZoneSize</key>
+	<string>reducerNearEnvironment</string>
+	<key>viewFromVar</key>
+	<string>interfaceStateBehavior</string>
+</dict>
+</plist>

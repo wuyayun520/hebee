@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleStateSize</key>
+	<string>constraintNumberOpacity</string>
+	<key>imperativeMovementDepth</key>
+	<string>vectorCompositeInteraction</string>
+	<key>stampWithSingleton</key>
+	<string>vectorFlyweightSaturation</string>
+	<key>swiftTypeForce</key>
+	<string>normalSubpixelAcceleration</string>
+</dict>
+</plist>

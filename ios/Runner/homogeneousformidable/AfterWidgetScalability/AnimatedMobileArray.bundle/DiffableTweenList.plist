@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTabviewStyle</key>
+	<string>cycleWithoutType</string>
+	<key>bufferValuePadding</key>
+	<string>cycleFormLeft</string>
+	<key>prismaticServiceVelocity</key>
+	<string>usedChecklistCount</string>
+	<key>radiusBufferVelocity</key>
+	<string>injectionByVar</string>
+	<key>tweenStrategyIndex</key>
+	<string>referenceBesideStyle</string>
+</dict>
+</plist>

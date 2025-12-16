@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAlongPrototype</key>
+	<string>otherMapBorder</string>
+	<key>cycleLikeLevel</key>
+	<string>sortedTopicDensity</string>
+	<key>hardBufferValidation</key>
+	<string>observerPerTask</string>
+	<key>histogramAtContext</key>
+	<string>tableVersusSystem</string>
+	<key>isolatePatternType</key>
+	<string>durationInsideMediator</string>
+	<key>symmetricAppbarPressure</key>
+	<string>isolateOfComposite</string>
+	<key>synchronousResolverRight</key>
+	<string>futureShapeBehavior</string>
+</dict>
+</plist>

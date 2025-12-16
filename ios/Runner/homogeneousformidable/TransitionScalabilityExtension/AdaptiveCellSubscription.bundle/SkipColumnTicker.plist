@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAppbarInset</key>
+	<string>interfaceAmongAction</string>
+	<key>callbackOrComposite</key>
+	<string>sensorWithoutAction</string>
+	<key>denseOverlayBottom</key>
+	<string>zoneBufferSpeed</string>
+	<key>storyboardStyleForce</key>
+	<string>handlerTaskColor</string>
+	<key>synchronousChannelsRate</key>
+	<string>projectFromShape</string>
+</dict>
+</plist>

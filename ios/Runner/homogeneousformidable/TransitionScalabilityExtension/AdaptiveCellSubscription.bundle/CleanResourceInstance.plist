@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionColumnValidation</key>
+	<string>baseAgainstProxy</string>
+	<key>actionStateOffset</key>
+	<string>compositionContextFeedback</string>
+	<key>builderWorkCenter</key>
+	<string>iterativeFrameAppearance</string>
+	<key>controllerAboutStructure</key>
+	<string>statefulHeapDuration</string>
+	<key>decorationDecoratorBehavior</key>
+	<string>unsortedStoreMargin</string>
+	<key>mobileThreadLeft</key>
+	<string>futureCompositeTop</string>
+	<key>secondAspectInteraction</key>
+	<string>fragmentValueLocation</string>
+	<key>sortedMenuDuration</key>
+	<string>segmentBesideMemento</string>
+</dict>
+</plist>

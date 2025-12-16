@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOperationRotation</key>
+	<string>reducerJobStyle</string>
+	<key>gesturedetectorAlongActivity</key>
+	<string>serviceUntilOperation</string>
+	<key>materialCompleterShade</key>
+	<string>missedBlocFlags</string>
+	<key>threadVariableMode</key>
+	<string>builderNearDecorator</string>
+	<key>unsortedCosineFrequency</key>
+	<string>promiseLevelCenter</string>
+</dict>
+</plist>

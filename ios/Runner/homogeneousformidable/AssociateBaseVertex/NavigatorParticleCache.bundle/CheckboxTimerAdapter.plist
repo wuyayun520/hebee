@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicQueryCenter</key>
+	<string>bufferFunctionHue</string>
+	<key>movementMediatorFeedback</key>
+	<string>observerChainBound</string>
+	<key>oldMonsterType</key>
+	<string>hardCallbackTag</string>
+	<key>projectFacadeOrientation</key>
+	<string>statePerSystem</string>
+</dict>
+</plist>

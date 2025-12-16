@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertCycleSpeed</key>
+	<string>entityScopeDelay</string>
+	<key>backwardCommandMomentum</key>
+	<string>desktopTitleName</string>
+	<key>collectionStructureVisible</key>
+	<string>grayscaleTaskAlignment</string>
+	<key>constCatalystRate</key>
+	<string>publicInterpolationMomentum</string>
+	<key>frameSingletonDelay</key>
+	<string>sophisticatedResponseTag</string>
+	<key>interactorStructureOrigin</key>
+	<string>pivotalChapterDepth</string>
+	<key>mediocreMethodRotation</key>
+	<string>similarPresenterMargin</string>
+	<key>responseVarOrientation</key>
+	<string>descriptorAtScope</string>
+	<key>rowAdapterSkewy</key>
+	<string>chapterFlyweightFormat</string>
+	<key>specifierFacadeBrightness</key>
+	<string>durationLevelOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGestureSkewx</key>
+	<string>beginnerAllocatorRight</string>
+	<key>customizedQueryRate</key>
+	<string>queryStateTint</string>
+	<key>indicatorChainVisible</key>
+	<string>entropyOrSingleton</string>
+	<key>spriteExceptAction</key>
+	<string>directCheckboxVisibility</string>
+	<key>typicalAspectTheme</key>
+	<string>mobileSingletonVelocity</string>
+	<key>variantBridgeFrequency</key>
+	<string>channelInChain</string>
+</dict>
+</plist>

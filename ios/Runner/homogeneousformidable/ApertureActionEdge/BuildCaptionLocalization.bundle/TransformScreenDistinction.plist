@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTickerTint</key>
+	<string>primaryLoopEdge</string>
+	<key>constraintFlyweightBehavior</key>
+	<string>interactorValueShade</string>
+	<key>inheritedDimensionBrightness</key>
+	<string>switchFromAction</string>
+	<key>observerPhaseMode</key>
+	<string>storageVarEdge</string>
+	<key>positionedVersusCycle</key>
+	<string>intensityPerVar</string>
+	<key>routeAndSingleton</key>
+	<string>unsortedCanvasRate</string>
+	<key>statefulCompositeType</key>
+	<string>statefulInterfaceSkewx</string>
+	<key>statefulProcessLocation</key>
+	<string>draggableRouteSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitMethodMode</key>
+	<string>delegateDecoratorFlags</string>
+	<key>builderAsStrategy</key>
+	<string>sessionPerComposite</string>
+	<key>presenterExceptInterpreter</key>
+	<string>sortedPopupIndex</string>
+	<key>prevBatchTheme</key>
+	<string>utilOutsideParameter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeCurveSkewx</key>
+	<string>secondVectorColor</string>
+	<key>curveSystemPressure</key>
+	<string>routePerEnvironment</string>
+	<key>firstBehaviorBrightness</key>
+	<string>zoneUntilPhase</string>
+	<key>singletonAtState</key>
+	<string>reusableRequestHue</string>
+	<key>staticReducerOpacity</key>
+	<string>menuAmongLevel</string>
+	<key>texturePerSingleton</key>
+	<string>beginnerInkwellBrightness</string>
+	<key>transitionPrototypeDelay</key>
+	<string>compositionalSwiftOrientation</string>
+</dict>
+</plist>

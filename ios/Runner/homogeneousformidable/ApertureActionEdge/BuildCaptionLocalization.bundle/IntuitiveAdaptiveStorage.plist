@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureOutsideOperation</key>
+	<string>numericalZoneMargin</string>
+	<key>interactorProcessShade</key>
+	<string>globalEffectOrigin</string>
+	<key>mapMethodIndex</key>
+	<string>visibleCurveEdge</string>
+	<key>similarBehaviorVelocity</key>
+	<string>getxFormContrast</string>
+	<key>singletonTempleDelay</key>
+	<string>chapterBySingleton</string>
+</dict>
+</plist>

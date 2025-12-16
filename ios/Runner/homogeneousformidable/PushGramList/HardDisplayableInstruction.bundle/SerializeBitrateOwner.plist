@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertCommandTransparency</key>
+	<string>responseLevelInteraction</string>
+	<key>animationForInterpreter</key>
+	<string>secondAspectFeedback</string>
+	<key>coordinatorBufferHead</key>
+	<string>cupertinoWidgetScale</string>
+	<key>easyNavigatorInterval</key>
+	<string>taskFromMediator</string>
+	<key>interpolationWithVisitor</key>
+	<string>groupFlyweightColor</string>
+	<key>prismaticKernelOpacity</key>
+	<string>characterStructureBound</string>
+	<key>responseViaVisitor</key>
+	<string>capacitiesWithoutPrototype</string>
+	<key>roleBesideMediator</key>
+	<string>draggableDialogsOpacity</string>
+	<key>specifierAndMethod</key>
+	<string>interpolationAroundStructure</string>
+	<key>storeOfTask</key>
+	<string>uniqueLayoutTint</string>
+</dict>
+</plist>

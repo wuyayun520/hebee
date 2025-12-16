@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTopicTint</key>
+	<string>equipmentByObserver</string>
+	<key>constraintIncludeTemple</key>
+	<string>localAxisValidation</string>
+	<key>coordinatorParameterContrast</key>
+	<string>progressbarNearShape</string>
+	<key>inactiveIndicatorSaturation</key>
+	<string>normalResponseStatus</string>
+	<key>largeRowStyle</key>
+	<string>graphSystemShape</string>
+	<key>mediaqueryBufferStyle</key>
+	<string>smallGrayscaleState</string>
+	<key>multiplicationBridgeRotation</key>
+	<string>priorityAgainstAction</string>
+	<key>sliderIncludeAdapter</key>
+	<string>storageThanFramework</string>
+	<key>unaryExceptObserver</key>
+	<string>paddingStrategyDuration</string>
+</dict>
+</plist>

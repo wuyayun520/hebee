@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPopupFrequency</key>
+	<string>labelUntilState</string>
+	<key>chapterDuringValue</key>
+	<string>workflowByLayer</string>
+	<key>granularLabelDuration</key>
+	<string>aspectratioIncludeStructure</string>
+	<key>mainControllerSpeed</key>
+	<string>activatedInteractorOrigin</string>
+	<key>modulusAndBuffer</key>
+	<string>geometricTaskState</string>
+	<key>usecaseUntilParam</key>
+	<string>relationalResultValidation</string>
+</dict>
+</plist>

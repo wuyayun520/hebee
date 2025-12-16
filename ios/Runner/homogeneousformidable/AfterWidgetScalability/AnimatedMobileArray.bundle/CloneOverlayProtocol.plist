@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDropdownbuttonKind</key>
+	<string>inactiveCacheDuration</string>
+	<key>currentUtilDuration</key>
+	<string>accessibleHeroDistance</string>
+	<key>dimensionPerProxy</key>
+	<string>cartesianRouteCoord</string>
+	<key>discardedConsumerOpacity</key>
+	<string>actionProcessState</string>
+	<key>exceptionStrategyFeedback</key>
+	<string>smartSwiftRate</string>
+	<key>iconParamBottom</key>
+	<string>musicPrototypeDensity</string>
+	<key>tappableDecorationShade</key>
+	<string>declarativeCosineHue</string>
+	<key>transitionVariableTransparency</key>
+	<string>directAsyncMode</string>
+</dict>
+</plist>

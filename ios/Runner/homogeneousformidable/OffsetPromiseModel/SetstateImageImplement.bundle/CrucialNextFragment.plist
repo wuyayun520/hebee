@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientVarValidation</key>
+	<string>precisionBeyondFacade</string>
+	<key>groupFromType</key>
+	<string>fusedUsageType</string>
+	<key>heapPerProxy</key>
+	<string>iterativeBaselineSaturation</string>
+	<key>mutableTableTension</key>
+	<string>primaryCoordinatorSpeed</string>
+	<key>unsortedTernaryDuration</key>
+	<string>hashFromBuffer</string>
+</dict>
+</plist>

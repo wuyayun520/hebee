@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletDecoratorStyle</key>
+	<string>nextDrawerVisible</string>
+	<key>compositionalAnimatedcontainerFeedback</key>
+	<string>buttonStyleOffset</string>
+	<key>disparateTextInteraction</key>
+	<string>grainObserverLeft</string>
+	<key>easyRepositoryAlignment</key>
+	<string>gesturedetectorContainKind</string>
+	<key>isolateVersusMemento</key>
+	<string>gateBufferHead</string>
+	<key>materialCommandName</key>
+	<string>nativeEffectTop</string>
+	<key>scaleJobMomentum</key>
+	<string>queryPatternBound</string>
+</dict>
+</plist>

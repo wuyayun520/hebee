@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaFacadeState</key>
+	<string>asyncInterpreterVisible</string>
+	<key>buttonLayerKind</key>
+	<string>boxshadowValueStyle</string>
+	<key>decorationFlyweightFormat</key>
+	<string>tabbarActivityVisibility</string>
+	<key>grayscaleWithProcess</key>
+	<string>beginnerStoreState</string>
+	<key>promiseDespiteLayer</key>
+	<string>widgetDuringTask</string>
+</dict>
+</plist>

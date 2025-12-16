@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBuilderBehavior</key>
+	<string>invisibleMenuDirection</string>
+	<key>binaryWithFunction</key>
+	<string>actionSingletonName</string>
+	<key>channelAdapterCenter</key>
+	<string>positionUntilAdapter</string>
+	<key>geometricWorkflowEdge</key>
+	<string>mobileVisitorResponse</string>
+</dict>
+</plist>

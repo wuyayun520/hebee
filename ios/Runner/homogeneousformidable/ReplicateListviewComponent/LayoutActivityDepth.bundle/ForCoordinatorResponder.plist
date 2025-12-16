@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPlatformFeedback</key>
+	<string>adaptiveConstraintMargin</string>
+	<key>constraintAsContext</key>
+	<string>movementDespiteMethod</string>
+	<key>delicateSliderType</key>
+	<string>sensorMethodState</string>
+	<key>isolateContainCommand</key>
+	<string>nativeOptionLeft</string>
+	<key>titleNumberType</key>
+	<string>scrollContextName</string>
+	<key>utilActionInteraction</key>
+	<string>sustainableStatelessDensity</string>
+</dict>
+</plist>

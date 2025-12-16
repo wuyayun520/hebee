@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDuringTask</key>
+	<string>apertureJobTint</string>
+	<key>grainContainChain</key>
+	<string>timerUntilMediator</string>
+	<key>listviewBySystem</key>
+	<string>mediaSystemBehavior</string>
+	<key>popupWithoutSingleton</key>
+	<string>equalizationOfPhase</string>
+	<key>positionLayerFeedback</key>
+	<string>routeAlongDecorator</string>
+	<key>scrollableCupertinoDepth</key>
+	<string>labelAtParam</string>
+	<key>sortedGridviewSpacing</key>
+	<string>histogramForProcess</string>
+	<key>stepStructureFrequency</key>
+	<string>asynchronousConstraintTint</string>
+	<key>tickerValueTheme</key>
+	<string>permanentToolSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleQueryMargin</key>
+	<string>projectValueHead</string>
+	<key>aspectExceptContext</key>
+	<string>alignmentAwayAction</string>
+	<key>deferredEffectPosition</key>
+	<string>drawerInPattern</string>
+	<key>resolverModeEdge</key>
+	<string>inheritedRolePressure</string>
+	<key>serviceSincePattern</key>
+	<string>sensorVarOrientation</string>
+	<key>uniqueModulusSkewx</key>
+	<string>titleShapeDelay</string>
+	<key>widgetScopeInteraction</key>
+	<string>gateLevelAlignment</string>
+</dict>
+</plist>

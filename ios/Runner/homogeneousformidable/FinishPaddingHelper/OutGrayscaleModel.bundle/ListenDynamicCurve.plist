@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAwayProcess</key>
+	<string>navigatorContainPhase</string>
+	<key>curveContainParam</key>
+	<string>retainedDurationPadding</string>
+	<key>frameStageVisibility</key>
+	<string>publicLayoutStatus</string>
+	<key>labelAboutPlatform</key>
+	<string>taskSingletonSpacing</string>
+	<key>precisionScopeRate</key>
+	<string>labelInMode</string>
+	<key>queueStateDistance</key>
+	<string>gridContainLevel</string>
+	<key>radiusForForm</key>
+	<string>scrollableUsageSpacing</string>
+	<key>robustNavigationShape</key>
+	<string>sizeFromStyle</string>
+	<key>webSwiftInteraction</key>
+	<string>flexibleSubpixelOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentCycleSkewx</key>
+	<string>tickerThroughCycle</string>
+	<key>eventParameterAppearance</key>
+	<string>nativeAppbarStatus</string>
+	<key>mapStrategyVisible</key>
+	<string>behaviorByLayer</string>
+	<key>permissiveViewDirection</key>
+	<string>reactiveStorageOrigin</string>
+	<key>promiseNumberSize</key>
+	<string>dynamicRouteFrequency</string>
+	<key>roleBridgeMode</key>
+	<string>isolateByForm</string>
+	<key>routerAdapterMargin</key>
+	<string>sliderInsideSingleton</string>
+	<key>transitionTaskTop</key>
+	<string>consultativeRadioMode</string>
+</dict>
+</plist>

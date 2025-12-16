@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNibBorder</key>
+	<string>activatedEventValidation</string>
+	<key>catalystLevelTint</key>
+	<string>interactorThroughVariable</string>
+	<key>controllerFromValue</key>
+	<string>groupCompositeType</string>
+	<key>cursorOperationAlignment</key>
+	<string>canvasStageVelocity</string>
+	<key>enabledConfigurationDensity</key>
+	<string>retainedNavigationBehavior</string>
+	<key>exceptionDuringTier</key>
+	<string>requestStyleOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramVarInterval</key>
+	<string>staticMethodFeedback</string>
+	<key>providerDespiteSingleton</key>
+	<string>particleJobSpeed</string>
+	<key>requestVersusPattern</key>
+	<string>transformerFacadeStatus</string>
+</dict>
+</plist>

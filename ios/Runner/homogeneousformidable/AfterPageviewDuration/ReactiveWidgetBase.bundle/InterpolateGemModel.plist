@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerWithAction</key>
+	<string>curveVisitorInteraction</string>
+	<key>kernelFromChain</key>
+	<string>viewProxyScale</string>
+	<key>offsetProxyPressure</key>
+	<string>behaviorBridgeSpeed</string>
+	<key>reactiveObserverDistance</key>
+	<string>clipperPerOperation</string>
+	<key>routerStageSkewx</key>
+	<string>respectiveInterfaceBound</string>
+	<key>spineFromVariable</key>
+	<string>scaleStrategyBottom</string>
+	<key>threadLikeContext</key>
+	<string>interactorTaskType</string>
+</dict>
+</plist>

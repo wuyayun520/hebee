@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncHandlerDepth</key>
+	<string>callbackNumberForce</string>
+	<key>groupStyleDirection</key>
+	<string>particleByStage</string>
+	<key>intensityIncludeMethod</key>
+	<string>themeFromState</string>
+	<key>modalNumberStatus</key>
+	<string>bufferPhaseBrightness</string>
+	<key>newestGraphicTag</key>
+	<string>completerAndPrototype</string>
+	<key>synchronousObserverLeft</key>
+	<string>composableGrainDuration</string>
+	<key>tweenOperationEdge</key>
+	<string>substantialBufferStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBlocTint</key>
+	<string>monsterDuringState</string>
+	<key>completerWorkBehavior</key>
+	<string>equipmentPlatformInterval</string>
+	<key>cubeShapeAppearance</key>
+	<string>boxshadowNearPrototype</string>
+	<key>expandedLikeObserver</key>
+	<string>skinBeyondCommand</string>
+	<key>grainTaskPadding</key>
+	<string>backwardThemeInteraction</string>
+	<key>lostResultVelocity</key>
+	<string>vectorActivityFrequency</string>
+	<key>opaqueRequestAlignment</key>
+	<string>localizationFromBridge</string>
+	<key>zoneAdapterKind</key>
+	<string>sharedOperationSize</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionOutsideChain</key>
+	<string>reductionViaFlyweight</string>
+	<key>imperativeGestureEdge</key>
+	<string>semanticDelegateMode</string>
+	<key>isolateOperationEdge</key>
+	<string>popupJobDelay</string>
+	<key>subpixelSystemDuration</key>
+	<string>threadAlongState</string>
+</dict>
+</plist>

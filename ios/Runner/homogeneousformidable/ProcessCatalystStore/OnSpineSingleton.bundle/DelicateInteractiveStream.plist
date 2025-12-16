@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackViaStage</key>
+	<string>accessibleBatchBehavior</string>
+	<key>cycleAsBridge</key>
+	<string>previewWorkSpeed</string>
+	<key>exceptionFrameworkCenter</key>
+	<string>liteOffsetOrigin</string>
+	<key>gradientStructureShade</key>
+	<string>dimensionParameterSkewy</string>
+	<key>reactiveDescriptionSkewy</key>
+	<string>indicatorViaBuffer</string>
+	<key>resolverCycleShape</key>
+	<string>arithmeticDescriptionHead</string>
+	<key>specifierSystemPosition</key>
+	<string>petFrameworkAlignment</string>
+	<key>titleMementoDirection</key>
+	<string>requestInterpreterColor</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStyleDensity</key>
+	<string>delegateFunctionTail</string>
+	<key>cacheWithoutLayer</key>
+	<string>routeVersusObserver</string>
+	<key>declarativeLoopColor</key>
+	<string>scaleParamLeft</string>
+	<key>flexibleContainerFormat</key>
+	<string>ephemeralResourceTint</string>
+	<key>relationalSinkIndex</key>
+	<string>sineVersusContext</string>
+	<key>tappableConfigurationOrigin</key>
+	<string>layoutVersusAction</string>
+	<key>utilCompositeVisibility</key>
+	<string>smallNotifierVisibility</string>
+</dict>
+</plist>

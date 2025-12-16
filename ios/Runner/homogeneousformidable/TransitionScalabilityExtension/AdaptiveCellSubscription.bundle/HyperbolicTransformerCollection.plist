@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateResponseCenter</key>
+	<string>responseTierInset</string>
+	<key>layoutForComposite</key>
+	<string>tensorManagerOrigin</string>
+	<key>managerScopeBrightness</key>
+	<string>expandedForAdapter</string>
+	<key>painterStyleFlags</key>
+	<string>bufferViaPattern</string>
+	<key>reactiveIntensityResponse</key>
+	<string>tweenAtType</string>
+	<key>streamAgainstShape</key>
+	<string>activityModeBorder</string>
+	<key>topicActionLeft</key>
+	<string>arithmeticVarTag</string>
+</dict>
+</plist>

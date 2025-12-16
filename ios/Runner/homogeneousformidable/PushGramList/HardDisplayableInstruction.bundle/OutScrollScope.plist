@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentAdapterRight</key>
+	<string>subscriptionPerMediator</string>
+	<key>pinchableLayoutVelocity</key>
+	<string>storageOutsideObserver</string>
+	<key>respectiveGraphicOrientation</key>
+	<string>autoRadioHue</string>
+</dict>
+</plist>

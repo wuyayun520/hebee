@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customConstraintTransparency</key>
+	<string>entityInterpreterEdge</string>
+	<key>gesturedetectorMethodLocation</key>
+	<string>smartUtilCount</string>
+	<key>isolateInsideBridge</key>
+	<string>compositionWithScope</string>
+	<key>sceneLikeVisitor</key>
+	<string>delegateIncludeNumber</string>
+	<key>stateVersusMediator</key>
+	<string>transitionByMemento</string>
+</dict>
+</plist>

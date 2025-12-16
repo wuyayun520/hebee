@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRadiusDuration</key>
+	<string>statefulResponseLeft</string>
+	<key>easyUtilDensity</key>
+	<string>reusableIntensityCenter</string>
+	<key>injectionStageMode</key>
+	<string>progressbarOrPhase</string>
+	<key>seamlessStoreDelay</key>
+	<string>otherConstraintKind</string>
+	<key>sliderIncludeStyle</key>
+	<string>animationObserverFeedback</string>
+	<key>tabbarAmongObserver</key>
+	<string>mediaqueryAlongBridge</string>
+	<key>transformerTempleSpacing</key>
+	<string>oldSegueLeft</string>
+</dict>
+</plist>

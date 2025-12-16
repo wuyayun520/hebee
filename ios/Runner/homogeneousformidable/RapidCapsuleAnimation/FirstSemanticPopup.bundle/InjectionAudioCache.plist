@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationValueVisible</key>
+	<string>directlyStoreHue</string>
+	<key>frameVarEdge</key>
+	<string>segueBridgeType</string>
+	<key>graphForStrategy</key>
+	<string>constCommandDepth</string>
+	<key>interactiveProviderDelay</key>
+	<string>accessoryModeResponse</string>
+	<key>largeTopicDistance</key>
+	<string>normTypeForce</string>
+	<key>modalPerContext</key>
+	<string>grayscaleInsideSingleton</string>
+</dict>
+</plist>

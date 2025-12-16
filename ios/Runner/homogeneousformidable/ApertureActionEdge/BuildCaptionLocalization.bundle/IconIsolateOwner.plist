@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableLayoutSkewy</key>
+	<string>switchExceptScope</string>
+	<key>managerBesideStrategy</key>
+	<string>listenerBeyondComposite</string>
+	<key>materialTextOrigin</key>
+	<string>injectionPrototypeBorder</string>
+	<key>tweenAmongMediator</key>
+	<string>responseDecoratorBehavior</string>
+</dict>
+</plist>

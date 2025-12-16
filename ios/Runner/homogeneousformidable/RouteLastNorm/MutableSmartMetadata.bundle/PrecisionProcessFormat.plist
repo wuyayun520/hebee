@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constCommandState</key>
+	<string>statefulForStyle</string>
+	<key>independentGraphBrightness</key>
+	<string>sensorLevelContrast</string>
+	<key>queryOrEnvironment</key>
+	<string>tabviewOrComposite</string>
+	<key>spotUntilProcess</key>
+	<string>transitionPerOperation</string>
+	<key>utilModeOpacity</key>
+	<string>backwardSliderSpacing</string>
+</dict>
+</plist>

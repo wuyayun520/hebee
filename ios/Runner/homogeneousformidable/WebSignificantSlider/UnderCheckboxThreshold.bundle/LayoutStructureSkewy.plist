@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchIncludeForm</key>
+	<string>hyperbolicScaleRotation</string>
+	<key>chapterKindType</key>
+	<string>inheritedBatchStyle</string>
+	<key>rowDuringCommand</key>
+	<string>lostGridBottom</string>
+	<key>segueOrAction</key>
+	<string>imperativeTangentBrightness</string>
+	<key>singleContractionStyle</key>
+	<string>semanticsOrSystem</string>
+	<key>statefulLayerSkewy</key>
+	<string>multiSwitchTint</string>
+</dict>
+</plist>

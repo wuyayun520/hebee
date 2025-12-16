@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionJobStyle</key>
+	<string>uniqueContainerLeft</string>
+	<key>listenerAndJob</key>
+	<string>inkwellScopeBehavior</string>
+	<key>navigatorOfActivity</key>
+	<string>observerKindSpacing</string>
+	<key>semanticNodeCenter</key>
+	<string>aspectContextAlignment</string>
+</dict>
+</plist>

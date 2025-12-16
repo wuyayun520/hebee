@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAwayBuffer</key>
+	<string>largeManagerTransparency</string>
+	<key>bitrateVersusParam</key>
+	<string>mutableLossDensity</string>
+	<key>capacitiesIncludeTemple</key>
+	<string>touchFromPlatform</string>
+	<key>liteModulusRotation</key>
+	<string>commandAroundProxy</string>
+	<key>permanentScreenInset</key>
+	<string>tweenObserverPadding</string>
+	<key>serviceFlyweightState</key>
+	<string>configurationAtFacade</string>
+	<key>utilPatternFormat</key>
+	<string>themeAgainstPattern</string>
+</dict>
+</plist>

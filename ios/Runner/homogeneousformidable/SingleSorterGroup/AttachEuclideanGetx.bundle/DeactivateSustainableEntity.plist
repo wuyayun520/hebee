@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMetadataBottom</key>
+	<string>pointLevelVisibility</string>
+	<key>constraintAndValue</key>
+	<string>providerOperationCoord</string>
+	<key>dropdownbuttonViaContext</key>
+	<string>durationStateName</string>
+	<key>durationOrMethod</key>
+	<string>baseInsideActivity</string>
+	<key>hardMaterialVisibility</key>
+	<string>threadAtOperation</string>
+	<key>sineIncludeWork</key>
+	<string>ternaryInsideScope</string>
+	<key>smallPlateVelocity</key>
+	<string>threadParameterFormat</string>
+	<key>standaloneTickerVelocity</key>
+	<string>sequentialResultCenter</string>
+	<key>tappableNavigatorInteraction</key>
+	<string>mediumAwaitStatus</string>
+</dict>
+</plist>

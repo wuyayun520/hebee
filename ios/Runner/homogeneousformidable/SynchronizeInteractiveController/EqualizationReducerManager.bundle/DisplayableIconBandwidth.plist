@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAnimationTransparency</key>
+	<string>animatedcontainerParamAppearance</string>
+	<key>blocPerTask</key>
+	<string>apertureLevelType</string>
+	<key>denseSwitchTransparency</key>
+	<string>pageviewThanPrototype</string>
+	<key>draggableLocalizationOrigin</key>
+	<string>completionProcessOffset</string>
+	<key>enabledLabelHead</key>
+	<string>lazyAppbarFlags</string>
+	<key>entityExceptStrategy</key>
+	<string>channelDuringState</string>
+	<key>nativeGradientForce</key>
+	<string>workflowTaskRotation</string>
+	<key>rowPerParameter</key>
+	<string>checkboxModeInteraction</string>
+</dict>
+</plist>

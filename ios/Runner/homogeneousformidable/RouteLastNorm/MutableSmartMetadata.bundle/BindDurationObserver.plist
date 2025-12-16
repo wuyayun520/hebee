@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstLoopMode</key>
+	<string>concretePageviewState</string>
+	<key>frameSinceCycle</key>
+	<string>allocatorBeyondBuffer</string>
+	<key>futureAmongState</key>
+	<string>presenterActivityCount</string>
+	<key>gramExceptStructure</key>
+	<string>callbackAboutForm</string>
+	<key>mediaqueryLayerPadding</key>
+	<string>retainedClipperPressure</string>
+	<key>navigatorCompositeMomentum</key>
+	<string>declarativeNodeMode</string>
+</dict>
+</plist>

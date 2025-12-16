@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDecoratorHead</key>
+	<string>vectorBridgeCount</string>
+	<key>contractionPlatformFeedback</key>
+	<string>responseFromObserver</string>
+	<key>cubeOutsideType</key>
+	<string>statefulCompositionTheme</string>
+	<key>cycleAboutSingleton</key>
+	<string>asynchronousHashSize</string>
+	<key>otherInstructionVisible</key>
+	<string>allocatorActionShape</string>
+	<key>otherStoryboardFeedback</key>
+	<string>statelessInterpreterHue</string>
+	<key>sequentialButtonRight</key>
+	<string>seamlessHeapStatus</string>
+	<key>timerExceptType</key>
+	<string>standaloneTitleFlags</string>
+</dict>
+</plist>

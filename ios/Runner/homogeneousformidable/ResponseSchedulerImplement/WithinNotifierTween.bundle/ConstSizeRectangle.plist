@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRowContrast</key>
+	<string>constraintAgainstNumber</string>
+	<key>delegateWithoutStructure</key>
+	<string>slashActivityLocation</string>
+	<key>euclideanWidgetRotation</key>
+	<string>movementForPhase</string>
+	<key>firstRequestDelay</key>
+	<string>storageScopeRate</string>
+	<key>newestBoxSize</key>
+	<string>heapBeyondChain</string>
+	<key>notifierProcessVisibility</key>
+	<string>ignoredViewName</string>
+	<key>originalTaskResponse</key>
+	<string>oldReferencePadding</string>
+	<key>permissiveRectDirection</key>
+	<string>observerAmongCycle</string>
+	<key>significantHashOpacity</key>
+	<string>responseExceptStructure</string>
+	<key>substantialBuilderAcceleration</key>
+	<string>interactiveCubitTop</string>
+</dict>
+</plist>

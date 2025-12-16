@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseCompletionOffset</key>
+	<string>injectionInsideFunction</string>
+	<key>getxExceptCycle</key>
+	<string>smallCheckboxMode</string>
+	<key>lazySegmentScale</key>
+	<string>similarMemberShade</string>
+	<key>materialSinceMemento</key>
+	<string>respectiveResolverShape</string>
+	<key>particleCycleRight</key>
+	<string>substantialScaffoldInteraction</string>
+	<key>sizeBridgeColor</key>
+	<string>characterFromPlatform</string>
+	<key>streamStrategyBorder</key>
+	<string>mobxLevelAppearance</string>
+	<key>symmetricTitleShade</key>
+	<string>grayscaleActionOrientation</string>
+	<key>tickerNearSingleton</key>
+	<string>streamOfInterpreter</string>
+</dict>
+</plist>

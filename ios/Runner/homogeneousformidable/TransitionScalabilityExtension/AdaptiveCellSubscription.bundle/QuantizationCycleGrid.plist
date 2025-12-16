@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterForShape</key>
+	<string>inactiveSignPressure</string>
+	<key>curveMethodDelay</key>
+	<string>rowFromShape</string>
+	<key>errorStageInterval</key>
+	<string>projectPerCycle</string>
+	<key>pointOutsideVar</key>
+	<string>easyHandlerSpeed</string>
+	<key>reducerOutsideState</key>
+	<string>synchronousVectorBrightness</string>
+	<key>serviceKindCoord</key>
+	<string>newestBulletAcceleration</string>
+	<key>significantNotificationInterval</key>
+	<string>cubitPatternOffset</string>
+	<key>spotPerTask</key>
+	<string>permissiveViewTop</string>
+	<key>tabviewCycleScale</key>
+	<string>mediumRectOffset</string>
+</dict>
+</plist>

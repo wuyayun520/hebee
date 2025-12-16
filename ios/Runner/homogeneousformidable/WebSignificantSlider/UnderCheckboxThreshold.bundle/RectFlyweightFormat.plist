@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintMethodValidation</key>
+	<string>subsequentStatelessVelocity</string>
+	<key>cyclePerStage</key>
+	<string>radioAroundValue</string>
+	<key>decorationProcessSkewx</key>
+	<string>activatedMusicTag</string>
+	<key>desktopApertureFrequency</key>
+	<string>nextCellEdge</string>
+	<key>localizationInPattern</key>
+	<string>animationShapeOrigin</string>
+</dict>
+</plist>

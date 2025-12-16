@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisModePosition</key>
+	<string>pointActionInset</string>
+	<key>completionAndDecorator</key>
+	<string>prismaticLayoutLeft</string>
+	<key>composableErrorLeft</key>
+	<string>unsortedButtonKind</string>
+	<key>displayableBulletResponse</key>
+	<string>compositionTypeName</string>
+	<key>indicatorOutsideStyle</key>
+	<string>layoutSingletonType</string>
+	<key>localKernelTransparency</key>
+	<string>segueValueRight</string>
+	<key>methodInEnvironment</key>
+	<string>cacheAgainstLayer</string>
+	<key>specifyMenuKind</key>
+	<string>challengeStageDirection</string>
+	<key>titleFlyweightMargin</key>
+	<string>metadataContainTier</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinePatternSkewy</key>
+	<string>subpixelSinceStructure</string>
+	<key>cupertinoStageCount</key>
+	<string>asynchronousCompositionVisible</string>
+	<key>dependencyOperationHead</key>
+	<string>frameThroughMediator</string>
+	<key>fusedTickerMode</key>
+	<string>diffableProfileOrigin</string>
+	<key>isolateInOperation</key>
+	<string>vectorMethodStyle</string>
+	<key>labelSinceValue</key>
+	<string>richtextTemplePosition</string>
+	<key>popupOrFacade</key>
+	<string>containerTypeVelocity</string>
+	<key>touchEnvironmentKind</key>
+	<string>multiplicationTypeRotation</string>
+	<key>typicalHandlerOrientation</key>
+	<string>alignmentPatternName</string>
+</dict>
+</plist>

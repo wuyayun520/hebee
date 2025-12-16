@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocMementoSpeed</key>
+	<string>scaleSystemMode</string>
+	<key>clipperOutsideFlyweight</key>
+	<string>standaloneNormShade</string>
+	<key>futureVersusParam</key>
+	<string>sensorJobBehavior</string>
+	<key>interactiveTitleAppearance</key>
+	<string>immutableSceneAcceleration</string>
+	<key>missionInMode</key>
+	<string>graphicBufferFrequency</string>
+	<key>pinchableListviewDensity</key>
+	<string>gateCompositeSkewx</string>
+	<key>projectionUntilFramework</key>
+	<string>expandedModePosition</string>
+	<key>publicSubpixelDensity</key>
+	<string>interpolationIncludeTemple</string>
+	<key>tabviewSinceFramework</key>
+	<string>functionalEffectTail</string>
+	<key>temporaryTitleOrientation</key>
+	<string>descriptionNumberVisible</string>
+</dict>
+</plist>

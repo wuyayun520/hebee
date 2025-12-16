@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityViaContext</key>
+	<string>consultativeNormState</string>
+	<key>lossParameterFormat</key>
+	<string>activatedDelegateValidation</string>
+	<key>reactiveBoxSaturation</key>
+	<string>currentProviderDensity</string>
+	<key>responsiveCubitTint</key>
+	<string>diversifiedControllerSpeed</string>
+	<key>screenAroundSingleton</key>
+	<string>previewFormStatus</string>
+	<key>tableAroundState</key>
+	<string>currentMonsterSize</string>
+	<key>temporaryAllocatorOrientation</key>
+	<string>chapterTypeDirection</string>
+</dict>
+</plist>

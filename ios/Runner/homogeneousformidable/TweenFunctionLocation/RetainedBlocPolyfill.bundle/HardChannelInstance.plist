@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarExceptStrategy</key>
+	<string>errorNearSingleton</string>
+	<key>iconAdapterKind</key>
+	<string>primaryAppbarType</string>
+	<key>masterAboutBuffer</key>
+	<string>behaviorScopeAlignment</string>
+	<key>specifierNumberFeedback</key>
+	<string>basicNavigationIndex</string>
+	<key>spritePatternTint</key>
+	<string>durationInterpreterOrigin</string>
+	<key>spriteWithVariable</key>
+	<string>labelActionDistance</string>
+</dict>
+</plist>

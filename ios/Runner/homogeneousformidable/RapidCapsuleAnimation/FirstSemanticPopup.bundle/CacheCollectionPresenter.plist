@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSystemAlignment</key>
+	<string>labelValueAppearance</string>
+	<key>extensionOutsideWork</key>
+	<string>bitrateModeLeft</string>
+	<key>managerAgainstObserver</key>
+	<string>metadataInNumber</string>
+	<key>monsterParameterRight</key>
+	<string>robustMovementSpeed</string>
+	<key>otherIntensityMode</key>
+	<string>explicitCubitVisible</string>
+	<key>projectionJobSpacing</key>
+	<string>decorationJobScale</string>
+	<key>rapidSegmentState</key>
+	<string>asyncModeFlags</string>
+	<key>robustChannelMargin</key>
+	<string>enabledExceptionMode</string>
+</dict>
+</plist>

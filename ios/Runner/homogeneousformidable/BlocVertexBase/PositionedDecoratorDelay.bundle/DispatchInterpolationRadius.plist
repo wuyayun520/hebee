@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitMethodMomentum</key>
+	<string>vectorBridgeBrightness</string>
+	<key>dialogsOutsideMemento</key>
+	<string>sliderSingletonDensity</string>
+	<key>directConstraintHue</key>
+	<string>momentumExceptComposite</string>
+	<key>menuFlyweightTop</key>
+	<string>dialogsContextOrientation</string>
+	<key>multiOptionAlignment</key>
+	<string>specifyAspectEdge</string>
+	<key>segmentPrototypeHead</key>
+	<string>dedicatedMetadataAlignment</string>
+</dict>
+</plist>

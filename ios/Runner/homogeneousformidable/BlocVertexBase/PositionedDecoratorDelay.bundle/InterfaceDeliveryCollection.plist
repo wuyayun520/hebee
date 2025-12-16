@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasCycleDistance</key>
+	<string>singleTextInset</string>
+	<key>monsterBesideVisitor</key>
+	<string>remainderBeyondFacade</string>
+	<key>petInVar</key>
+	<string>durationTierTag</string>
+	<key>playbackStageDirection</key>
+	<string>cupertinoTimerPressure</string>
+</dict>
+</plist>

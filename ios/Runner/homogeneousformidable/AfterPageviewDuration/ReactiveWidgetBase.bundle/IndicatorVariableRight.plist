@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardPerStyle</key>
+	<string>streamSingletonSaturation</string>
+	<key>consultativeMediaStyle</key>
+	<string>pivotalNibScale</string>
+	<key>diffableGrayscaleSaturation</key>
+	<string>comprehensiveRouteShape</string>
+	<key>errorIncludeActivity</key>
+	<string>concreteZoneState</string>
+	<key>frameWithoutCommand</key>
+	<string>tableFlyweightSpeed</string>
+	<key>futureShapeLocation</key>
+	<string>interactorSinceComposite</string>
+	<key>reducerAndValue</key>
+	<string>dedicatedGraphicStyle</string>
+	<key>routerAsObserver</key>
+	<string>scaleLevelPadding</string>
+	<key>tabbarAtCycle</key>
+	<string>boxshadowAdapterLeft</string>
+</dict>
+</plist>

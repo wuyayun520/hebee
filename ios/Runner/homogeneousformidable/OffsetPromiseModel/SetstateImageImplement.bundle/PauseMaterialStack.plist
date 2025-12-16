@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandActionRate</key>
+	<string>bufferWithSingleton</string>
+	<key>containerParamTail</key>
+	<string>keySingletonFrequency</string>
+	<key>dependencyAgainstParameter</key>
+	<string>controllerStageInteraction</string>
+	<key>entropyVarDirection</key>
+	<string>promiseAdapterTop</string>
+	<key>errorWithInterpreter</key>
+	<string>sophisticatedRequestStyle</string>
+	<key>statelessTickerBrightness</key>
+	<string>autoViewOrigin</string>
+	<key>streamBridgeSpeed</key>
+	<string>mutableNotifierVelocity</string>
+	<key>swiftExceptPattern</key>
+	<string>directResourceEdge</string>
+</dict>
+</plist>

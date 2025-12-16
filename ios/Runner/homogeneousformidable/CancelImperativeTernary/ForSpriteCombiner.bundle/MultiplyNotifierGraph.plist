@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushExceptForm</key>
+	<string>navigatorScopeVisibility</string>
+	<key>isolateDuringBuffer</key>
+	<string>similarLoopMode</string>
+	<key>managerDecoratorSaturation</key>
+	<string>singleFutureShape</string>
+	<key>stepOrNumber</key>
+	<string>effectOfCycle</string>
+</dict>
+</plist>

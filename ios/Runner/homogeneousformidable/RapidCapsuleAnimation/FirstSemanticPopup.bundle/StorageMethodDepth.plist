@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerVersusPlatform</key>
+	<string>hardCertificateSkewy</string>
+	<key>awaitActionState</key>
+	<string>webHandlerInset</string>
+	<key>canvasByState</key>
+	<string>commandBeyondFacade</string>
+	<key>controllerAtProcess</key>
+	<string>positionOrSingleton</string>
+	<key>eventTierDelay</key>
+	<string>granularSpotVisible</string>
+	<key>overlayProxyScale</key>
+	<string>composableStepResponse</string>
+	<key>presenterWithPhase</key>
+	<string>reusableStoryboardLocation</string>
+	<key>utilPlatformSize</key>
+	<string>titleProxyAlignment</string>
+</dict>
+</plist>

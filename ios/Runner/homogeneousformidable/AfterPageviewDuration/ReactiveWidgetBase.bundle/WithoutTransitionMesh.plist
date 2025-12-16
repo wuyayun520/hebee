@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaFacadeAppearance</key>
+	<string>columnStyleSpeed</string>
+	<key>tableAwayStrategy</key>
+	<string>topicIncludeLevel</string>
+	<key>viewSingletonTransparency</key>
+	<string>mapPhaseSpeed</string>
+</dict>
+</plist>

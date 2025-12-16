@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentFeatureDistance</key>
+	<string>eventLayerLeft</string>
+	<key>descriptorTaskOffset</key>
+	<string>touchFormFeedback</string>
+	<key>responseValueRotation</key>
+	<string>checkboxFlyweightTop</string>
+	<key>singleFrameSaturation</key>
+	<string>widgetBridgeAppearance</string>
+</dict>
+</plist>

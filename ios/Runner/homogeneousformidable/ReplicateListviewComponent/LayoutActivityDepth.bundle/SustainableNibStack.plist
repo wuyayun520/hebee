@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedProtocolTheme</key>
+	<string>notifierAsEnvironment</string>
+	<key>eventWithFunction</key>
+	<string>durationContextBorder</string>
+	<key>lazyPopupLocation</key>
+	<string>singleSceneResponse</string>
+	<key>resourceVarSize</key>
+	<string>reducerContainFlyweight</string>
+	<key>responseOutsideEnvironment</key>
+	<string>gesturedetectorAgainstMemento</string>
+	<key>singletonProcessFormat</key>
+	<string>lazyAnimatedcontainerVisible</string>
+</dict>
+</plist>

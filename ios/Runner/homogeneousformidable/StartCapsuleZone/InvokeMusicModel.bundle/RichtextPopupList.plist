@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStructureInset</key>
+	<string>completerVisitorShape</string>
+	<key>effectAboutComposite</key>
+	<string>anchorActivityTop</string>
+	<key>grainCycleEdge</key>
+	<string>normalSliderMomentum</string>
+	<key>independentBitrateBottom</key>
+	<string>mobxContextDensity</string>
+	<key>metadataTaskBorder</key>
+	<string>hashVarValidation</string>
+	<key>responsiveTransitionState</key>
+	<string>eagerPreviewContrast</string>
+	<key>semanticsStateDuration</key>
+	<string>globalRadiusEdge</string>
+	<key>tickerChainDistance</key>
+	<string>deferredScaffoldValidation</string>
+</dict>
+</plist>

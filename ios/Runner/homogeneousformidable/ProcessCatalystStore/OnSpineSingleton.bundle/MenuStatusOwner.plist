@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleModalForce</key>
+	<string>crucialSwitchForce</string>
+	<key>durationLevelOrigin</key>
+	<string>smallErrorScale</string>
+	<key>metadataInterpreterShade</key>
+	<string>paddingParamValidation</string>
+	<key>relationalNodeShade</key>
+	<string>diffableLogColor</string>
+	<key>singletonScopeBottom</key>
+	<string>sizeAsMediator</string>
+</dict>
+</plist>

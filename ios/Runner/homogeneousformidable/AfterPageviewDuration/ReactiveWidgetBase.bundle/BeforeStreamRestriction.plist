@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerCoordinatorBrightness</key>
+	<string>modulusTaskCoord</string>
+	<key>groupCommandShape</key>
+	<string>liteSampleSpeed</string>
+	<key>promiseAroundLayer</key>
+	<string>offsetFlyweightContrast</string>
+	<key>sinkOperationSpacing</key>
+	<string>offsetStrategyCount</string>
+</dict>
+</plist>

@@ -6,8 +6,10 @@ import '../services/like_service.dart';
 import '../services/block_service.dart';
 import '../services/video_thumbnail_service.dart';
 import '../services/not_interested_service.dart';
+import '../services/vip_status_service.dart';
 import 'user_detail_screen.dart';
 import 'video_player_screen.dart';
+import 'noyoo_vip_screen.dart';
 
 class DiscoverScreen extends StatefulWidget {
   const DiscoverScreen({super.key});
@@ -23,6 +25,124 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
   Map<String, bool> _likedMap = {}; // postId -> isLiked
   Map<String, String?> _thumbnailMap = {}; // postId -> thumbnail path
   Map<String, bool> _expandedMap = {}; // postId -> isExpanded
+
+  Future<bool> _ensureVip(BuildContext context) async {
+    final isVip = await VipStatusService.isVip();
+    if (isVip) return true;
+
+    final shouldSubscribe = await showDialog<bool>(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: Colors.grey[900],
+        title: const Text(
+          'VIP Required',
+          style: TextStyle(color: Colors.white),
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              'This feature requires VIP. Would you like to subscribe now?',
+              style: TextStyle(color: Colors.white70),
+            ),
+            const SizedBox(height: 12),
+            Container(
+              width: double.infinity,
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.grey[800]?.withOpacity(0.5),
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(
+                  color: Colors.pink.withOpacity(0.3),
+                  width: 1,
+                ),
+              ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Row(
+                    children: [
+                      const Text(
+                        'Weekly Plan: ',
+                        style: TextStyle(
+                          color: Colors.white70,
+                          fontSize: 13,
+                        ),
+                      ),
+                      Text(
+                        '\$12.99/week',
+                        style: TextStyle(
+                          color: Colors.pink,
+                          fontSize: 13,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 8),
+                  Row(
+                    children: [
+                      
+                      const SizedBox(width: 8),
+                      Flexible(
+                        child: RichText(
+                          overflow: TextOverflow.ellipsis,
+                          text: TextSpan(
+                            style: const TextStyle(
+                              color: Colors.white70,
+                              fontSize: 13,
+                            ),
+                            children: [
+                              const TextSpan(
+                                text: 'Monthly Plan: ',
+                              ),
+                              TextSpan(
+                                text: '\$49.99/month',
+                                style: TextStyle(
+                                  color: Colors.pink,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(false),
+            child: const Text(
+              'Cancel',
+              style: TextStyle(color: Colors.grey),
+            ),
+          ),
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(true),
+            child: const Text(
+              'Subscribe',
+              style: TextStyle(color: Colors.pink),
+            ),
+          ),
+        ],
+      ),
+    );
+
+    if (shouldSubscribe == true) {
+      await Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => const NoyooVipScreen(),
+        ),
+      );
+    }
+    return false;
+  }
 
   @override
   void initState() {
@@ -201,6 +321,8 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
                     
                     GestureDetector(
                       onTap: () async {
+                        final allowed = await _ensureVip(context);
+                        if (!allowed) return;
                         final result = await LikeService.toggleLike(post.postId, likes);
                         setState(() {
                           _likesMap[post.postId] = result['likes'] as int;
@@ -242,16 +364,20 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
             const SizedBox(height: 12),
             // 动态图片（从视频首帧提取）
             GestureDetector(
-              onTap: () {
-                Navigator.of(context).push(
-                  MaterialPageRoute(
-                    builder: (context) => VideoPlayerScreen(
-                      videoPath: post.video,
-                      title: user.displayName,
-                      postId: post.postId,
-                    ),
-                  ),
-                ).then((_) {
+              onTap: () async {
+                final allowed = await _ensureVip(context);
+                if (!allowed) return;
+                Navigator.of(context)
+                    .push(
+                      MaterialPageRoute(
+                        builder: (context) => VideoPlayerScreen(
+                          videoPath: post.video,
+                          title: user.displayName,
+                          postId: post.postId,
+                        ),
+                      ),
+                    )
+                    .then((_) {
                   // 返回时刷新列表（可能视频被标记为不感兴趣）
                   _loadPosts();
                 });

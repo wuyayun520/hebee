@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLogarithmInterval</key>
+	<string>flexibleInterfaceValidation</string>
+	<key>bulletViaProxy</key>
+	<string>hashSincePlatform</string>
+	<key>extensionFacadeInteraction</key>
+	<string>navigatorMementoType</string>
+	<key>statelessApertureStatus</key>
+	<string>descriptionSystemSpeed</string>
+</dict>
+</plist>

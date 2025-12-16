@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstGrainSize</key>
+	<string>profileMediatorAppearance</string>
+	<key>grayscaleValueSpeed</key>
+	<string>observerByValue</string>
+	<key>progressbarPlatformStatus</key>
+	<string>cupertinoMultiplicationFlags</string>
+	<key>richtextSystemStatus</key>
+	<string>taskProxyStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletContextShape</key>
+	<string>convolutionLikeState</string>
+	<key>inkwellCommandSize</key>
+	<string>functionalSpotDistance</string>
+	<key>nativeCallbackFlags</key>
+	<string>priorCallbackName</string>
+	<key>permanentCustompaintStatus</key>
+	<string>marginEnvironmentCount</string>
+	<key>rowProxyFormat</key>
+	<string>synchronousMonsterFlags</string>
+	<key>standaloneIconFormat</key>
+	<string>semanticsEnvironmentBound</string>
+	<key>statelessObserverDistance</key>
+	<string>injectionDecoratorSpacing</string>
+	<key>subsequentCanvasInteraction</key>
+	<string>sinkAboutCycle</string>
+	<key>variantOrCycle</key>
+	<string>resolverFacadeBound</string>
+</dict>
+</plist>

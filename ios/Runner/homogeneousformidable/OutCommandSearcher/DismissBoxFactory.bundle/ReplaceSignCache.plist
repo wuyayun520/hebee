@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxViaSystem</key>
+	<string>textureWithoutParameter</string>
+	<key>custompaintStateBehavior</key>
+	<string>publicCompositionFlags</string>
+	<key>desktopUsecaseScale</key>
+	<string>dropdownbuttonOrVariable</string>
+	<key>interfacePerAction</key>
+	<string>heroParameterTag</string>
+	<key>keyServiceHue</key>
+	<string>granularTweenOpacity</string>
+	<key>otherCoordinatorBrightness</key>
+	<string>profilePrototypeMargin</string>
+	<key>retainedPositionInset</key>
+	<string>loopFunctionResponse</string>
+	<key>sortedBrushFlags</key>
+	<string>sophisticatedAlertBound</string>
+	<key>viewObserverDepth</key>
+	<string>symmetricErrorTheme</string>
+</dict>
+</plist>

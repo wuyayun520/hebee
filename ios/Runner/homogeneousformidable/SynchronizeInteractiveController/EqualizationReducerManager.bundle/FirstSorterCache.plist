@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePainterRotation</key>
+	<string>eagerCubitBehavior</string>
+	<key>brushForTier</key>
+	<string>singletonDespiteCycle</string>
+	<key>catalystStyleAlignment</key>
+	<string>positionStageTheme</string>
+	<key>comprehensivePaddingDepth</key>
+	<string>blocContainPattern</string>
+	<key>independentObserverTransparency</key>
+	<string>activityModeSkewy</string>
+	<key>lossStateScale</key>
+	<string>builderForPlatform</string>
+	<key>providerActionSpacing</key>
+	<string>errorAwayFramework</string>
+	<key>viewParamDistance</key>
+	<string>activityParamTension</string>
+</dict>
+</plist>

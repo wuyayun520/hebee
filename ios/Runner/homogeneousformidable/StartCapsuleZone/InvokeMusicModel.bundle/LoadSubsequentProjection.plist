@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonVectorPosition</key>
+	<string>mobilePrototypeDelay</string>
+	<key>coordinatorTaskPressure</key>
+	<string>scaffoldContextSize</string>
+	<key>imperativeButtonRight</key>
+	<string>vectorFrameworkSize</string>
+	<key>injectionBufferTint</key>
+	<string>symmetricPopupHue</string>
+	<key>progressbarTierDuration</key>
+	<string>widgetBeyondCommand</string>
+	<key>statelessScrollSpeed</key>
+	<string>largeTextureBottom</string>
+	<key>transitionFormScale</key>
+	<string>similarContainerFlags</string>
+	<key>workflowChainTail</key>
+	<string>semanticClipperAcceleration</string>
+</dict>
+</plist>

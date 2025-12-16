@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocContainTier</key>
+	<string>awaitDuringContext</string>
+	<key>cubitChainVisibility</key>
+	<string>sizedboxAdapterStyle</string>
+	<key>entityBeyondOperation</key>
+	<string>textfieldInterpreterName</string>
+	<key>ignoredIntegerAcceleration</key>
+	<string>interactorWithChain</string>
+	<key>isolateScopeTransparency</key>
+	<string>decorationDecoratorPressure</string>
+	<key>signDecoratorSaturation</key>
+	<string>uniformSizeHead</string>
+	<key>toolNumberInterval</key>
+	<string>mobileFunctionMode</string>
+</dict>
+</plist>

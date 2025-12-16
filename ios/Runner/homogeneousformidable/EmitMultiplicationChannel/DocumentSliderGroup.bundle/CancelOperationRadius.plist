@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalCheckboxShape</key>
+	<string>spriteAgainstScope</string>
+	<key>masterAmongTier</key>
+	<string>tickerByStyle</string>
+	<key>reducerCompositeName</key>
+	<string>labelStrategyCoord</string>
+	<key>resourceInPhase</key>
+	<string>containerJobIndex</string>
+</dict>
+</plist>

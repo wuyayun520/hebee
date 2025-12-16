@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintOrProcess</key>
+	<string>widgetAndVariable</string>
+	<key>heroViaState</key>
+	<string>asyncLevelTint</string>
+	<key>imperativeStorageInterval</key>
+	<string>integerBufferIndex</string>
+	<key>permissiveErrorVelocity</key>
+	<string>basicTernaryColor</string>
+	<key>resilientInstructionDirection</key>
+	<string>gridviewTypeTheme</string>
+	<key>scrollableExceptionColor</key>
+	<string>arithmeticBlocSize</string>
+	<key>sharedMediaLocation</key>
+	<string>concurrentLoopInteraction</string>
+	<key>singleTextState</key>
+	<string>symbolPlatformContrast</string>
+	<key>workflowPlatformInset</key>
+	<string>pageviewLikeLevel</string>
+</dict>
+</plist>

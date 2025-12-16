@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarLayerInteraction</key>
+	<string>matrixAgainstBuffer</string>
+	<key>batchOperationHead</key>
+	<string>cubitCompositeOpacity</string>
+	<key>callbackStructureHue</key>
+	<string>symmetricCurveCenter</string>
+	<key>featureDecoratorContrast</key>
+	<string>advancedColumnTransparency</string>
+	<key>imageObserverTail</key>
+	<string>inactiveBulletLeft</string>
+	<key>labelProxyShade</key>
+	<string>isolateWorkCount</string>
+	<key>loopPhaseTag</key>
+	<string>commonBoxshadowRight</string>
+	<key>mapProxyShape</key>
+	<string>liteMenuShade</string>
+	<key>optimizerBridgeTheme</key>
+	<string>nibThroughPattern</string>
+	<key>sequentialStreamStatus</key>
+	<string>asyncParamSaturation</string>
+</dict>
+</plist>

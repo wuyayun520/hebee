@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonWithoutAction</key>
+	<string>uniqueTickerStatus</string>
+	<key>gridviewNumberLocation</key>
+	<string>accessoryOperationBehavior</string>
+	<key>groupAmongLevel</key>
+	<string>mapAboutCommand</string>
+	<key>immediateDelegateDuration</key>
+	<string>canvasWithoutOperation</string>
+	<key>responsiveSpineLocation</key>
+	<string>transitionVariableStyle</string>
+	<key>seamlessSkinDelay</key>
+	<string>accordionSlashSpeed</string>
+</dict>
+</plist>

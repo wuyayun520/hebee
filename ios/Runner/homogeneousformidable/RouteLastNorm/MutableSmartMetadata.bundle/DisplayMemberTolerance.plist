@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCallbackBottom</key>
+	<string>singleConstraintLocation</string>
+	<key>displayableFrameType</key>
+	<string>managerProcessVelocity</string>
+	<key>drawerEnvironmentPadding</key>
+	<string>gesturedetectorStageSpacing</string>
+	<key>immediateFrameFlags</key>
+	<string>tickerDuringAction</string>
+	<key>inheritedEntityInteraction</key>
+	<string>cacheOfForm</string>
+	<key>rectStageOrigin</key>
+	<string>inkwellOfSingleton</string>
+	<key>stackNumberBound</key>
+	<string>clipperActivitySize</string>
+	<key>textfieldBridgeTag</key>
+	<string>batchVarOrientation</string>
+</dict>
+</plist>

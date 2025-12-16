@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperSingletonTag</key>
+	<string>concurrentTextureLocation</string>
+	<key>expandedFormDirection</key>
+	<string>catalystWithBuffer</string>
+	<key>positionedFromValue</key>
+	<string>sequentialDescriptorMode</string>
+	<key>synchronousThreadFlags</key>
+	<string>groupAgainstStrategy</string>
+	<key>typicalBatchForce</key>
+	<string>profileOutsideStage</string>
+</dict>
+</plist>

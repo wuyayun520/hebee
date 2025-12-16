@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedIndicatorVisible</key>
+	<string>displayableGrainContrast</string>
+	<key>compositionExceptMemento</key>
+	<string>completerChainStatus</string>
+	<key>curveViaBuffer</key>
+	<string>widgetPlatformVisibility</string>
+	<key>independentPainterRotation</key>
+	<string>captionChainRight</string>
+	<key>mediocreMemberShape</key>
+	<string>crudeRouteSpacing</string>
+	<key>missionProcessInset</key>
+	<string>monsterOperationState</string>
+	<key>permissiveGesturedetectorBrightness</key>
+	<string>subtleBuilderHead</string>
+</dict>
+</plist>

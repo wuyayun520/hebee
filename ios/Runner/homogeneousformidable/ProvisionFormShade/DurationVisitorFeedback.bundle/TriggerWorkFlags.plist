@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterOrBridge</key>
+	<string>requestInAdapter</string>
+	<key>offsetByEnvironment</key>
+	<string>buttonOperationResponse</string>
+	<key>reusableLogarithmForce</key>
+	<string>sharedManagerVisibility</string>
+	<key>routeBufferStyle</key>
+	<string>histogramDespiteStrategy</string>
+	<key>segueAmongMediator</key>
+	<string>ternaryWorkDirection</string>
+	<key>subsequentReductionOrientation</key>
+	<string>accessibleBaselineDelay</string>
+</dict>
+</plist>

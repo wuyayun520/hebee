@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationObserverDelay</key>
+	<string>memberOrObserver</string>
+	<key>borderValueTension</key>
+	<string>staticProfileLeft</string>
+	<key>sampleOutsideLevel</key>
+	<string>textActionVisible</string>
+	<key>skirtVariableDistance</key>
+	<string>keyMapSize</string>
+</dict>
+</plist>

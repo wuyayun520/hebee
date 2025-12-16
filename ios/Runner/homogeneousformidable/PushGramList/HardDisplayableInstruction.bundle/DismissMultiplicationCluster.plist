@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitContainVariable</key>
+	<string>cubitForState</string>
+	<key>prevMediaqueryTransparency</key>
+	<string>lossThanFacade</string>
+	<key>titleForVisitor</key>
+	<string>iconTypeDensity</string>
+</dict>
+</plist>

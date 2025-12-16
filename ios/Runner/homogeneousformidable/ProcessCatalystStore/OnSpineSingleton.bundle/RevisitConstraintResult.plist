@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTempleVisible</key>
+	<string>significantStampOpacity</string>
+	<key>cubitActionType</key>
+	<string>pivotalTitleLocation</string>
+	<key>denseScaleHue</key>
+	<string>custompaintFormInset</string>
+	<key>displayableRowFormat</key>
+	<string>sceneIncludeStrategy</string>
+	<key>grayscaleFromPattern</key>
+	<string>sessionCompositeEdge</string>
+	<key>routeLikeMethod</key>
+	<string>fragmentForAdapter</string>
+	<key>sensorScopeTint</key>
+	<string>handlerPatternDistance</string>
+	<key>vectorAlongVisitor</key>
+	<string>resourceAdapterSize</string>
+</dict>
+</plist>

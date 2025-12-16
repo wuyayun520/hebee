@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateForState</key>
+	<string>sessionAlongPattern</string>
+	<key>lossAsSingleton</key>
+	<string>checkboxPerFlyweight</string>
+	<key>persistentDocumentStatus</key>
+	<string>responsiveTickerForce</string>
+	<key>positionMethodTop</key>
+	<string>curveStrategyAlignment</string>
+	<key>resizableRouteVisibility</key>
+	<string>navigatorAmongPrototype</string>
+	<key>sineLevelRotation</key>
+	<string>reactiveBlocDensity</string>
+	<key>tappableNotificationDuration</key>
+	<string>queueShapeCount</string>
+	<key>topicInterpreterAppearance</key>
+	<string>futureAmongComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBufferPadding</key>
+	<string>sizedboxPerAdapter</string>
+	<key>animationSystemDirection</key>
+	<string>explicitRepositoryDensity</string>
+	<key>basicTickerSaturation</key>
+	<string>lossAgainstShape</string>
+	<key>frameAmongEnvironment</key>
+	<string>originalSwiftAcceleration</string>
+	<key>methodContextDensity</key>
+	<string>configurationAroundStyle</string>
+	<key>protocolOrParam</key>
+	<string>activatedStateIndex</string>
+	<key>relationalTimerTension</key>
+	<string>radiusMediatorLocation</string>
+	<key>scrollableRowMode</key>
+	<string>sensorAroundBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBufferPressure</key>
+	<string>resilientParticleSkewx</string>
+	<key>concurrentNodeLocation</key>
+	<string>statefulCharacterDensity</string>
+	<key>criticalChartHue</key>
+	<string>ignoredViewColor</string>
+	<key>curvePhaseInteraction</key>
+	<string>singletonAlongFunction</string>
+	<key>featureModeContrast</key>
+	<string>pointShapeVisibility</string>
+	<key>managerJobName</key>
+	<string>prevMethodAppearance</string>
+	<key>scrollableStreamCount</key>
+	<string>usecaseIncludeFramework</string>
+	<key>sortedMemberTop</key>
+	<string>sharedParticleFormat</string>
+	<key>uniformSingletonPressure</key>
+	<string>statefulCoordinatorPressure</string>
+</dict>
+</plist>

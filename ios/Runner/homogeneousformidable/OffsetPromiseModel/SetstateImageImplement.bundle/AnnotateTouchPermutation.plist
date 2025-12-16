@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAgainstCommand</key>
+	<string>spotThroughPlatform</string>
+	<key>flexibleTransitionSpeed</key>
+	<string>localizationInterpreterPressure</string>
+	<key>liteAppbarResponse</key>
+	<string>reducerDespiteStrategy</string>
+	<key>mobileFlexInteraction</key>
+	<string>cubeAgainstScope</string>
+	<key>signTypeState</key>
+	<string>keyObserverKind</string>
+	<key>singletonStructureTint</key>
+	<string>aspectAdapterAcceleration</string>
+</dict>
+</plist>

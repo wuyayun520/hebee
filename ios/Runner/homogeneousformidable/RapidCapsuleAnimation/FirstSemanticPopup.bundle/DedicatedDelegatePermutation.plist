@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectLikePlatform</key>
+	<string>taskPerCycle</string>
+	<key>futureContainOperation</key>
+	<string>eagerPositionedLeft</string>
+	<key>navigatorWithoutActivity</key>
+	<string>segueOutsideStyle</string>
+	<key>nodeFacadeInteraction</key>
+	<string>respectiveNodeAppearance</string>
+	<key>reusableNavigatorSize</key>
+	<string>eventBufferFlags</string>
+	<key>serviceStyleResponse</key>
+	<string>commonLocalizationAppearance</string>
+	<key>skirtActivityIndex</key>
+	<string>keyCompleterSkewy</string>
+	<key>switchActivityStatus</key>
+	<string>graphicVarCenter</string>
+</dict>
+</plist>

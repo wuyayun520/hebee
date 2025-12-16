@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousScreenPadding</key>
+	<string>statelessFuturePressure</string>
+	<key>cubitNearVisitor</key>
+	<string>behaviorSingletonTag</string>
+	<key>labelLikeType</key>
+	<string>graphTaskCount</string>
+	<key>relationalProgressbarPressure</key>
+	<string>projectionContainNumber</string>
+	<key>subsequentProviderRotation</key>
+	<string>completionProcessSpacing</string>
+</dict>
+</plist>

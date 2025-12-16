@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeButtonTag</key>
+	<string>basicSpecifierDistance</string>
+	<key>constraintMethodTag</key>
+	<string>modulusTaskInset</string>
+	<key>textInterpreterInteraction</key>
+	<string>interactorExceptCommand</string>
+	<key>utilThroughTask</key>
+	<string>labelAroundSystem</string>
+</dict>
+</plist>

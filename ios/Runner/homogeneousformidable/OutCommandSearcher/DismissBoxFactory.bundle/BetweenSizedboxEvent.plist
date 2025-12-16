@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAssetScale</key>
+	<string>materialTextLeft</string>
+	<key>contractionModeResponse</key>
+	<string>oldOptionVisible</string>
+	<key>currentGestureType</key>
+	<string>containerNearShape</string>
+	<key>euclideanModelAlignment</key>
+	<string>subpixelBeyondLevel</string>
+	<key>grayscaleMethodPressure</key>
+	<string>stepStageHead</string>
+	<key>prismaticFeatureBrightness</key>
+	<string>viewWorkCoord</string>
+	<key>responsiveSinkTransparency</key>
+	<string>activatedRouteLeft</string>
+	<key>unactivatedListviewDensity</key>
+	<string>similarProtocolCount</string>
+	<key>usedTabviewHue</key>
+	<string>coordinatorStructureDensity</string>
+</dict>
+</plist>

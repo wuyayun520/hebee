@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertMediatorSpacing</key>
+	<string>animationVersusTask</string>
+	<key>animationInterpreterForce</key>
+	<string>widgetAndScope</string>
+	<key>dedicatedBlocDepth</key>
+	<string>durationFromVar</string>
+	<key>heroAtVariable</key>
+	<string>offsetByAdapter</string>
+	<key>layoutModeResponse</key>
+	<string>delegateTaskAlignment</string>
+	<key>nodeInsideTask</key>
+	<string>mediaWithShape</string>
+	<key>synchronousInteractorMode</key>
+	<string>subsequentSessionBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchVisitorFormat</key>
+	<string>granularNodeResponse</string>
+	<key>eventStyleRate</key>
+	<string>fusedParticleVisibility</string>
+	<key>optionDespiteKind</key>
+	<string>independentProgressbarCount</string>
+	<key>requiredGridIndex</key>
+	<string>slashViaMemento</string>
+	<key>sustainableInterpolationOpacity</key>
+	<string>bufferPrototypeDepth</string>
+</dict>
+</plist>

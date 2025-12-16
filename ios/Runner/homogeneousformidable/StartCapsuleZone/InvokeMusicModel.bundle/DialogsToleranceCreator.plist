@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheAsDecorator</key>
+	<string>animationKindRotation</string>
+	<key>crucialViewPadding</key>
+	<string>movementInsideMode</string>
+	<key>cubeFacadeTail</key>
+	<string>equipmentAlongDecorator</string>
+	<key>entityValueTransparency</key>
+	<string>titleWorkBehavior</string>
+	<key>factoryOperationOrientation</key>
+	<string>localPreviewMode</string>
+	<key>inheritedNodeTension</key>
+	<string>resultWorkRate</string>
+</dict>
+</plist>

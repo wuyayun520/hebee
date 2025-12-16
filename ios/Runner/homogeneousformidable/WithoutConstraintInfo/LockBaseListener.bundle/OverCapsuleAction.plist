@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAboutPhase</key>
+	<string>dialogsVarDirection</string>
+	<key>groupPatternTail</key>
+	<string>gateMediatorResponse</string>
+	<key>progressbarBufferRate</key>
+	<string>arithmeticAtComposite</string>
+	<key>streamBridgeSize</key>
+	<string>cacheProxyResponse</string>
+	<key>symbolParameterFeedback</key>
+	<string>localizationTempleName</string>
+</dict>
+</plist>

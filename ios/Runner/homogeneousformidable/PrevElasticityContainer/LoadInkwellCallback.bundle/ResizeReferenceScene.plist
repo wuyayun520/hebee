@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsTempleBehavior</key>
+	<string>queuePerParameter</string>
+	<key>composableGridviewInterval</key>
+	<string>lossAlongForm</string>
+	<key>otherGridTheme</key>
+	<string>constCellCenter</string>
+	<key>resolverBufferShade</key>
+	<string>precisionAmongFacade</string>
+	<key>screenParamStyle</key>
+	<string>sequentialInkwellTail</string>
+	<key>symmetricOffsetHue</key>
+	<string>semanticSessionTag</string>
+</dict>
+</plist>

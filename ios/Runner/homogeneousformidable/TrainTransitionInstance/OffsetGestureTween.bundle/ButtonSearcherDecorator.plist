@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferLevelTheme</key>
+	<string>interactorScopePadding</string>
+	<key>coordinatorFrameworkTag</key>
+	<string>nextButtonVisible</string>
+	<key>dropdownbuttonSystemVelocity</key>
+	<string>pinchableSegmentSize</string>
+	<key>graphicJobType</key>
+	<string>persistentInstructionDelay</string>
+	<key>hashSinceInterpreter</key>
+	<string>graphicStrategySpacing</string>
+	<key>heapVariableResponse</key>
+	<string>storyboardVarBorder</string>
+	<key>mainEquipmentOffset</key>
+	<string>positionedAndPrototype</string>
+	<key>routerAndPrototype</key>
+	<string>cubitModeCount</string>
+	<key>shaderPlatformPosition</key>
+	<string>nodeThroughActivity</string>
+	<key>timerAsFramework</key>
+	<string>futureContainActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistBesideSingleton</key>
+	<string>presenterAboutSingleton</string>
+	<key>checklistContainCycle</key>
+	<string>originalStorageAlignment</string>
+	<key>contractionOrParameter</key>
+	<string>callbackDecoratorOffset</string>
+	<key>delegatePhaseBorder</key>
+	<string>gridviewTierContrast</string>
+	<key>menuAgainstStage</key>
+	<string>tappableOffsetInterval</string>
+	<key>nodeContainFramework</key>
+	<string>sizeOutsidePattern</string>
+	<key>serviceAdapterValidation</key>
+	<string>alignmentLikePlatform</string>
+	<key>symbolUntilStrategy</key>
+	<string>descriptionInPrototype</string>
+	<key>textureAsOperation</key>
+	<string>configurationFromBridge</string>
+</dict>
+</plist>

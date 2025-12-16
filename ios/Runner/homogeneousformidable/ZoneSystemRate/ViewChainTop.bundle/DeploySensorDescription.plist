@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerInLayer</key>
+	<string>isolateIncludeFramework</string>
+	<key>completionThroughEnvironment</key>
+	<string>multiPointSpeed</string>
+	<key>compositionAlongFramework</key>
+	<string>pivotalRectInset</string>
+	<key>modalAsAdapter</key>
+	<string>relationalMobileShade</string>
+	<key>petThroughJob</key>
+	<string>containerJobContrast</string>
+	<key>reactiveRiverpodState</key>
+	<string>oldFeatureCount</string>
+	<key>resilientGridviewInteraction</key>
+	<string>exceptionAroundMethod</string>
+	<key>uniqueCoordinatorAppearance</key>
+	<string>configurationUntilTemple</string>
+	<key>variantFrameworkOpacity</key>
+	<string>backwardCommandForce</string>
+</dict>
+</plist>

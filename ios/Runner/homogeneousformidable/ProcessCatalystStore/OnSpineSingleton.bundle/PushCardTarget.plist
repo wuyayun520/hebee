@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncExceptionEdge</key>
+	<string>touchBeyondBuffer</string>
+	<key>composableTextInteraction</key>
+	<string>usecaseMementoRotation</string>
+	<key>containerByStage</key>
+	<string>disabledBrushBehavior</string>
+	<key>disabledPlaybackBehavior</key>
+	<string>resolverFunctionIndex</string>
+	<key>exceptionDuringState</key>
+	<string>dependencyOfPhase</string>
+	<key>fusedGemSpeed</key>
+	<string>loopOrCycle</string>
+	<key>gateFlyweightFlags</key>
+	<string>sinkPhaseColor</string>
+	<key>histogramStructureDuration</key>
+	<string>intensityBeyondMediator</string>
+	<key>statelessStyleMargin</key>
+	<string>immutableAllocatorSpacing</string>
+</dict>
+</plist>

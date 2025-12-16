@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCanvasMargin</key>
+	<string>vectorIncludeActivity</string>
+	<key>dedicatedBuilderDepth</key>
+	<string>touchFromTask</string>
+	<key>descriptorOutsidePrototype</key>
+	<string>zoneStateIndex</string>
+	<key>eagerParticleBound</key>
+	<string>criticalStatelessBehavior</string>
+	<key>finalTextureContrast</key>
+	<string>controllerTierForce</string>
+	<key>groupParameterContrast</key>
+	<string>ephemeralMethodRight</string>
+	<key>singletonAtBridge</key>
+	<string>immediateIsolateMomentum</string>
+	<key>statelessLoopSize</key>
+	<string>pointObserverFlags</string>
+</dict>
+</plist>

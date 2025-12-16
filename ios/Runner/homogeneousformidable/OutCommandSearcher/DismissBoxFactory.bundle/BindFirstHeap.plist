@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartNearLayer</key>
+	<string>fixedGroupFlags</string>
+	<key>composableInterpolationValidation</key>
+	<string>heapAgainstProcess</string>
+	<key>eagerIsolateCenter</key>
+	<string>alignmentStructureOrigin</string>
+	<key>musicOutsideWork</key>
+	<string>interactiveTitleTension</string>
+	<key>previewLikeStage</key>
+	<string>consumerFacadeMargin</string>
+	<key>scrollBesideProcess</key>
+	<string>mobileExceptTier</string>
+	<key>signFlyweightOpacity</key>
+	<string>semanticsAmongParameter</string>
+	<key>vectorNearInterpreter</key>
+	<string>entityIncludePlatform</string>
+</dict>
+</plist>

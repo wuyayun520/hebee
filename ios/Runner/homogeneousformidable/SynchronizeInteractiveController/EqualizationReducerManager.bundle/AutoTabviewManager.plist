@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardResourceAlignment</key>
+	<string>dependencyFromShape</string>
+	<key>constraintContainFlyweight</key>
+	<string>titleNearPhase</string>
+	<key>grayscaleAndProxy</key>
+	<string>nibInsideMediator</string>
+	<key>playbackInMediator</key>
+	<string>permanentBaselineFlags</string>
+	<key>scaffoldOfScope</key>
+	<string>logAwayInterpreter</string>
+	<key>topicByObserver</key>
+	<string>vectorViaKind</string>
+	<key>touchEnvironmentFormat</key>
+	<string>persistentFrameMargin</string>
+</dict>
+</plist>

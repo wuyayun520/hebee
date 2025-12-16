@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalAwaitFeedback</key>
+	<string>responsiveScreenScale</string>
+	<key>interactorInsideVisitor</key>
+	<string>titleContextMomentum</string>
+	<key>notificationDespiteKind</key>
+	<string>desktopExtensionMode</string>
+	<key>scrollableOverlayTransparency</key>
+	<string>radiusByStage</string>
+	<key>segmentAwayScope</key>
+	<string>easyMetadataDelay</string>
+	<key>subpixelLayerBehavior</key>
+	<string>streamTaskMode</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInjectionEdge</key>
+	<string>requestBesideBridge</string>
+	<key>advancedInjectionDelay</key>
+	<string>spriteLayerDirection</string>
+	<key>builderStageRate</key>
+	<string>storageEnvironmentFeedback</string>
+	<key>isolateThroughAdapter</key>
+	<string>immediateConfigurationOpacity</string>
+	<key>materialDecoratorCenter</key>
+	<string>channelJobSkewy</string>
+	<key>newestCellPadding</key>
+	<string>themeAmongCycle</string>
+	<key>prevContainerSpacing</key>
+	<string>memberMediatorValidation</string>
+	<key>reducerBeyondOperation</key>
+	<string>fixedMovementPadding</string>
+	<key>resourceNearInterpreter</key>
+	<string>injectionInterpreterRight</string>
+</dict>
+</plist>

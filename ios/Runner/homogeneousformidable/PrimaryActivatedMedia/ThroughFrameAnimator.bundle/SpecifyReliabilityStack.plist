@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintOperationTint</key>
+	<string>adaptiveDurationType</string>
+	<key>cupertinoStyleLeft</key>
+	<string>crudeGramTheme</string>
+	<key>customBaseBrightness</key>
+	<string>delicateShaderCount</string>
+	<key>equalizationProxyDuration</key>
+	<string>taskMethodTransparency</string>
+	<key>resourceIncludeKind</key>
+	<string>staticDocumentFeedback</string>
+	<key>tensorChallengeFeedback</key>
+	<string>resourceAsObserver</string>
+	<key>transformerBufferBottom</key>
+	<string>bitrateActivitySize</string>
+</dict>
+</plist>

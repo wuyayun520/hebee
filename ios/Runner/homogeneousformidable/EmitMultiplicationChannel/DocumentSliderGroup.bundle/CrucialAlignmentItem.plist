@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSegueSkewy</key>
+	<string>textfieldFrameworkScale</string>
+	<key>cubeDuringCommand</key>
+	<string>concurrentTransformerSkewx</string>
+	<key>customCanvasFeedback</key>
+	<string>positionParamPosition</string>
+	<key>fixedLogarithmBottom</key>
+	<string>unsortedIntensityOrientation</string>
+	<key>geometricCoordinatorOpacity</key>
+	<string>heroContainBuffer</string>
+	<key>mobileParamDensity</key>
+	<string>logAdapterOffset</string>
+	<key>modelValueTransparency</key>
+	<string>storePatternShape</string>
+	<key>primaryEventTop</key>
+	<string>storyboardWithSingleton</string>
+</dict>
+</plist>

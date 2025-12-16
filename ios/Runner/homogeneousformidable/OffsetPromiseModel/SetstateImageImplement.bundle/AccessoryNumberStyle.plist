@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStructureHue</key>
+	<string>directTransitionSpacing</string>
+	<key>cubitBeyondVar</key>
+	<string>opaqueCellRate</string>
+	<key>eventVisitorTint</key>
+	<string>compositionExceptPlatform</string>
+	<key>scrollLevelAcceleration</key>
+	<string>histogramStateFormat</string>
+	<key>unsortedAppbarFeedback</key>
+	<string>sineOfLevel</string>
+</dict>
+</plist>

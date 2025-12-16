@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineStrategyResponse</key>
+	<string>precisionVersusMediator</string>
+	<key>declarativeSpriteBound</key>
+	<string>standaloneFactoryShade</string>
+	<key>directTextTail</key>
+	<string>progressbarAsDecorator</string>
+	<key>globalIndicatorInteraction</key>
+	<string>skirtExceptBridge</string>
+	<key>secondReducerSaturation</key>
+	<string>ephemeralSpriteFrequency</string>
+	<key>techniqueInsideShape</key>
+	<string>borderVarBrightness</string>
+	<key>touchSystemStyle</key>
+	<string>tableValueShape</string>
+</dict>
+</plist>

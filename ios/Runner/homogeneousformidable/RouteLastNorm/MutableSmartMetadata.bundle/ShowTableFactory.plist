@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaExceptLevel</key>
+	<string>concurrentCubeValidation</string>
+	<key>factoryPerParam</key>
+	<string>callbackByVariable</string>
+	<key>momentumAdapterEdge</key>
+	<string>basicDurationMargin</string>
+	<key>plateShapeDistance</key>
+	<string>mainPopupOffset</string>
+	<key>zoneNumberTension</key>
+	<string>touchExceptPlatform</string>
+</dict>
+</plist>

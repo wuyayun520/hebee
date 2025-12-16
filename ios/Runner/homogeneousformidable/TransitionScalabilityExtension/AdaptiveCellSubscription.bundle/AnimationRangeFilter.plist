@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEntropyDirection</key>
+	<string>chartForForm</string>
+	<key>explicitGemRight</key>
+	<string>bitrateJobName</string>
+	<key>liteReducerBrightness</key>
+	<string>stepAgainstCycle</string>
+	<key>nativeSubpixelVelocity</key>
+	<string>containerSystemBrightness</string>
+	<key>pointBridgeBottom</key>
+	<string>difficultGradientShade</string>
+	<key>primaryResultFeedback</key>
+	<string>ephemeralTaskStyle</string>
+	<key>requestForProxy</key>
+	<string>displayableFragmentAppearance</string>
+	<key>resultVersusPlatform</key>
+	<string>mediaqueryAroundOperation</string>
+	<key>tableMediatorAppearance</key>
+	<string>resizableRectDelay</string>
+	<key>textureWithoutStrategy</key>
+	<string>asynchronousAspectValidation</string>
+</dict>
+</plist>

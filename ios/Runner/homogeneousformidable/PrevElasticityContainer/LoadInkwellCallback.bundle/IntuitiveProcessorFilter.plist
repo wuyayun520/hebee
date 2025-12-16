@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocByMethod</key>
+	<string>positionOfParameter</string>
+	<key>brushDuringStrategy</key>
+	<string>similarHeroBehavior</string>
+	<key>delegateAboutStyle</key>
+	<string>menuCompositeSpacing</string>
+	<key>easyCoordinatorSpacing</key>
+	<string>paddingContainStrategy</string>
+	<key>permanentGroupBrightness</key>
+	<string>activeCursorBottom</string>
+	<key>permissiveBoxDistance</key>
+	<string>staticConfigurationSpacing</string>
+	<key>pinchableGrainBehavior</key>
+	<string>alphaStructureBound</string>
+	<key>taskStateRight</key>
+	<string>finalRouterLocation</string>
+</dict>
+</plist>

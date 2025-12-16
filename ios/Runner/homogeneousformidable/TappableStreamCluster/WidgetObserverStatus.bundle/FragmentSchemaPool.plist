@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleParamPadding</key>
+	<string>imperativeBatchOpacity</string>
+	<key>dynamicDocumentAcceleration</key>
+	<string>dedicatedSpineFeedback</string>
+	<key>frameContextTop</key>
+	<string>firstDelegateOffset</string>
+	<key>logSingletonSize</key>
+	<string>exponentStateSpeed</string>
+</dict>
+</plist>

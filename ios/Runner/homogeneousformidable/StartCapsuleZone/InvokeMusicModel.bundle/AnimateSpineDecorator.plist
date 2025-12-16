@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxOutsideParam</key>
+	<string>alertMediatorShape</string>
+	<key>composableDelegateTheme</key>
+	<string>mapTypeHue</string>
+	<key>decorationInterpreterAlignment</key>
+	<string>flexLayerStyle</string>
+	<key>elasticDrawerShape</key>
+	<string>storeContextPosition</string>
+	<key>giftStructureOrigin</key>
+	<string>projectionSystemCenter</string>
+	<key>reactiveChartValidation</key>
+	<string>compositionEnvironmentName</string>
+	<key>widgetVarLeft</key>
+	<string>screenEnvironmentDensity</string>
+	<key>zoneMethodLeft</key>
+	<string>tableFunctionInteraction</string>
+</dict>
+</plist>

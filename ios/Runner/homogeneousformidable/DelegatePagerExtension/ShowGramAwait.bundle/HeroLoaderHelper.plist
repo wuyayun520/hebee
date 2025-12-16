@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPlatformState</key>
+	<string>singletonOutsideBridge</string>
+	<key>containerBeyondSingleton</key>
+	<string>concreteLocalizationDirection</string>
+	<key>graphActivityPadding</key>
+	<string>scrollableDecorationName</string>
+	<key>hyperbolicControllerSkewx</key>
+	<string>immediateInteractorAcceleration</string>
+	<key>persistentLabelBehavior</key>
+	<string>oldFeatureDelay</string>
+	<key>prevControllerTension</key>
+	<string>cycleCompositeDepth</string>
+	<key>significantTabviewState</key>
+	<string>keyBufferSaturation</string>
+	<key>usageBeyondFramework</key>
+	<string>indicatorCommandTint</string>
+	<key>viewProcessShape</key>
+	<string>allocatorBesideType</string>
+</dict>
+</plist>

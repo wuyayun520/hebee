@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSignatureAppearance</key>
+	<string>requiredReferenceScale</string>
+	<key>callbackInMemento</key>
+	<string>presenterBeyondWork</string>
+	<key>cardMediatorBehavior</key>
+	<string>gridviewAsContext</string>
+	<key>firstEntityState</key>
+	<string>localizationPlatformInset</string>
+	<key>instructionPrototypePosition</key>
+	<string>statelessObserverForce</string>
+	<key>paddingObserverOffset</key>
+	<string>reactiveNotificationDepth</string>
+	<key>storeParamTint</key>
+	<string>pivotalTouchFrequency</string>
+</dict>
+</plist>

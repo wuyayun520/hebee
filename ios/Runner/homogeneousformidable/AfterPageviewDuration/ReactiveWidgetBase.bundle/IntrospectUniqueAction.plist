@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityIncludeState</key>
+	<string>independentProjectSize</string>
+	<key>labelActionDirection</key>
+	<string>pointAndBuffer</string>
+	<key>navigatorParamHead</key>
+	<string>completerBridgeSize</string>
+	<key>nibFormHead</key>
+	<string>skinFrameworkOpacity</string>
+	<key>responseAndStrategy</key>
+	<string>singletonVersusAction</string>
+	<key>routeStateState</key>
+	<string>boxCompositeAlignment</string>
+	<key>signatureNumberTop</key>
+	<string>metadataObserverResponse</string>
+</dict>
+</plist>

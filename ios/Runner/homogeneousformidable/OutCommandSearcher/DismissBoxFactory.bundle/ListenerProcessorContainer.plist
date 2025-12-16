@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonNumberValidation</key>
+	<string>graphicVisitorInteraction</string>
+	<key>checkboxAndNumber</key>
+	<string>commonUsageBound</string>
+	<key>denseConsumerPadding</key>
+	<string>smallPrecisionCenter</string>
+	<key>exceptionOfPattern</key>
+	<string>dependencyInsideDecorator</string>
+	<key>mobxFacadeCenter</key>
+	<string>delicateReductionFeedback</string>
+	<key>opaqueStateDensity</key>
+	<string>consultativeServiceSkewy</string>
+	<key>otherSingletonDensity</key>
+	<string>finalStreamEdge</string>
+	<key>timerAboutBridge</key>
+	<string>stateBufferTension</string>
+</dict>
+</plist>

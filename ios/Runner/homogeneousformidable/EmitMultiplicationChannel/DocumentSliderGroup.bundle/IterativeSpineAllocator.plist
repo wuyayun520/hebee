@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyDropdownbuttonInterval</key>
+	<string>nibFormSpeed</string>
+	<key>dropdownbuttonThanState</key>
+	<string>statefulFormDelay</string>
+	<key>flexFunctionKind</key>
+	<string>deferredManagerHue</string>
+	<key>gridContainEnvironment</key>
+	<string>mobileRowTop</string>
+	<key>menuOutsideContext</key>
+	<string>callbackStageLocation</string>
+	<key>mobxContainPattern</key>
+	<string>desktopPageviewShade</string>
+	<key>normalTextfieldStyle</key>
+	<string>modelFunctionLeft</string>
+	<key>profileFromForm</key>
+	<string>dropdownbuttonDuringFramework</string>
+	<key>reducerContextBorder</key>
+	<string>consumerModeAcceleration</string>
+	<key>retainedServiceMargin</key>
+	<string>controllerStateKind</string>
+</dict>
+</plist>

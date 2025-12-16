@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintParamInset</key>
+	<string>imperativeTransitionInset</string>
+	<key>easyListenerIndex</key>
+	<string>titleNumberRotation</string>
+	<key>subpixelNumberHead</key>
+	<string>menuOutsideStage</string>
+</dict>
+</plist>

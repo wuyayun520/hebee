@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicQueryDuration</key>
+	<string>completionNearVar</string>
+	<key>intensityNumberCenter</key>
+	<string>textfieldContextLocation</string>
+	<key>isolateWithObserver</key>
+	<string>resourceDuringTask</string>
+	<key>semanticPositionedIndex</key>
+	<string>sessionThroughFlyweight</string>
+	<key>storyboardUntilChain</key>
+	<string>imagePhaseOpacity</string>
+	<key>textValueAlignment</key>
+	<string>cacheAboutShape</string>
+</dict>
+</plist>

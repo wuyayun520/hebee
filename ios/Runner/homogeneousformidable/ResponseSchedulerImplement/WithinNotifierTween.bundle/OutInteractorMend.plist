@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAtMode</key>
+	<string>compositionalAnimationSize</string>
+	<key>gramExceptFramework</key>
+	<string>methodCycleType</string>
+	<key>managerTempleDuration</key>
+	<string>mobileSpriteShape</string>
+	<key>normStateFeedback</key>
+	<string>routerContextInset</string>
+	<key>optionAtCycle</key>
+	<string>completionObserverSaturation</string>
+	<key>rapidTitleBottom</key>
+	<string>dependencyMediatorBrightness</string>
+	<key>sliderMementoDuration</key>
+	<string>intuitiveStatelessStyle</string>
+	<key>vectorAdapterOffset</key>
+	<string>alignmentLayerOrientation</string>
+</dict>
+</plist>

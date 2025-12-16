@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoChannelMargin</key>
+	<string>controllerBesideParameter</string>
+	<key>graphDuringScope</key>
+	<string>sceneBesideStyle</string>
+	<key>mediumBoxSkewy</key>
+	<string>anchorTaskInset</string>
+	<key>serviceContainContext</key>
+	<string>errorBesideBridge</string>
+	<key>symmetricSingletonTension</key>
+	<string>stepValueShape</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandTypeDirection</key>
+	<string>parallelNibVelocity</string>
+	<key>coordinatorAgainstAdapter</key>
+	<string>blocModeBehavior</string>
+	<key>localizationAdapterAcceleration</key>
+	<string>immediateBlocShade</string>
+	<key>richtextObserverPressure</key>
+	<string>segueThanMediator</string>
+	<key>viewActionPosition</key>
+	<string>viewDespiteFramework</string>
+</dict>
+</plist>

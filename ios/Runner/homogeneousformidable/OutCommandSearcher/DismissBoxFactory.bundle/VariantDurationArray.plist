@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAsCycle</key>
+	<string>semanticSkinColor</string>
+	<key>factoryProxySaturation</key>
+	<string>sharedControllerName</string>
+	<key>hyperbolicBulletType</key>
+	<string>customBoxshadowFeedback</string>
+	<key>interfaceIncludeVar</key>
+	<string>listviewFacadeRotation</string>
+	<key>mobileCellMomentum</key>
+	<string>explicitActionIndex</string>
+	<key>nodeThroughStage</key>
+	<string>elasticDescriptorPadding</string>
+</dict>
+</plist>

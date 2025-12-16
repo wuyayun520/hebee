@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarActivityPressure</key>
+	<string>anchorObserverBrightness</string>
+	<key>assetOrLevel</key>
+	<string>durationVersusWork</string>
+	<key>concurrentDurationOrientation</key>
+	<string>inheritedContainerSpeed</string>
+	<key>marginAboutComposite</key>
+	<string>criticalColumnValidation</string>
+	<key>nibSingletonRotation</key>
+	<string>queryByMethod</string>
+	<key>resilientTweenBehavior</key>
+	<string>modulusStyleForce</string>
+	<key>similarMetadataRotation</key>
+	<string>tickerAwayMethod</string>
+</dict>
+</plist>

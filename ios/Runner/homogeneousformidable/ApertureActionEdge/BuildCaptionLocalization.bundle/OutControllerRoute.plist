@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerWithoutComposite</key>
+	<string>lastCursorFormat</string>
+	<key>displayableCanvasRate</key>
+	<string>mobileEnvironmentOrientation</string>
+	<key>handlerBesideMethod</key>
+	<string>routeAgainstObserver</string>
+	<key>offsetMethodTransparency</key>
+	<string>transitionVariableCount</string>
+	<key>tweenAdapterType</key>
+	<string>awaitDecoratorMode</string>
+	<key>webScreenFrequency</key>
+	<string>cacheFlyweightSkewx</string>
+</dict>
+</plist>

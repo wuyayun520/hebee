@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitThroughJob</key>
+	<string>cellStageTag</string>
+	<key>drawerTypeName</key>
+	<string>cardAsNumber</string>
+	<key>featureInterpreterValidation</key>
+	<string>entityUntilPrototype</string>
+	<key>intuitiveWidgetPressure</key>
+	<string>entityDespitePlatform</string>
+	<key>logarithmPerBridge</key>
+	<string>gridVariableMode</string>
+	<key>riverpodVersusMemento</key>
+	<string>interactorTierMargin</string>
+</dict>
+</plist>

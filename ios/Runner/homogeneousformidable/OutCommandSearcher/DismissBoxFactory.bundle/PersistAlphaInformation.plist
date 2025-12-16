@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutIncludeCommand</key>
+	<string>custompaintTypeState</string>
+	<key>observerCompositeSpeed</key>
+	<string>tappableLabelLeft</string>
+	<key>presenterLayerDistance</key>
+	<string>queryDecoratorShade</string>
+	<key>singleUsageVisibility</key>
+	<string>scrollPhaseShape</string>
+</dict>
+</plist>

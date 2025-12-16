@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetFlyweightShape</key>
+	<string>finalColumnColor</string>
+	<key>constraintTierFlags</key>
+	<string>equalizationProxyPosition</string>
+	<key>mobileUtilOffset</key>
+	<string>viewFacadeTag</string>
+	<key>normalWidgetTransparency</key>
+	<string>titlePerMemento</string>
+	<key>semanticExtensionDuration</key>
+	<string>fixedDescriptorDuration</string>
+	<key>storeForForm</key>
+	<string>optimizerFlyweightIndex</string>
+</dict>
+</plist>

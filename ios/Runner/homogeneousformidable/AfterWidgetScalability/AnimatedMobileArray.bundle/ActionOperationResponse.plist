@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialByPlatform</key>
+	<string>logForStyle</string>
+	<key>missedOverlayBorder</key>
+	<string>requestOutsideStyle</string>
+	<key>textDuringMemento</key>
+	<string>mobxExceptKind</string>
+	<key>topicOrPattern</key>
+	<string>hashJobMomentum</string>
+	<key>viewCommandBound</key>
+	<string>containerPlatformTail</string>
+</dict>
+</plist>

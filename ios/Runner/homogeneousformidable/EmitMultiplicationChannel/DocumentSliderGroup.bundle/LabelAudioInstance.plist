@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionVariableStyle</key>
+	<string>customTaskOpacity</string>
+	<key>ignoredDurationTop</key>
+	<string>loopFlyweightSpacing</string>
+	<key>integerValueFormat</key>
+	<string>presenterAtProxy</string>
+	<key>layoutSinceParameter</key>
+	<string>advancedTopicDelay</string>
+	<key>lostCompletionRate</key>
+	<string>builderProxyFeedback</string>
+	<key>oldMetadataSpacing</key>
+	<string>nativeLogTransparency</string>
+	<key>segueAgainstChain</key>
+	<string>channelsIncludeStructure</string>
+	<key>taskTempleRate</key>
+	<string>enabledAlertInteraction</string>
+	<key>tensorTopicCount</key>
+	<string>interfaceJobName</string>
+	<key>variantPhaseBehavior</key>
+	<string>mediaquerySystemStatus</string>
+</dict>
+</plist>

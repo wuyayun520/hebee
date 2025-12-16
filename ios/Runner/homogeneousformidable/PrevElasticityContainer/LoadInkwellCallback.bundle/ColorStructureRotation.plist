@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationForJob</key>
+	<string>tweenIncludeProcess</string>
+	<key>cellAsFlyweight</key>
+	<string>mediaqueryAgainstEnvironment</string>
+	<key>collectionStateCenter</key>
+	<string>sharedPositionAppearance</string>
+	<key>currentOptimizerOffset</key>
+	<string>smallPlaybackMomentum</string>
+	<key>gateScopeMomentum</key>
+	<string>loopFromCycle</string>
+	<key>hashThanFunction</key>
+	<string>substantialZoneDuration</string>
+	<key>hyperbolicRouteTransparency</key>
+	<string>immutableUsageAppearance</string>
+	<key>immutableConstraintValidation</key>
+	<string>viewFrameworkKind</string>
+	<key>materialAwayValue</key>
+	<string>sensorChainSpacing</string>
+	<key>missedRadiusInteraction</key>
+	<string>fusedTopicDensity</string>
+</dict>
+</plist>

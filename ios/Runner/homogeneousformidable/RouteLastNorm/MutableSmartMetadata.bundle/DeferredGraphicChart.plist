@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasBesideOperation</key>
+	<string>layoutMethodPressure</string>
+	<key>finalQueueBehavior</key>
+	<string>presenterModeScale</string>
+	<key>smartGraphStatus</key>
+	<string>titleVersusValue</string>
+</dict>
+</plist>

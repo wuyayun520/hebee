@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBuilderDelay</key>
+	<string>gateMementoValidation</string>
+	<key>assetParameterFlags</key>
+	<string>swiftChainIndex</string>
+	<key>exceptionPhaseRotation</key>
+	<string>priorLocalizationPosition</string>
+	<key>factoryTierAppearance</key>
+	<string>viewFlyweightOffset</string>
+	<key>intermediateInteractorForce</key>
+	<string>blocThroughContext</string>
+	<key>skinContainStructure</key>
+	<string>resolverParamDuration</string>
+	<key>skinSystemMargin</key>
+	<string>granularProviderMargin</string>
+</dict>
+</plist>

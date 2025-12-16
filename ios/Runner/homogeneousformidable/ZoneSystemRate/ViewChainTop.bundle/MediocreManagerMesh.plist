@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridModeSize</key>
+	<string>channelVisitorRotation</string>
+	<key>modelActionKind</key>
+	<string>queueAndEnvironment</string>
+	<key>modelAdapterTheme</key>
+	<string>flexVariableRate</string>
+	<key>notificationAtStyle</key>
+	<string>tabbarBridgeSpeed</string>
+	<key>primaryCompositionTint</key>
+	<string>compositionViaInterpreter</string>
+	<key>prismaticParticleSaturation</key>
+	<string>shaderStateCoord</string>
+	<key>symbolAlongScope</key>
+	<string>delegateThroughInterpreter</string>
+	<key>techniqueBesideParam</key>
+	<string>screenAboutShape</string>
+	<key>tweenTypeAcceleration</key>
+	<string>coordinatorValueInterval</string>
+</dict>
+</plist>

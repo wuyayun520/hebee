@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleResponseFormat</key>
+	<string>positionTierStatus</string>
+	<key>intensityLevelAlignment</key>
+	<string>beginnerBitrateType</string>
+	<key>multiplicationPhaseRotation</key>
+	<string>desktopSliderIndex</string>
+	<key>persistentPetMode</key>
+	<string>binaryShapeBottom</string>
+	<key>progressbarMementoAlignment</key>
+	<string>handlerPhaseName</string>
+	<key>responsiveEntityStatus</key>
+	<string>pinchableCellCoord</string>
+	<key>retainedSlashDepth</key>
+	<string>grainCommandFormat</string>
+	<key>sharedViewBorder</key>
+	<string>persistentGridviewOrientation</string>
+</dict>
+</plist>

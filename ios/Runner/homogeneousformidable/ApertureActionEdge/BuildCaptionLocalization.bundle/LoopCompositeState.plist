@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushProcessInterval</key>
+	<string>subpixelAndComposite</string>
+	<key>canvasViaCommand</key>
+	<string>uniqueStatelessStatus</string>
+	<key>dialogsContainPhase</key>
+	<string>statefulForFramework</string>
+	<key>grayscaleIncludeShape</key>
+	<string>sustainableBehaviorValidation</string>
+	<key>mobxByFlyweight</key>
+	<string>vectorEnvironmentMargin</string>
+	<key>sinkTypeSaturation</key>
+	<string>protectedMultiplicationBrightness</string>
+	<key>subtleLogBehavior</key>
+	<string>statefulWithFacade</string>
+	<key>titleWithSingleton</key>
+	<string>timerExceptAdapter</string>
+	<key>touchDuringLayer</key>
+	<string>checkboxTierMode</string>
+	<key>transitionNearProcess</key>
+	<string>textureActionBound</string>
+</dict>
+</plist>

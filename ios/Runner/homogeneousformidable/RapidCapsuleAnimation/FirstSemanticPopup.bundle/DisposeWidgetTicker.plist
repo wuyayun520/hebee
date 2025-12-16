@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushBesideSingleton</key>
+	<string>respectiveMenuLeft</string>
+	<key>heapPlatformDistance</key>
+	<string>statefulDuringScope</string>
+	<key>listenerOutsideProxy</key>
+	<string>tweenContainDecorator</string>
+	<key>managerDuringFramework</key>
+	<string>animatedGestureCenter</string>
+	<key>mutableImageInteraction</key>
+	<string>vectorByPlatform</string>
+	<key>sequentialAxisShade</key>
+	<string>effectObserverContrast</string>
+	<key>sliderDecoratorVelocity</key>
+	<string>eventInTemple</string>
+	<key>subscriptionExceptPhase</key>
+	<string>toolOfPlatform</string>
+	<key>titleKindAcceleration</key>
+	<string>exceptionThroughStructure</string>
+</dict>
+</plist>

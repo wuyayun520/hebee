@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyGesturedetectorPressure</key>
+	<string>keyHashDensity</string>
+	<key>globalSingletonContrast</key>
+	<string>intensitySinceActivity</string>
+	<key>keyCursorContrast</key>
+	<string>unactivatedThreadState</string>
+	<key>tabviewAdapterOrigin</key>
+	<string>interactiveAllocatorEdge</string>
+	<key>taskContainBridge</key>
+	<string>rapidPlaybackState</string>
+	<key>unactivatedOperationPadding</key>
+	<string>captionAgainstProxy</string>
+	<key>usedCapacitiesKind</key>
+	<string>crudeKernelTension</string>
+</dict>
+</plist>

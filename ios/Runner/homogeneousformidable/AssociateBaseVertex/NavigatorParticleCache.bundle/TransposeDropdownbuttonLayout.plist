@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBlocInterval</key>
+	<string>directTransitionCoord</string>
+	<key>asynchronousResponseSpeed</key>
+	<string>cupertinoAsParam</string>
+	<key>cacheWithoutContext</key>
+	<string>normalPrecisionSpacing</string>
+	<key>completerChainOffset</key>
+	<string>crucialAwaitCoord</string>
+	<key>keyInterpolationTail</key>
+	<string>taskThroughEnvironment</string>
+	<key>observerForProcess</key>
+	<string>stampProxyBehavior</string>
+	<key>resizableLogarithmType</key>
+	<string>decorationVersusAction</string>
+	<key>timerPlatformBrightness</key>
+	<string>relationalSliderTail</string>
+</dict>
+</plist>

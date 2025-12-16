@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisSingletonType</key>
+	<string>positionByLayer</string>
+	<key>marginOrScope</key>
+	<string>matrixFlyweightVisibility</string>
+	<key>resolverKindAcceleration</key>
+	<string>observerDuringFunction</string>
+	<key>stampActivityDistance</key>
+	<string>gateFormPadding</string>
+	<key>subtleCardOpacity</key>
+	<string>requiredMethodVisibility</string>
+	<key>textFunctionLocation</key>
+	<string>concreteRouteTag</string>
+	<key>transitionWithKind</key>
+	<string>segueProcessFrequency</string>
+</dict>
+</plist>

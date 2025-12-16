@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTaskContrast</key>
+	<string>declarativeLoopRate</string>
+	<key>descriptionPatternOpacity</key>
+	<string>cellValueSpacing</string>
+	<key>discardedMenuVisible</key>
+	<string>tappableEffectShade</string>
+	<key>flexFlyweightAlignment</key>
+	<string>reusableCatalystBorder</string>
+	<key>menuStageAlignment</key>
+	<string>custompaintStyleDuration</string>
+	<key>providerIncludeForm</key>
+	<string>observerInKind</string>
+	<key>serviceBridgeDistance</key>
+	<string>constDrawerBound</string>
+	<key>uniqueStreamPressure</key>
+	<string>materialThroughFlyweight</string>
+</dict>
+</plist>
