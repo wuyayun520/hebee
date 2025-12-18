@@ -10,18 +10,14 @@ class BackgroundWrapper extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Stack(
-      fit: StackFit.expand,
-      children: [
-        Positioned.fill(
-          child: Image.asset(
-            'assets/noyoo_allbg.webp',
-            fit: BoxFit.cover,
-            repeat: ImageRepeat.noRepeat,
-          ),
+    return Container(
+      decoration: const BoxDecoration(
+        image: DecorationImage(
+          image: AssetImage('assets/hebee_group_bg.webp'),
+          fit: BoxFit.cover,
         ),
-        child,
-      ],
+      ),
+      child: child,
     );
   }
 }

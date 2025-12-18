@@ -1,4 +1,4 @@
-name: noyoo
+name: hebee
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -16,7 +16,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.1.0+1
+version: 1.0.0+1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -41,9 +41,7 @@ dependencies:
   image_picker: ^1.0.7
   just_audio: ^0.9.36
   record: ^6.0.0
-  url_launcher: ^6.2.2
-  in_app_purchase: ^3.1.15
-  in_app_purchase_storekit: ^0.4.2
+  http: ^1.1.0
 
 dev_dependencies:
   flutter_test:
@@ -69,34 +67,52 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/
+    - assets/hebee_loginbeij.webp
+    - assets/hebee_group_bg.webp
+    - assets/hebee_group_publish.webp
+    - assets/hebee_group_title.webp
+    - assets/hebee_group_card_bg.webp
+    - assets/hebee_group_hot.webp
+    - assets/hebee_group_new.webp
+    - assets/hebee_back.webp
+    - assets/hebee_chat.webp
+    - assets/hebee_challenge_play.webp
+    - assets/hebee_like_nor.webp
+    - assets/hebee_like_selete.webp
+    - assets/hebee_refresh_pre.webp
+    - assets/hebee_uploadtips.webp
+    - assets/hebee_card_bg.webp
+    - assets/hebee_record_play.webp
+    - assets/hebee_record_stop.webp
+    - assets/hebee_me_function.webp
+    - assets/hebee_user_agreement.webp
+    - assets/hebee_privacy_policy.webp
+    - assets/hebee_me_aboutus.webp
+    - assets/hebee_mecard_bg.webp
+    - assets/hebee_logo.png
     - assets/tab/
-    - assets/createAI/
-    - assets/noyooTalent/
-    - assets/noyooTalent/noyoo1/
-    - assets/noyooTalent/noyoo2/
-    - assets/noyooTalent/noyoo3/
-    - assets/noyooTalent/noyoo4/
-    - assets/noyooTalent/noyoo5/
-    - assets/noyooTalent/noyoo6/
-    - assets/noyooTalent/noyoo7/
-    - assets/noyooTalent/noyoo8/
-    - assets/noyooTalent/noyoo9/
-    - assets/noyooTalent/noyoo10/
-    - assets/noyooTalent/noyoo11/
-    - assets/noyooTalent/noyoo12/
-    - assets/noyooTalent/noyoo13/
-    - assets/noyooTalent/noyoo14/
-    - assets/noyooTalent/noyoo15/
-    - assets/noyooTalent/noyoo16/
-    - assets/noyooTalent/noyoo17/
-    - assets/noyooTalent/noyoomusic/
-    - assets/noyooTalent/noyoomusic/piano/
-    - assets/noyooTalent/noyoomusic/guitar/
-    - assets/noyooTalent/noyoomusic/violin/
-    - assets/noyooTalent/noyoomusic/drums/
-    - assets/noyooTalent/noyoomusic/flute/
-    - assets/noyooTalent/noyoomusic/saxophone/
+    - assets/CubePoolForTransition/
+    - assets/CubePoolForTransition/FactoryMergerPresenter.json
+    - assets/CubePoolForTransition/Hebee1/
+    - assets/CubePoolForTransition/Hebee2/
+    - assets/CubePoolForTransition/Hebee3/
+    - assets/CubePoolForTransition/Hebee4/
+    - assets/CubePoolForTransition/Hebee5/
+    - assets/CubePoolForTransition/Hebee6/
+    - assets/CubePoolForTransition/Hebee7/
+    - assets/CubePoolForTransition/Hebee8/
+    - assets/CubePoolForTransition/Hebee9/
+    - assets/CubePoolForTransition/Hebee10/
+    - assets/CubePoolForTransition/Hebee11/
+    - assets/CubePoolForTransition/Hebee12/
+    - assets/CubePoolForTransition/Hebee13/
+    - assets/CubePoolForTransition/Hebee14/
+    - assets/CubePoolForTransition/Hebee15/
+    - assets/CubePoolForTransition/Hebee16/
+    - assets/CubePoolForTransition/Hebee17/
+    - assets/CubePoolForTransition/Hebee18/
+    - assets/CubePoolForTransition/Hebee19/
+    - assets/CubePoolForTransition/Hebee20/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

@@ -3,35 +3,46 @@ import 'package:shared_preferences/shared_preferences.dart';
 class BlockService {
   static const String _blockedUsersKey = 'blocked_users';
 
-  // 获取所有被拉黑的用户ID列表
-  static Future<List<String>> getBlockedUsers() async {
+  static Future<List<int>> getBlockedUserIds() async {
     final prefs = await SharedPreferences.getInstance();
-    final blockedUsersJson = prefs.getStringList(_blockedUsersKey) ?? [];
-    return blockedUsersJson;
+    final blockedIdsString = prefs.getStringList(_blockedUsersKey) ?? [];
+    return blockedIdsString
+        .map((id) => int.tryParse(id))
+        .where((id) => id != null)
+        .cast<int>()
+        .toList();
   }
 
-  // 检查用户是否被拉黑
-  static Future<bool> isBlocked(String userId) async {
-    final blockedUsers = await getBlockedUsers();
-    return blockedUsers.contains(userId);
+  static Future<bool> isUserBlocked(int userId) async {
+    final blockedIds = await getBlockedUserIds();
+    return blockedIds.contains(userId);
   }
 
-  // 拉黑用户
-  static Future<void> blockUser(String userId) async {
-    final prefs = await SharedPreferences.getInstance();
-    final blockedUsers = await getBlockedUsers();
-    if (!blockedUsers.contains(userId)) {
-      blockedUsers.add(userId);
-      await prefs.setStringList(_blockedUsersKey, blockedUsers);
+  static Future<bool> blockUser(int userId) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final blockedIds = await getBlockedUserIds();
+      if (!blockedIds.contains(userId)) {
+        blockedIds.add(userId);
+        final blockedIdsString = blockedIds.map((id) => id.toString()).toList();
+        return await prefs.setStringList(_blockedUsersKey, blockedIdsString);
+      }
+      return true;
+    } catch (e) {
+      return false;
     }
   }
 
-  // 取消拉黑
-  static Future<void> unblockUser(String userId) async {
-    final prefs = await SharedPreferences.getInstance();
-    final blockedUsers = await getBlockedUsers();
-    blockedUsers.remove(userId);
-    await prefs.setStringList(_blockedUsersKey, blockedUsers);
+  static Future<bool> unblockUser(int userId) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final blockedIds = await getBlockedUserIds();
+      blockedIds.remove(userId);
+      final blockedIdsString = blockedIds.map((id) => id.toString()).toList();
+      return await prefs.setStringList(_blockedUsersKey, blockedIdsString);
+    } catch (e) {
+      return false;
+    }
   }
 }
 

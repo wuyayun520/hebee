@@ -1,8 +1,8 @@
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import '../theme/app_theme.dart';
-import 'home_screen.dart';
-import 'terms_of_service_screen.dart';
-import 'privacy_policy_screen.dart';
+import 'package:hebee/screens/home_screen.dart';
+import 'package:hebee/screens/terms_of_service_screen.dart';
+import 'package:hebee/screens/privacy_policy_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -12,19 +12,19 @@ class LoginScreen extends StatefulWidget {
 }
 
 class _LoginScreenState extends State<LoginScreen> {
-  bool _termsAccepted = true;
-  bool _privacyAccepted = true;
+  bool _agreedToTerms = true;
 
   void _handleEnterApp() {
-    if (_termsAccepted && _privacyAccepted) {
+    if (_agreedToTerms) {
       Navigator.of(context).pushReplacement(
-        MaterialPageRoute(builder: (context) => const HomeScreen()),
+        MaterialPageRoute(
+          builder: (context) => const HomeScreen(),
+        ),
       );
     } else {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
-          content: Text('Please accept the Terms of Service'),
-          duration: Duration(seconds: 2),
+          content: Text('Please agree to Terms of Service and Privacy Policy'),
         ),
       );
     }
@@ -35,203 +35,140 @@ class _LoginScreenState extends State<LoginScreen> {
     return Scaffold(
       body: Stack(
         children: [
-          Image.asset(
-            'assets/noyoo_loginshadow.webp',
-            width: double.infinity,
-            height: double.infinity,
-            fit: BoxFit.cover,
+          Positioned.fill(
+            child: Image.asset(
+              'assets/hebee_loginbeij.webp',
+              fit: BoxFit.cover,
+            ),
           ),
           SafeArea(
             child: Column(
               children: [
-                Expanded(
-                  flex: 5,
-                  child: _buildUpperSection(),
-                ),
-                Expanded(
-                  flex: 5,
-                  child: _buildLowerSection(),
+                const Spacer(),
+                Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 24.0),
+                  child: Column(
+                    children: [
+                      SizedBox(
+                        width: double.infinity,
+                        child: ElevatedButton(
+                          onPressed: _handleEnterApp,
+                          style: ElevatedButton.styleFrom(
+                            backgroundColor:  Color(0xFFFF2E91),
+                            foregroundColor: Colors.white,
+                            padding: const EdgeInsets.symmetric(vertical: 16.0),
+                            shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(12),
+                              side: const BorderSide(
+                                color: Colors.black,
+                                width: 1,
+                              ),
+                            ),
+                            elevation: 0,
+                          ),
+                          child: const Text(
+                            'Enter Hebee',
+                            style: TextStyle(
+                              fontSize: 18,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 16),
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          GestureDetector(
+                            onTap: () {
+                              setState(() {
+                                _agreedToTerms = !_agreedToTerms;
+                              });
+                            },
+                            child: Container(
+                              width: 24,
+                              height: 24,
+                              decoration: BoxDecoration(
+                                shape: BoxShape.circle,
+                                border: Border.all(
+                                  color: Colors.grey,
+                                  width: 2,
+                                ),
+                                color: _agreedToTerms
+                                    ? Colors.transparent
+                                    : Colors.transparent,
+                              ),
+                              child: _agreedToTerms
+                                  ? const Icon(
+                                      Icons.check,
+                                      size: 18,
+                                      color:  Color(0xFFFF2E91),
+                                    )
+                                  : null,
+                            ),
+                          ),
+                          const SizedBox(width: 8),
+                          Flexible(
+                            child: RichText(
+                              text: TextSpan(
+                                style: TextStyle(
+                                  fontSize: 14,
+                                  color: Colors.grey[300],
+                                ),
+                                children: [
+                                  const TextSpan(
+                                    text: 'I have read and agree ',
+                                  ),
+                                  TextSpan(
+                                    text: 'Terms of Service',
+                                    style: TextStyle(
+                                      decoration: TextDecoration.underline,
+                                      color: Colors.grey[300],
+                                    ),
+                                    recognizer: TapGestureRecognizer()
+                                      ..onTap = () {
+                                        Navigator.of(context).push(
+                                          MaterialPageRoute(
+                                            builder: (context) =>
+                                                const TermsOfServiceScreen(),
+                                          ),
+                                        );
+                                      },
+                                  ),
+                                  const TextSpan(
+                                    text: ' and ',
+                                  ),
+                                  TextSpan(
+                                    text: 'Privacy Policy',
+                                    style: TextStyle(
+                                      decoration: TextDecoration.underline,
+                                      color: Colors.grey[300],
+                                    ),
+                                    recognizer: TapGestureRecognizer()
+                                      ..onTap = () {
+                                        Navigator.of(context).push(
+                                          MaterialPageRoute(
+                                            builder: (context) =>
+                                                const PrivacyPolicyScreen(),
+                                          ),
+                                        );
+                                      },
+                                  ),
+                                ],
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 32),
+                    ],
+                  ),
                 ),
               ],
             ),
           ),
         ],
       ),
-    );
-  }
-
-  Widget _buildUpperSection() {
-    return Center(
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-         
-        ],
-      ),
-    );
-  }
-
-  Widget _buildLowerSection() {
-    return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 24),
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          const SizedBox(height: 80),
-          _buildEnterButton(),
-          const SizedBox(height: 40),
-          _buildTermsAndPrivacy(),
-        ],
-      ),
-    );
-  }
-
-
-  Widget _buildEnterButton() {
-    return SizedBox(
-      width: double.infinity,
-      height: 56,
-      child: ElevatedButton(
-        onPressed: _handleEnterApp,
-        style: ElevatedButton.styleFrom(
-          backgroundColor: Colors.transparent,
-          shadowColor: Colors.transparent,
-          shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(28),
-          ),
-        ),
-        child: Container(
-          decoration: BoxDecoration(
-            gradient: LinearGradient(
-              begin: Alignment.centerLeft,
-              end: Alignment.centerRight,
-              colors: [
-                AppTheme.primaryEnd,
-                const Color(0xFFFF6B9D),
-              ],
-            ),
-            borderRadius: BorderRadius.circular(28),
-          ),
-          child: const Center(
-            child: Text(
-              'Enter Noyoo',
-              style: TextStyle(
-                color: Colors.white,
-                fontSize: 18,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-          ),
-        ),
-      ),
-    );
-  }
-
-  Widget _buildTermsAndPrivacy() {
-    return Row(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        GestureDetector(
-          onTap: () {
-            setState(() {
-              _termsAccepted = !_termsAccepted;
-            });
-          },
-          child: Container(
-            width: 20,
-            height: 20,
-            margin: const EdgeInsets.only(left: 20),
-            decoration: BoxDecoration(
-              shape: BoxShape.circle,
-              border: Border.all(
-                color: Colors.white,
-                width: 2,
-              ),
-              color: _termsAccepted ? AppTheme.primaryEnd : Colors.transparent,
-            ),
-            child: _termsAccepted
-                ? const Icon(
-                    Icons.check,
-                    color: Colors.white,
-                    size: 14,
-                  )
-                : null,
-          ),
-        ),
-        const SizedBox(width: 12),
-        Expanded(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Wrap(
-                crossAxisAlignment: WrapCrossAlignment.center,
-                children: [
-                  const Text(
-                    'I have read and agree ',
-                    style: TextStyle(
-                      color: Color(0xFFBABABA),
-                      fontSize: 14,
-                    ),
-                  ),
-                  GestureDetector(
-                    onTap: () {
-                      Navigator.of(context).push(
-                        MaterialPageRoute(
-                          builder: (context) => const TermsOfServiceScreen(),
-                        ),
-                      );
-                    },
-                    child: const Text(
-                      'Terms of Service',
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 14,
-                        decoration: TextDecoration.underline,
-                        decorationColor: Colors.white,
-                        decorationThickness: 1.0,
-                      ),
-                    ),
-                  ),
-                ],
-              ),
-              const SizedBox(height: 4),
-              Row(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  const Text(
-                    'and ',
-                    style: TextStyle(
-                      color: Color(0xFFBABABA),
-                      fontSize: 12,
-                    ),
-                  ),
-                  GestureDetector(
-                    onTap: () {
-                      Navigator.of(context).push(
-                        MaterialPageRoute(
-                          builder: (context) => const PrivacyPolicyScreen(),
-                        ),
-                      );
-                    },
-                    child: const Text(
-                      'Privacy Policy',
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 14,
-                        decoration: TextDecoration.underline,
-                        decorationColor: Colors.white,
-                        decorationThickness: 1.0,
-                      ),
-                    ),
-                  ),
-                 
-                ],
-              ),
-            ],
-          ),
-        ),
-      ],
     );
   }
 }

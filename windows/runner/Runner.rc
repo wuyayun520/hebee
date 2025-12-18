@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "noyoo" "\0"
+            VALUE "FileDescription", "hebee" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "noyoo" "\0"
+            VALUE "InternalName", "hebee" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "noyoo.exe" "\0"
-            VALUE "ProductName", "noyoo" "\0"
+            VALUE "OriginalFilename", "hebee.exe" "\0"
+            VALUE "ProductName", "hebee" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
