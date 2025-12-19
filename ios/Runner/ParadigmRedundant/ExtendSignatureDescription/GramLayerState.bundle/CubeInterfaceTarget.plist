@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintThroughParameter</key>
+	<string>certificateShapeInset</string>
+	<key>managerFrameworkBehavior</key>
+	<string>euclideanTickerSize</string>
+	<key>richtextDecoratorCount</key>
+	<string>positionedParameterTop</string>
+	<key>sequentialScaffoldVisibility</key>
+	<string>viewByFunction</string>
+</dict>
+</plist>

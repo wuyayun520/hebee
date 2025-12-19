@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnAlongNumber</key>
+	<string>containerSinceStructure</string>
+	<key>nativeSliderAppearance</key>
+	<string>finalRouterRight</string>
+	<key>nibSinceComposite</key>
+	<string>texturePerState</string>
+	<key>normSinceFramework</key>
+	<string>observerFromStructure</string>
+	<key>threadVarState</key>
+	<string>cacheThanProcess</string>
+	<key>touchMediatorInterval</key>
+	<string>configurationPerFramework</string>
+</dict>
+</plist>

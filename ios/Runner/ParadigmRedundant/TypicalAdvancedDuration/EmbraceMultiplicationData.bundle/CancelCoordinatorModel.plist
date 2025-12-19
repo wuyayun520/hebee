@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureFacadeTail</key>
+	<string>labelSingletonCount</string>
+	<key>convolutionWithoutOperation</key>
+	<string>imageAndStage</string>
+	<key>inkwellUntilPlatform</key>
+	<string>requestPerFacade</string>
+	<key>precisionOrShape</key>
+	<string>featureFunctionTop</string>
+	<key>touchParamInset</key>
+	<string>synchronousLogSaturation</string>
+	<key>workflowWithKind</key>
+	<string>actionStrategyResponse</string>
+</dict>
+</plist>

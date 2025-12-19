@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryTaskTail</key>
+	<string>alignmentDecoratorLocation</string>
+	<key>constSemanticsBehavior</key>
+	<string>hardBrushRate</string>
+	<key>inactiveResourceRate</key>
+	<string>tappableIndicatorTransparency</string>
+	<key>lastConsumerType</key>
+	<string>factoryAmongKind</string>
+	<key>mainLocalizationFeedback</key>
+	<string>cosineContainScope</string>
+	<key>nibInAdapter</key>
+	<string>positionedOrValue</string>
+	<key>paddingSinceParameter</key>
+	<string>statefulServiceIndex</string>
+	<key>tensorVectorState</key>
+	<string>cupertinoLayerDensity</string>
+</dict>
+</plist>

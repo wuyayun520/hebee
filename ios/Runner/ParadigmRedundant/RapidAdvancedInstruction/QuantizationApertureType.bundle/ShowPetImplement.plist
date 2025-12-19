@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopShapeFlags</key>
+	<string>smartStateBrightness</string>
+	<key>missedLocalizationBorder</key>
+	<string>ternaryViaObserver</string>
+	<key>pageviewStyleShade</key>
+	<string>pointProcessTint</string>
+	<key>queryInsideActivity</key>
+	<string>resizableMovementFlags</string>
+	<key>sliderInsideShape</key>
+	<string>permanentMobxResponse</string>
+	<key>storyboardOperationKind</key>
+	<string>consultativeResultSpeed</string>
+	<key>synchronousGramName</key>
+	<string>gridPatternResponse</string>
+</dict>
+</plist>

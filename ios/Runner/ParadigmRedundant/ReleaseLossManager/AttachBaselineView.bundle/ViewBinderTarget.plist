@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicNibForce</key>
+	<string>widgetAwayPhase</string>
+	<key>handlerOfParameter</key>
+	<string>normalSizeRotation</string>
+	<key>layerByTask</key>
+	<string>newestBulletScale</string>
+	<key>navigatorSingletonSaturation</key>
+	<string>controllerChainOrientation</string>
+	<key>respectiveMenuShape</key>
+	<string>cycleBufferResponse</string>
+	<key>statelessMementoBrightness</key>
+	<string>gradientVarDistance</string>
+	<key>typicalQueueKind</key>
+	<string>reusableGramSpeed</string>
+	<key>usageAroundState</key>
+	<string>adaptiveAppbarPosition</string>
+</dict>
+</plist>

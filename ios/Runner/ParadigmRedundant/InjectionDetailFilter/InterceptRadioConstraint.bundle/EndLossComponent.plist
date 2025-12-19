@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeProviderCoord</key>
+	<string>providerTierSpacing</string>
+	<key>canvasVarValidation</key>
+	<string>eagerProjectionSize</string>
+	<key>disabledRichtextFormat</key>
+	<string>commandMethodDelay</string>
+	<key>gateSinceDecorator</key>
+	<string>subtleFutureBorder</string>
+	<key>immediateInjectionFrequency</key>
+	<string>constAwaitAcceleration</string>
+	<key>requiredInstructionSaturation</key>
+	<string>iterativeSliderOrigin</string>
+	<key>resizableAnchorSaturation</key>
+	<string>sequentialBoxBound</string>
+	<key>sophisticatedMethodTop</key>
+	<string>responsiveProgressbarFeedback</string>
+</dict>
+</plist>

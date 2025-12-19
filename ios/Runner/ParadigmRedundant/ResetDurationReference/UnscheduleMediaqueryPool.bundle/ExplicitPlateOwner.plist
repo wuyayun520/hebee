@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStrategyBrightness</key>
+	<string>scrollableDependencyValidation</string>
+	<key>awaitBesideContext</key>
+	<string>beginnerOperationEdge</string>
+	<key>entropyBufferDuration</key>
+	<string>segmentPhaseBorder</string>
+	<key>independentServiceScale</key>
+	<string>buttonIncludeStage</string>
+	<key>storeContextSkewx</key>
+	<string>composableViewPosition</string>
+	<key>transformerScopeBrightness</key>
+	<string>allocatorInEnvironment</string>
+	<key>widgetParameterBehavior</key>
+	<string>numericalListenerCount</string>
+</dict>
+</plist>

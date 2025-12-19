@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferCycleFrequency</key>
+	<string>hierarchicalMarginBottom</string>
+	<key>cubitLevelFormat</key>
+	<string>newestStepBehavior</string>
+	<key>dynamicBufferSaturation</key>
+	<string>staticDecorationMomentum</string>
+	<key>enabledTransitionShade</key>
+	<string>euclideanResultName</string>
+	<key>mobxVisitorTint</key>
+	<string>fragmentOfActivity</string>
+	<key>nodeBufferDirection</key>
+	<string>segueSinceContext</string>
+	<key>semanticsBufferSpeed</key>
+	<string>optionVersusDecorator</string>
+	<key>serviceDecoratorKind</key>
+	<string>cellVarBottom</string>
+	<key>taskForEnvironment</key>
+	<string>builderParameterTransparency</string>
+</dict>
+</plist>

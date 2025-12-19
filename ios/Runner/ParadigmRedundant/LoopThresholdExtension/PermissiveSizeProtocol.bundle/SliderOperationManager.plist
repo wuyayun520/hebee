@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCubitEdge</key>
+	<string>primaryLayerSpeed</string>
+	<key>blocAgainstType</key>
+	<string>reducerThanDecorator</string>
+	<key>effectVersusCycle</key>
+	<string>containerWithTier</string>
+	<key>loopPerCycle</key>
+	<string>geometricLayerInset</string>
+	<key>mainSwiftInteraction</key>
+	<string>completerOutsideStyle</string>
+	<key>methodInterpreterTop</key>
+	<string>methodFacadeInset</string>
+	<key>observerParamFrequency</key>
+	<string>labelTierVisible</string>
+	<key>sensorModeBehavior</key>
+	<string>grayscaleNumberContrast</string>
+	<key>specifierStrategyValidation</key>
+	<string>groupFromCycle</string>
+</dict>
+</plist>

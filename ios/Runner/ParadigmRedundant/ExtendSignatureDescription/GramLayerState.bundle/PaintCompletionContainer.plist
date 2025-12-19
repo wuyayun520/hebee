@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAtType</key>
+	<string>directlyTabbarSkewy</string>
+	<key>appbarAgainstParameter</key>
+	<string>persistentActionIndex</string>
+	<key>concreteCaptionBrightness</key>
+	<string>responsiveInjectionInterval</string>
+	<key>dedicatedTextfieldResponse</key>
+	<string>segmentFacadeShape</string>
+	<key>groupOfJob</key>
+	<string>getxStateStyle</string>
+	<key>mutableInjectionAlignment</key>
+	<string>geometricEntityInset</string>
+	<key>navigatorWithProxy</key>
+	<string>navigationAdapterStyle</string>
+	<key>operationPlatformLocation</key>
+	<string>delegateOutsideStyle</string>
+	<key>semanticsAdapterOpacity</key>
+	<string>buttonDecoratorSaturation</string>
+	<key>visibleSinkStatus</key>
+	<string>respectiveProjectionAlignment</string>
+</dict>
+</plist>

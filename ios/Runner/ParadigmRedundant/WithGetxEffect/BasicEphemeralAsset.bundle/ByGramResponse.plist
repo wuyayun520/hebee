@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerThroughTier</key>
+	<string>topicActivityOrigin</string>
+	<key>exceptionContextVisibility</key>
+	<string>gridviewThroughOperation</string>
+	<key>hashNearWork</key>
+	<string>iconInterpreterSize</string>
+	<key>imperativeResourceTag</key>
+	<string>skinShapeOrientation</string>
+	<key>nibForVariable</key>
+	<string>constraintChainLocation</string>
+	<key>slashJobAlignment</key>
+	<string>similarActionBorder</string>
+	<key>tabviewContextContrast</key>
+	<string>ephemeralRichtextShade</string>
+	<key>textureVersusDecorator</key>
+	<string>graphLayerResponse</string>
+	<key>timerThroughValue</key>
+	<string>taskCommandCount</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveTaskState</key>
+	<string>custompaintPhaseBorder</string>
+	<key>customDialogsFeedback</key>
+	<string>immediateTabbarTag</string>
+	<key>draggableRequestOpacity</key>
+	<string>tabviewWithoutParameter</string>
+	<key>gridValueInset</key>
+	<string>transitionLevelVisible</string>
+	<key>managerNearFacade</key>
+	<string>interactiveChapterTint</string>
+	<key>mobileActivityTag</key>
+	<string>alignmentCompositeStyle</string>
+	<key>respectiveStoryboardRate</key>
+	<string>tabbarScopePosition</string>
+	<key>specifierParameterSpacing</key>
+	<string>captionActionEdge</string>
+	<key>storyboardBufferSkewy</key>
+	<string>kernelLikeComposite</string>
+	<key>touchUntilAction</key>
+	<string>layoutByCommand</string>
+</dict>
+</plist>

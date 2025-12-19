@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProjectionDirection</key>
+	<string>awaitStageInterval</string>
+	<key>challengePhaseFormat</key>
+	<string>reusableChallengeDirection</string>
+	<key>cubeViaShape</key>
+	<string>tensorScrollState</string>
+	<key>errorPhaseRate</key>
+	<string>layoutStateDensity</string>
+	<key>greatServiceBorder</key>
+	<string>protectedBaselineTag</string>
+	<key>subpixelContextDistance</key>
+	<string>numericalCosineTail</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerCompositeFormat</key>
+	<string>channelsVarFrequency</string>
+	<key>diffableMusicBound</key>
+	<string>statefulListviewTransparency</string>
+	<key>elasticPriorityAcceleration</key>
+	<string>statelessBulletContrast</string>
+	<key>managerTierLocation</key>
+	<string>responsiveTexturePadding</string>
+	<key>mediaqueryByMemento</key>
+	<string>observerInterpreterTail</string>
+	<key>movementForBuffer</key>
+	<string>notifierInFlyweight</string>
+	<key>retainedInterpolationPosition</key>
+	<string>discardedContainerKind</string>
+	<key>textThanDecorator</key>
+	<string>basicMapBorder</string>
+</dict>
+</plist>

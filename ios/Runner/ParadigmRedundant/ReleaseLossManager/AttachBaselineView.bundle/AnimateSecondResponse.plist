@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureNumberDuration</key>
+	<string>gradientNumberBehavior</string>
+	<key>currentToolDuration</key>
+	<string>rapidDrawerBorder</string>
+	<key>customizedDialogsOrientation</key>
+	<string>cubeForSingleton</string>
+	<key>deferredSlashTag</key>
+	<string>draggableClipperVelocity</string>
+	<key>richtextScopeTint</key>
+	<string>cardMementoBorder</string>
+	<key>uniqueTangentOffset</key>
+	<string>collectionAroundChain</string>
+</dict>
+</plist>

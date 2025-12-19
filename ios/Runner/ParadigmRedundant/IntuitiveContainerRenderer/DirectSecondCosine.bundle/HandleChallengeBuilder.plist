@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDecoratorVisibility</key>
+	<string>factoryOrProxy</string>
+	<key>buttonStateLocation</key>
+	<string>transitionOutsideSingleton</string>
+	<key>dynamicCupertinoAlignment</key>
+	<string>clipperAwayType</string>
+	<key>previewMediatorMargin</key>
+	<string>getxSingletonDistance</string>
+</dict>
+</plist>

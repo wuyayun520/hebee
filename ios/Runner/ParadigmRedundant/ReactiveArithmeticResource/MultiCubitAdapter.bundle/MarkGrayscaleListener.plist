@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerNearActivity</key>
+	<string>characterPatternResponse</string>
+	<key>curveAlongCycle</key>
+	<string>localGradientMode</string>
+	<key>hierarchicalDependencyLocation</key>
+	<string>providerSystemOrientation</string>
+	<key>intensityIncludeFunction</key>
+	<string>collectionVarAppearance</string>
+	<key>sizePerDecorator</key>
+	<string>parallelUsecaseStatus</string>
+	<key>transitionEnvironmentBehavior</key>
+	<string>descriptionByTask</string>
+	<key>usecaseFromEnvironment</key>
+	<string>resourceAdapterAlignment</string>
+</dict>
+</plist>

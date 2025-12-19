@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledTransitionMode</key>
+	<string>uniformCustompaintSpeed</string>
+	<key>listenerVersusStrategy</key>
+	<string>scaffoldAwayShape</string>
+	<key>shaderTaskBehavior</key>
+	<string>taskPatternSaturation</string>
+	<key>subpixelParamValidation</key>
+	<string>cubeParamTension</string>
+	<key>taskDuringPhase</key>
+	<string>primaryBinaryIndex</string>
+</dict>
+</plist>

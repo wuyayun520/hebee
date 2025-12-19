@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentContainAdapter</key>
+	<string>interfaceIncludeBridge</string>
+	<key>gridAdapterVisibility</key>
+	<string>popupEnvironmentTag</string>
+	<key>progressbarTempleValidation</key>
+	<string>webInjectionScale</string>
+	<key>protocolThroughStrategy</key>
+	<string>listviewValueMode</string>
+</dict>
+</plist>

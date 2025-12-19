@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStrategyIndex</key>
+	<string>delegateThroughVar</string>
+	<key>diffableProgressbarPadding</key>
+	<string>crucialCanvasTheme</string>
+	<key>managerDuringMemento</key>
+	<string>backwardCheckboxColor</string>
+	<key>multiMarginSpeed</key>
+	<string>displayableQueueLocation</string>
+	<key>tabbarInterpreterInset</key>
+	<string>cupertinoInjectionEdge</string>
+</dict>
+</plist>

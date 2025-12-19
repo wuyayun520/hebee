@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushInsideOperation</key>
+	<string>constBrushVisible</string>
+	<key>cartesianRemainderFrequency</key>
+	<string>awaitActionCount</string>
+	<key>errorIncludeScope</key>
+	<string>asynchronousIsolateFeedback</string>
+	<key>priorSemanticsDistance</key>
+	<string>stackAlongLayer</string>
+	<key>promiseActivityLocation</key>
+	<string>providerAmongMode</string>
+	<key>serviceModeTension</key>
+	<string>crudeSceneTop</string>
+	<key>specifySinkBrightness</key>
+	<string>instructionAlongTask</string>
+</dict>
+</plist>

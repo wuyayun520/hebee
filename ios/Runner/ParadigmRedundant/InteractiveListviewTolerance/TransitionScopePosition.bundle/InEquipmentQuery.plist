@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistLevelVisible</key>
+	<string>cosineFunctionOpacity</string>
+	<key>compositionLevelVisible</key>
+	<string>durationShapePressure</string>
+	<key>ignoredLocalizationDuration</key>
+	<string>activatedSessionShade</string>
+	<key>queryAsFramework</key>
+	<string>overlayCycleName</string>
+	<key>significantAppbarFrequency</key>
+	<string>robustBorderRate</string>
+	<key>statePrototypeSaturation</key>
+	<string>customizedExtensionLocation</string>
+</dict>
+</plist>

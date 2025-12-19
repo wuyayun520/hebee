@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoButtonSkewx</key>
+	<string>columnPerFramework</string>
+	<key>easyPetInteraction</key>
+	<string>mobileInterfaceForce</string>
+	<key>flexCycleAcceleration</key>
+	<string>sizePerPattern</string>
+	<key>immutableRouteTension</key>
+	<string>graphSinceProxy</string>
+</dict>
+</plist>

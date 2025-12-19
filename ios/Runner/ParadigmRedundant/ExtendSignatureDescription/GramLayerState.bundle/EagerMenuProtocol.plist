@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCharacterTag</key>
+	<string>relationalPresenterBorder</string>
+	<key>displayableLayerInteraction</key>
+	<string>rapidFlexAcceleration</string>
+	<key>handlerChainPosition</key>
+	<string>eventScopeInset</string>
+	<key>persistentPointMode</key>
+	<string>similarSingletonSkewx</string>
+	<key>petWithFlyweight</key>
+	<string>skinBufferFormat</string>
+	<key>requestLevelLocation</key>
+	<string>segmentBeyondVisitor</string>
+	<key>scrollAsPattern</key>
+	<string>drawerPlatformMomentum</string>
+	<key>staticRequestPosition</key>
+	<string>checkboxContainPrototype</string>
+</dict>
+</plist>

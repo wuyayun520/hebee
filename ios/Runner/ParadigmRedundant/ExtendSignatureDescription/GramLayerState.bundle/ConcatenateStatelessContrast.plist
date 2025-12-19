@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMapTheme</key>
+	<string>rowLevelBrightness</string>
+	<key>asyncReducerEdge</key>
+	<string>activatedObserverPosition</string>
+	<key>buttonVariableMomentum</key>
+	<string>hashAmongAdapter</string>
+	<key>clipperParamColor</key>
+	<string>grayscaleParamRotation</string>
+	<key>commonProjectDelay</key>
+	<string>screenParameterContrast</string>
+	<key>curveVersusValue</key>
+	<string>resilientCellFlags</string>
+	<key>specifyCheckboxHue</key>
+	<string>remainderLevelPosition</string>
+	<key>swiftLayerMargin</key>
+	<string>specifySubpixelTag</string>
+	<key>uniqueScrollVelocity</key>
+	<string>navigationFormColor</string>
+</dict>
+</plist>

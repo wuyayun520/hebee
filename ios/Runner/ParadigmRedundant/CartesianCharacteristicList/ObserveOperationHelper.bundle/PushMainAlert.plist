@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOrInterpreter</key>
+	<string>elasticModalBound</string>
+	<key>protocolFunctionKind</key>
+	<string>appbarFunctionCoord</string>
+	<key>spriteAtWork</key>
+	<string>requestLikeFlyweight</string>
+	<key>staticGraphDepth</key>
+	<string>sliderJobRate</string>
+	<key>tickerStrategyTension</key>
+	<string>liteBorderOpacity</string>
+</dict>
+</plist>

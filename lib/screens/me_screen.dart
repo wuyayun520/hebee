@@ -6,6 +6,9 @@ import 'package:hebee/services/user_profile_service.dart';
 import 'package:hebee/screens/terms_of_service_screen.dart';
 import 'package:hebee/screens/privacy_policy_screen.dart';
 import 'package:hebee/screens/about_us_screen.dart';
+import 'package:hebee/screens/hebee_wallet_screen.dart';
+import 'package:hebee/screens/hebee_vip_screen.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class MeScreen extends StatefulWidget {
   const MeScreen({super.key});
@@ -51,7 +54,67 @@ class _MeScreenState extends State<MeScreen> {
     return null;
   }
 
+  Future<bool> _checkVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    final isVip = prefs.getBool('hebeeIsVip') ?? false;
+    
+    // Check if VIP is expired
+    if (isVip) {
+      final expiryStr = prefs.getString('hebeeVipExpiry');
+      if (expiryStr != null) {
+        final expiry = DateTime.tryParse(expiryStr);
+        if (expiry != null && expiry.isBefore(DateTime.now())) {
+          // VIP expired, update status
+          await prefs.setBool('hebeeIsVip', false);
+          return false;
+        }
+      }
+    }
+    
+    return isVip;
+  }
+
   Future<void> _pickAvatar() async {
+    // Check VIP status before picking avatar
+    final isVip = await _checkVipStatus();
+    
+    if (!isVip) {
+      // Show confirmation dialog
+      final shouldSubscribe = await showDialog<bool>(
+        context: context,
+        builder: (context) => AlertDialog(
+          title: const Text('VIP Required'),
+          content: const Text(
+            'You need to be a VIP member to customize your avatar. Would you like to subscribe?',
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text('Cancel'),
+            ),
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              style: TextButton.styleFrom(
+                foregroundColor: const Color(0xFFFF2E91),
+              ),
+              child: const Text('Subscribe'),
+            ),
+          ],
+        ),
+      );
+
+      if (shouldSubscribe == true) {
+        // Navigate to VIP screen
+        Navigator.of(context).push(
+          MaterialPageRoute(
+            builder: (context) => const HebeeVipScreen(),
+          ),
+        );
+      }
+      return;
+    }
+
+    // User is VIP, proceed to pick avatar
     final picker = ImagePicker();
     final pickedFile = await picker.pickImage(
       source: ImageSource.gallery,
@@ -344,6 +407,24 @@ class _MeScreenState extends State<MeScreen> {
   Widget _buildFunctionButtons() {
     final functions = [
       {
+        'title': 'Wallet',
+        'iconAsset': 'assets/hebee_me_wallet.webp',
+        'route': () => Navigator.of(context).push(
+              MaterialPageRoute(
+                builder: (context) => const WalletScreen(),
+              ),
+            ),
+      },
+      {
+        'title': 'VIP Club',
+        'iconAsset': 'assets/hebee_me_vip.webp',
+        'route': () => Navigator.of(context).push(
+              MaterialPageRoute(
+                builder: (context) => const HebeeVipScreen(),
+              ),
+            ),
+      },
+      {
         'title': 'User Agreement',
         'iconAsset': 'assets/hebee_user_agreement.webp',
         'route': () => Navigator.of(context).push(
@@ -402,6 +483,7 @@ class _MeScreenState extends State<MeScreen> {
                         fontSize: 16,
                         fontWeight: FontWeight.w500,
                         color: Colors.black87,
+                        decoration: TextDecoration.none,
                       ),
                     ),
                   ),

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerPerSingleton</key>
+	<string>methodVersusBuffer</string>
+	<key>delegateWithoutLevel</key>
+	<string>semanticLayoutOpacity</string>
+	<key>groupPatternVelocity</key>
+	<string>fixedRectDuration</string>
+	<key>imperativeAlignmentRate</key>
+	<string>declarativeSpecifierIndex</string>
+	<key>interfaceSingletonShade</key>
+	<string>materialAmongMediator</string>
+	<key>largeIndicatorBorder</key>
+	<string>normStateDuration</string>
+	<key>navigatorPerParameter</key>
+	<string>presenterKindEdge</string>
+	<key>providerBridgeEdge</key>
+	<string>parallelReducerDuration</string>
+	<key>transitionWorkStyle</key>
+	<string>logarithmAtOperation</string>
+</dict>
+</plist>

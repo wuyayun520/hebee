@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVarBehavior</key>
+	<string>delegateViaProxy</string>
+	<key>controllerVisitorTail</key>
+	<string>storeDespiteTemple</string>
+	<key>gestureTierTension</key>
+	<string>directlySpriteInteraction</string>
+	<key>queryInsideStyle</key>
+	<string>tweenPhaseIndex</string>
+	<key>seamlessCubitContrast</key>
+	<string>reactiveDrawerBrightness</string>
+	<key>sequentialBlocCenter</key>
+	<string>cupertinoViaScope</string>
+</dict>
+</plist>

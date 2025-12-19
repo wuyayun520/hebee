@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionForState</key>
+	<string>requiredActivityCenter</string>
+	<key>elasticResponseAppearance</key>
+	<string>standaloneSceneOffset</string>
+	<key>modalContainState</key>
+	<string>reducerOutsideChain</string>
+	<key>permissiveFrameAcceleration</key>
+	<string>animatedSampleSkewx</string>
+	<key>scaleNearAdapter</key>
+	<string>appbarUntilPlatform</string>
+	<key>similarGroupBound</key>
+	<string>parallelLossShade</string>
+	<key>usageTempleColor</key>
+	<string>localMediaFormat</string>
+</dict>
+</plist>

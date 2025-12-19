@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerOutsideStrategy</key>
+	<string>gestureActivityType</string>
+	<key>mobileCompleterVisibility</key>
+	<string>alphaActivityLocation</string>
+	<key>musicModeDistance</key>
+	<string>channelsViaLevel</string>
+	<key>opaqueSubscriptionOrientation</key>
+	<string>radioAgainstStage</string>
+	<key>playbackAndInterpreter</key>
+	<string>serviceOutsideSystem</string>
+	<key>retainedProfileInset</key>
+	<string>appbarWorkOrigin</string>
+	<key>touchFormSpeed</key>
+	<string>buttonSystemAlignment</string>
+</dict>
+</plist>

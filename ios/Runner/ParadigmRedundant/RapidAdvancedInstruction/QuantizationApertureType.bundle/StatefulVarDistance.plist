@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMobxDensity</key>
+	<string>grainFacadeResponse</string>
+	<key>arithmeticIconHead</key>
+	<string>actionIncludeInterpreter</string>
+	<key>pointBeyondVariable</key>
+	<string>cartesianServiceAppearance</string>
+	<key>priorTextScale</key>
+	<string>euclideanHandlerOpacity</string>
+	<key>projectParamBrightness</key>
+	<string>robustSwitchOpacity</string>
+	<key>taskChainValidation</key>
+	<string>apertureAmongActivity</string>
+	<key>webTouchStatus</key>
+	<string>fusedDropdownbuttonPosition</string>
+</dict>
+</plist>

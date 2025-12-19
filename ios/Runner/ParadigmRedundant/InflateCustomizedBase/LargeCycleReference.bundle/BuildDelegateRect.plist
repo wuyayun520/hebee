@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstWork</key>
+	<string>standaloneExtensionName</string>
+	<key>checkboxThroughStrategy</key>
+	<string>statefulServiceDirection</string>
+	<key>draggableCubitVisibility</key>
+	<string>pointIncludeStage</string>
+	<key>priorityChainOpacity</key>
+	<string>asyncBehaviorVelocity</string>
+	<key>significantZoneShade</key>
+	<string>seamlessResponseDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorKindStyle</key>
+	<string>lazyFeatureSpacing</string>
+	<key>declarativeGridviewFrequency</key>
+	<string>sortedMenuOpacity</string>
+	<key>desktopTweenHead</key>
+	<string>cycleTempleBrightness</string>
+	<key>imageThroughFacade</key>
+	<string>metadataProxyVelocity</string>
+	<key>isolateDespitePrototype</key>
+	<string>popupInsideProcess</string>
+	<key>layoutLayerRate</key>
+	<string>frameThanLayer</string>
+	<key>standaloneTextDistance</key>
+	<string>semanticsPlatformBottom</string>
+	<key>statelessRadiusOrigin</key>
+	<string>expandedCommandDelay</string>
+</dict>
+</plist>

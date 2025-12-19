@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSensorTheme</key>
+	<string>sampleAmongNumber</string>
+	<key>buttonAroundMediator</key>
+	<string>durationOrContext</string>
+	<key>nodeThanParameter</key>
+	<string>navigationUntilStructure</string>
+</dict>
+</plist>

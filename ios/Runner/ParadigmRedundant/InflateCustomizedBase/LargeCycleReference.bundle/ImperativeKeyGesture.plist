@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCoordinatorSaturation</key>
+	<string>responseAtContext</string>
+	<key>permanentSegmentBorder</key>
+	<string>spriteViaCycle</string>
+	<key>prismaticEquipmentDirection</key>
+	<string>imperativeStoreSkewx</string>
+	<key>routeActionRight</key>
+	<string>staticCharacterVelocity</string>
+	<key>singletonContextRate</key>
+	<string>backwardSubscriptionTransparency</string>
+	<key>temporaryConfigurationRotation</key>
+	<string>webDurationAlignment</string>
+	<key>viewAdapterSize</key>
+	<string>globalMemberAlignment</string>
+</dict>
+</plist>

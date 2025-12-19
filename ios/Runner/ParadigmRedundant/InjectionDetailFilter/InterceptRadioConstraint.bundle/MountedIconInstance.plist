@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAwayAction</key>
+	<string>sinkLevelDuration</string>
+	<key>navigationMementoKind</key>
+	<string>resizableProgressbarRight</string>
+	<key>notifierViaInterpreter</key>
+	<string>synchronousScreenSpeed</string>
+	<key>requiredTransformerIndex</key>
+	<string>logarithmLikeFlyweight</string>
+	<key>serviceLayerPressure</key>
+	<string>giftMediatorSkewy</string>
+</dict>
+</plist>

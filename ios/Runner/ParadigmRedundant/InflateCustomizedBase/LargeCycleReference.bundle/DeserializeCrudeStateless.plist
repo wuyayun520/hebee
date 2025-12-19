@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystOutsideDecorator</key>
+	<string>cubeScopeSkewy</string>
+	<key>channelAsFlyweight</key>
+	<string>basicBatchTail</string>
+	<key>composableTextPadding</key>
+	<string>liteNotificationMargin</string>
+	<key>controllerAdapterDuration</key>
+	<string>tensorSessionScale</string>
+	<key>graphSingletonEdge</key>
+	<string>topicFormAlignment</string>
+	<key>positionFacadeOrientation</key>
+	<string>symbolAsVar</string>
+	<key>subtleConstraintTheme</key>
+	<string>blocBeyondMethod</string>
+	<key>synchronousOffsetHue</key>
+	<string>zoneFrameworkBottom</string>
+	<key>toolVersusPrototype</key>
+	<string>synchronousSpineStyle</string>
+</dict>
+</plist>

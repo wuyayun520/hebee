@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePositionHue</key>
+	<string>clipperAdapterTop</string>
+	<key>alphaAsVisitor</key>
+	<string>commonTextureBound</string>
+	<key>challengeBridgeFrequency</key>
+	<string>completionLevelValidation</string>
+	<key>containerInVisitor</key>
+	<string>completerCommandKind</string>
+	<key>granularDrawerForce</key>
+	<string>retainedStatefulRate</string>
+	<key>handlerEnvironmentDelay</key>
+	<string>menuInAdapter</string>
+	<key>transitionDecoratorBrightness</key>
+	<string>awaitForProxy</string>
+</dict>
+</plist>

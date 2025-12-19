@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncObserverName</key>
+	<string>composableWidgetMargin</string>
+	<key>errorBufferKind</key>
+	<string>elasticViewOrientation</string>
+	<key>monsterExceptPrototype</key>
+	<string>activeTabbarTint</string>
+	<key>requiredMetadataVelocity</key>
+	<string>curveStrategyMode</string>
+	<key>singleMenuDuration</key>
+	<string>navigatorCycleVisibility</string>
+</dict>
+</plist>

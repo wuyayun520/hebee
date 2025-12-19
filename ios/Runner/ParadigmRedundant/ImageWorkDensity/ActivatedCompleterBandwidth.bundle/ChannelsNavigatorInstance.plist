@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorExceptCycle</key>
+	<string>arithmeticHashOrientation</string>
+	<key>layoutWorkTheme</key>
+	<string>resizableProfileAlignment</string>
+	<key>priorBaselineBehavior</key>
+	<string>cacheStyleHue</string>
+	<key>standaloneMultiplicationType</key>
+	<string>numericalPopupEdge</string>
+	<key>utilLayerSpacing</key>
+	<string>accordionButtonBehavior</string>
+</dict>
+</plist>

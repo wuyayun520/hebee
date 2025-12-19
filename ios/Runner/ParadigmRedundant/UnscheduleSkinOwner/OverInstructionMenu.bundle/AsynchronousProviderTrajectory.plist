@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constStatefulTint</key>
+	<string>singleTitleColor</string>
+	<key>cycleSystemMode</key>
+	<string>immediateGrayscaleOrientation</string>
+	<key>equalizationTaskOpacity</key>
+	<string>transitionThanOperation</string>
+	<key>remainderSystemDistance</key>
+	<string>hashDuringTask</string>
+	<key>themeCommandVisibility</key>
+	<string>navigatorMementoVisible</string>
+</dict>
+</plist>

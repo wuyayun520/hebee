@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisDuringProxy</key>
+	<string>presenterCycleStatus</string>
+	<key>handlerPhaseRate</key>
+	<string>gramByProcess</string>
+	<key>nextBaselineOpacity</key>
+	<string>metadataDespiteScope</string>
+	<key>rapidNodeCenter</key>
+	<string>gradientOfPrototype</string>
+	<key>standaloneCubitOpacity</key>
+	<string>subpixelCompositeSaturation</string>
+	<key>statefulFrameworkCoord</key>
+	<string>observerFrameworkCenter</string>
+</dict>
+</plist>

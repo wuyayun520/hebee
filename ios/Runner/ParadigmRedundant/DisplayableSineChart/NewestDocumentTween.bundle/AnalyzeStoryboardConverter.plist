@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBeyondContext</key>
+	<string>numericalServiceState</string>
+	<key>pinchableSliderCenter</key>
+	<string>widgetOutsideSystem</string>
+	<key>queueInsidePrototype</key>
+	<string>alignmentAlongStrategy</string>
+	<key>sliderNumberRate</key>
+	<string>containerProxyCoord</string>
+	<key>tangentAlongParameter</key>
+	<string>durationShapeBound</string>
+</dict>
+</plist>

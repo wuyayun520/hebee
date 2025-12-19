@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSinkTail</key>
+	<string>loopAboutVisitor</string>
+	<key>dependencyAsMode</key>
+	<string>cartesianGraphTop</string>
+	<key>handlerViaPhase</key>
+	<string>relationalDimensionSpeed</string>
+	<key>hyperbolicMetadataInterval</key>
+	<string>awaitPerScope</string>
+</dict>
+</plist>

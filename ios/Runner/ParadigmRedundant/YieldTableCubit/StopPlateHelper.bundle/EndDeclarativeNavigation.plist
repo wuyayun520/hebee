@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousQueueMode</key>
+	<string>segmentPhaseInterval</string>
+	<key>axisPerStrategy</key>
+	<string>flexibleTernaryBound</string>
+	<key>concreteLabelDuration</key>
+	<string>assetIncludeSingleton</string>
+	<key>projectLevelTag</key>
+	<string>oldBoxshadowAppearance</string>
+	<key>richtextStylePadding</key>
+	<string>requestAwayTier</string>
+	<key>sequentialServiceContrast</key>
+	<string>resultJobLocation</string>
+	<key>signatureLevelFeedback</key>
+	<string>mediumActivityTint</string>
+	<key>sliderOperationTheme</key>
+	<string>activatedParticleStatus</string>
+</dict>
+</plist>

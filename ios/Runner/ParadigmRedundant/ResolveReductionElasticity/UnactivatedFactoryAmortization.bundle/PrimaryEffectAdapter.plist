@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intensityVersusObserver</key>
+	<string>delegateCycleRate</string>
+	<key>interactorCycleDirection</key>
+	<string>activatedEquipmentKind</string>
+	<key>lastCompletionCenter</key>
+	<string>tickerWithoutShape</string>
+	<key>normStateTension</key>
+	<string>channelsContextContrast</string>
+	<key>optionPlatformTransparency</key>
+	<string>navigatorNearType</string>
+	<key>pinchableSubscriptionInteraction</key>
+	<string>transformerWithoutPlatform</string>
+	<key>rectWithoutFacade</key>
+	<string>zoneOutsideMethod</string>
+</dict>
+</plist>

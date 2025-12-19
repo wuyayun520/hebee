@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSinkType</key>
+	<string>notifierAsPlatform</string>
+	<key>assetAsProxy</key>
+	<string>riverpodForPlatform</string>
+	<key>chartStageTop</key>
+	<string>asyncQueryForce</string>
+	<key>configurationForStyle</key>
+	<string>gridNearFramework</string>
+	<key>fragmentShapeOffset</key>
+	<string>sinkShapeRate</string>
+	<key>frameBridgeTint</key>
+	<string>reducerForState</string>
+	<key>temporaryScaffoldAlignment</key>
+	<string>curveUntilForm</string>
+</dict>
+</plist>

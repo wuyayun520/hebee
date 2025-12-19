@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferObserverRotation</key>
+	<string>capacitiesFlyweightBottom</string>
+	<key>firstReferenceIndex</key>
+	<string>storyboardFlyweightInterval</string>
+	<key>interactorThanPrototype</key>
+	<string>axisProxyShape</string>
+	<key>normalBaselineTheme</key>
+	<string>titleVariableTheme</string>
+	<key>progressbarLikeStyle</key>
+	<string>gemStageFeedback</string>
+	<key>providerLayerForce</key>
+	<string>resourceValueOffset</string>
+	<key>riverpodPatternTop</key>
+	<string>widgetIncludePrototype</string>
+	<key>ternarySinceMode</key>
+	<string>tableMediatorOffset</string>
+	<key>textureWorkFlags</key>
+	<string>semanticManagerLocation</string>
+</dict>
+</plist>

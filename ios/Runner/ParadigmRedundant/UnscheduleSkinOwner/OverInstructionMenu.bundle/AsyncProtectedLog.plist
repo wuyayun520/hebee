@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentViaPlatform</key>
+	<string>bufferBesidePhase</string>
+	<key>groupValueResponse</key>
+	<string>textByCycle</string>
+	<key>localizationAdapterMode</key>
+	<string>advancedNavigatorVisibility</string>
+	<key>mobileCaptionEdge</key>
+	<string>transitionThroughAction</string>
+	<key>sortedFutureType</key>
+	<string>tabbarAdapterFlags</string>
+	<key>spriteShapeOpacity</key>
+	<string>offsetStageInset</string>
+</dict>
+</plist>

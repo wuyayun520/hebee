@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerShapeScale</key>
+	<string>delegateOfPrototype</string>
+	<key>intuitiveProviderAcceleration</key>
+	<string>constRectSpacing</string>
+	<key>positionPlatformCoord</key>
+	<string>heapMethodEdge</string>
+	<key>streamOfContext</key>
+	<string>compositionalSegmentOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePhaseDelay</key>
+	<string>storeInsideStage</string>
+	<key>gestureAdapterResponse</key>
+	<string>containerStyleTail</string>
+	<key>intuitiveIconAppearance</key>
+	<string>nextMomentumShape</string>
+	<key>notifierBufferOffset</key>
+	<string>independentBinaryValidation</string>
+	<key>similarBlocAlignment</key>
+	<string>arithmeticGridviewTransparency</string>
+	<key>swiftStateColor</key>
+	<string>interfaceCycleTension</string>
+</dict>
+</plist>

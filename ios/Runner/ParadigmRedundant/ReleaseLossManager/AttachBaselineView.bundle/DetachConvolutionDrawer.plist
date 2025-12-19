@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeActionAppearance</key>
+	<string>specifyGramOffset</string>
+	<key>decorationPerActivity</key>
+	<string>rowByComposite</string>
+	<key>directlyChannelState</key>
+	<string>crudeListenerForce</string>
+	<key>logPatternIndex</key>
+	<string>normalFlexTail</string>
+	<key>taskFormRight</key>
+	<string>uniformRichtextRate</string>
+</dict>
+</plist>

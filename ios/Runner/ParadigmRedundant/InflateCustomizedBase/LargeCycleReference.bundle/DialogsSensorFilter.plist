@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryScopeShape</key>
+	<string>curveFunctionInteraction</string>
+	<key>newestTextfieldKind</key>
+	<string>firstParticleFrequency</string>
+	<key>protocolFromComposite</key>
+	<string>topicByLayer</string>
+</dict>
+</plist>

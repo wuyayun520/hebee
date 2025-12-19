@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAdapterMargin</key>
+	<string>blocPhaseMomentum</string>
+	<key>dropdownbuttonVariableTop</key>
+	<string>denseGrainCount</string>
+	<key>explicitDropdownbuttonDelay</key>
+	<string>asyncCommandTransparency</string>
+	<key>positionAroundTask</key>
+	<string>exceptionWithAction</string>
+	<key>tweenWithoutStrategy</key>
+	<string>immediateCompleterInset</string>
+	<key>widgetDecoratorOpacity</key>
+	<string>characterAgainstPhase</string>
+</dict>
+</plist>

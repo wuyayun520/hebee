@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBridgeSaturation</key>
+	<string>navigationViaProcess</string>
+	<key>configurationAgainstParam</key>
+	<string>observerAgainstEnvironment</string>
+	<key>dependencyNearMode</key>
+	<string>characterInsideChain</string>
+	<key>errorOrPhase</key>
+	<string>projectPlatformBottom</string>
+	<key>immediateInterfaceFormat</key>
+	<string>alignmentActionDirection</string>
+	<key>normalExpandedForce</key>
+	<string>pinchableTaskVisible</string>
+	<key>prevLossAppearance</key>
+	<string>directInteractorCoord</string>
+	<key>taskMethodDepth</key>
+	<string>newestMethodSaturation</string>
+</dict>
+</plist>

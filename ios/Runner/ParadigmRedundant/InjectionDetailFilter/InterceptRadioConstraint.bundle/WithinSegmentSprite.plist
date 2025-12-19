@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityMementoBehavior</key>
+	<string>originalIsolateResponse</string>
+	<key>chartModeTheme</key>
+	<string>cupertinoTickerMode</string>
+	<key>tabbarMethodFormat</key>
+	<string>routerWithMode</string>
+	<key>taskThroughOperation</key>
+	<string>delegateByMethod</string>
+</dict>
+</plist>

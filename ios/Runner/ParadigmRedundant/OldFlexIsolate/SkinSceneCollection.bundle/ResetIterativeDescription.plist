@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorBySystem</key>
+	<string>channelsLikeWork</string>
+	<key>cupertinoAwayVar</key>
+	<string>granularResourceStatus</string>
+	<key>hardMissionFlags</key>
+	<string>plateVarPadding</string>
+	<key>interfaceVarOpacity</key>
+	<string>widgetNearSingleton</string>
+	<key>intuitiveArithmeticRate</key>
+	<string>flexibleProgressbarPadding</string>
+	<key>notificationViaFramework</key>
+	<string>enabledTabbarContrast</string>
+	<key>responseViaCycle</key>
+	<string>progressbarStyleFrequency</string>
+</dict>
+</plist>

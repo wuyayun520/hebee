@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBridgeSaturation</key>
+	<string>iconLayerMargin</string>
+	<key>blocAndPattern</key>
+	<string>coordinatorDespiteComposite</string>
+	<key>buttonDespiteStrategy</key>
+	<string>bufferStrategyAlignment</string>
+	<key>decorationDespiteCycle</key>
+	<string>pinchableLabelSpacing</string>
+	<key>greatFrameTheme</key>
+	<string>batchBeyondStructure</string>
+	<key>labelJobBound</key>
+	<string>chapterLevelVisibility</string>
+	<key>otherRadioFlags</key>
+	<string>callbackProcessVelocity</string>
+	<key>vectorCycleTag</key>
+	<string>semanticShaderOrigin</string>
+</dict>
+</plist>

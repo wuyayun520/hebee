@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorAlongVariable</key>
+	<string>intensityOfValue</string>
+	<key>localBuilderBehavior</key>
+	<string>bufferJobTint</string>
+	<key>queueFrameworkKind</key>
+	<string>requestStrategyRotation</string>
+</dict>
+</plist>

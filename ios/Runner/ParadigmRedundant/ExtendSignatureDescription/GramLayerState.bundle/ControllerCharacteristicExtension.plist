@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTypeInterval</key>
+	<string>bufferAgainstObserver</string>
+	<key>builderContainStyle</key>
+	<string>sequentialConstraintCount</string>
+	<key>handlerFrameworkBehavior</key>
+	<string>repositoryViaType</string>
+	<key>monsterVersusTask</key>
+	<string>eventBeyondVar</string>
+	<key>subtleFuturePressure</key>
+	<string>behaviorLikeFlyweight</string>
+	<key>themeForPlatform</key>
+	<string>actionValueIndex</string>
+</dict>
+</plist>

@@ -93,5 +93,35 @@ class InteractionService {
       return false;
     }
   }
+
+  // Unlocked users functionality
+  static const String _unlockedUsersKey = 'unlocked_users';
+
+  static Future<List<int>> getUnlockedUserIds() async {
+    final prefs = await SharedPreferences.getInstance();
+    final unlockedIdsString = prefs.getStringList(_unlockedUsersKey) ?? [];
+    return unlockedIdsString.map((id) => int.tryParse(id)).whereType<int>().toList();
+  }
+
+  static Future<bool> isUserUnlocked(int userId) async {
+    final unlockedIds = await getUnlockedUserIds();
+    return unlockedIds.contains(userId);
+  }
+
+  static Future<bool> unlockUser(int userId) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final unlockedIds = await getUnlockedUserIds();
+      
+      if (!unlockedIds.contains(userId)) {
+        unlockedIds.add(userId);
+        final unlockedIdsString = unlockedIds.map((id) => id.toString()).toList();
+        return await prefs.setStringList(_unlockedUsersKey, unlockedIdsString);
+      }
+      return true;
+    } catch (e) {
+      return false;
+    }
+  }
 }
 

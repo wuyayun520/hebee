@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTaskTail</key>
+	<string>opaqueRemainderDelay</string>
+	<key>currentButtonResponse</key>
+	<string>activeInkwellIndex</string>
+	<key>newestChapterPosition</key>
+	<string>routerVisitorCount</string>
+	<key>secondOverlayPressure</key>
+	<string>richtextFormMargin</string>
+	<key>significantMarginShade</key>
+	<string>momentumSingletonAlignment</string>
+	<key>transformerEnvironmentBottom</key>
+	<string>methodAgainstPlatform</string>
+</dict>
+</plist>

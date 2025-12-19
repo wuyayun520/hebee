@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryUntilPattern</key>
+	<string>queryWithoutCycle</string>
+	<key>eventAmongChain</key>
+	<string>navigatorParameterStatus</string>
+	<key>grainVersusProcess</key>
+	<string>unaryLevelCount</string>
+	<key>localizationPhaseInteraction</key>
+	<string>labelVersusMediator</string>
+	<key>momentumLevelVisible</key>
+	<string>gridCompositePadding</string>
+	<key>sustainableIntegerDensity</key>
+	<string>elasticApertureBorder</string>
+	<key>unaryMethodInteraction</key>
+	<string>reusableTabbarCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsForSingleton</key>
+	<string>chartMementoOffset</string>
+	<key>crudeQueueMargin</key>
+	<string>topicLikeState</string>
+	<key>imperativeIsolateRight</key>
+	<string>asynchronousSubscriptionAlignment</string>
+	<key>independentPainterRight</key>
+	<string>localizationViaTask</string>
+	<key>inheritedCallbackKind</key>
+	<string>momentumKindDirection</string>
+	<key>lostDurationRotation</key>
+	<string>sortedButtonForce</string>
+	<key>sharedFutureLocation</key>
+	<string>textfieldJobKind</string>
+	<key>stateVersusTier</key>
+	<string>primaryLayerStyle</string>
+	<key>tabbarProcessSpacing</key>
+	<string>notificationExceptAction</string>
+</dict>
+</plist>

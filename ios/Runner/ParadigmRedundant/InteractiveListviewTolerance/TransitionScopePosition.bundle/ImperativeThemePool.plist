@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTextEdge</key>
+	<string>stateDuringActivity</string>
+	<key>anchorStateTail</key>
+	<string>dimensionPlatformRotation</string>
+	<key>containerAgainstPhase</key>
+	<string>resizableOperationRotation</string>
+	<key>crucialConfigurationDensity</key>
+	<string>numericalProviderFlags</string>
+	<key>fusedGroupSaturation</key>
+	<string>customBufferDistance</string>
+	<key>numericalProjectionIndex</key>
+	<string>displayableEventDepth</string>
+	<key>pinchableResultDelay</key>
+	<string>transitionUntilProxy</string>
+	<key>previewWithInterpreter</key>
+	<string>sinkInsideFacade</string>
+	<key>queryLayerBrightness</key>
+	<string>groupExceptVariable</string>
+	<key>reactivePriorityFrequency</key>
+	<string>capacitiesAgainstFlyweight</string>
+</dict>
+</plist>

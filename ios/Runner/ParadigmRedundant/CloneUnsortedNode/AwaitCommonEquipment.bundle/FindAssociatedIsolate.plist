@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPerFacade</key>
+	<string>statelessOperationVisibility</string>
+	<key>expandedValueDuration</key>
+	<string>cubeAlongContext</string>
+	<key>factoryAlongParam</key>
+	<string>mapTaskHue</string>
+	<key>logPhaseResponse</key>
+	<string>checkboxAlongObserver</string>
+	<key>nativeAnimationColor</key>
+	<string>contractionViaObserver</string>
+	<key>observerStyleType</key>
+	<string>activeMovementTheme</string>
+	<key>progressbarWithVar</key>
+	<string>uniformServiceDuration</string>
+	<key>sharedContainerValidation</key>
+	<string>navigationWithoutParameter</string>
+	<key>smallPresenterValidation</key>
+	<string>publicDescriptionStatus</string>
+	<key>spineActivityTint</key>
+	<string>contractionValueFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventVersusScope</key>
+	<string>themeChainState</string>
+	<key>histogramTaskInterval</key>
+	<string>basePlatformDistance</string>
+	<key>independentCubeCoord</key>
+	<string>factoryPerSingleton</string>
+	<key>modulusContextPadding</key>
+	<string>sharedFrameColor</string>
+	<key>navigatorDecoratorLeft</key>
+	<string>tweenAgainstValue</string>
+	<key>rapidPlateKind</key>
+	<string>shaderThroughFlyweight</string>
+	<key>resourceOperationHue</key>
+	<string>unactivatedBitrateAcceleration</string>
+	<key>roleCommandInteraction</key>
+	<string>iconFrameworkBorder</string>
+	<key>textMementoSkewx</key>
+	<string>controllerProxySaturation</string>
+</dict>
+</plist>

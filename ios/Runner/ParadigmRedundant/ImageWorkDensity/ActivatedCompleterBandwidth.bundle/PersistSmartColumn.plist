@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSwitchVelocity</key>
+	<string>sessionFromChain</string>
+	<key>extensionOfBuffer</key>
+	<string>providerBySingleton</string>
+	<key>independentResourceBrightness</key>
+	<string>metadataStageRate</string>
+	<key>prevPresenterOpacity</key>
+	<string>histogramContainAction</string>
+	<key>storyboardLevelAppearance</key>
+	<string>observerEnvironmentVisible</string>
+</dict>
+</plist>

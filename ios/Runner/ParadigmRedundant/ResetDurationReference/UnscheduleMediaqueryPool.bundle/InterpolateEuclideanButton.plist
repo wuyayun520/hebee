@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferWithNumber</key>
+	<string>segmentBridgePressure</string>
+	<key>cubitInterpreterFormat</key>
+	<string>columnParameterOrigin</string>
+	<key>currentSubpixelInterval</key>
+	<string>ephemeralCubitBottom</string>
+	<key>customChecklistTop</key>
+	<string>iterativeRouteResponse</string>
+	<key>memberAmongShape</key>
+	<string>stateEnvironmentInterval</string>
+	<key>momentumFrameworkKind</key>
+	<string>nibLayerState</string>
+	<key>paddingSystemSpeed</key>
+	<string>durationMementoOrientation</string>
+	<key>storeMementoDelay</key>
+	<string>instructionLikeMethod</string>
+	<key>tickerStructureDelay</key>
+	<string>intensityValueTail</string>
+</dict>
+</plist>

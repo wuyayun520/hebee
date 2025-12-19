@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAndPlatform</key>
+	<string>histogramActivityMomentum</string>
+	<key>effectForCycle</key>
+	<string>commandOutsideCommand</string>
+	<key>normLayerValidation</key>
+	<string>specifyTexturePosition</string>
+	<key>storageAgainstVariable</key>
+	<string>inheritedGesturedetectorSkewx</string>
+	<key>swiftViaStyle</key>
+	<string>persistentSymbolStyle</string>
+	<key>textfieldInState</key>
+	<string>persistentExtensionDuration</string>
+</dict>
+</plist>

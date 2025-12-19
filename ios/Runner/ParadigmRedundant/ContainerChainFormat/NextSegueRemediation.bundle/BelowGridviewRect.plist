@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferByDecorator</key>
+	<string>blocProxyVisible</string>
+	<key>chapterAmongTier</key>
+	<string>checklistStyleSize</string>
+	<key>containerWithScope</key>
+	<string>largeTextContrast</string>
+	<key>crudeResourceStyle</key>
+	<string>richtextLikeSystem</string>
+	<key>delicateConstraintSpacing</key>
+	<string>decorationFormLeft</string>
+	<key>dimensionFlyweightTop</key>
+	<string>originalDescriptorFrequency</string>
+	<key>routeNearValue</key>
+	<string>instructionLevelOrigin</string>
+</dict>
+</plist>

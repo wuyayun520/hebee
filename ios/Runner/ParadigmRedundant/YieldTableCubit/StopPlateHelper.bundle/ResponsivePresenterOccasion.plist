@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorBeyondParam</key>
+	<string>heroFromChain</string>
+	<key>prevLayoutInteraction</key>
+	<string>plateInLevel</string>
+	<key>resourceFacadeSkewx</key>
+	<string>popupThroughSystem</string>
+	<key>scrollNearShape</key>
+	<string>buttonIncludeFunction</string>
+	<key>stateStyleBottom</key>
+	<string>statelessThanFacade</string>
+	<key>titleVersusKind</key>
+	<string>alignmentIncludeMediator</string>
+</dict>
+</plist>

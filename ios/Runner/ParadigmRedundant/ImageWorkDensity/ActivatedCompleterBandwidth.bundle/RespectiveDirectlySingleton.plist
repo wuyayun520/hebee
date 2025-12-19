@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonPointEdge</key>
+	<string>resourceAndMemento</string>
+	<key>concurrentBrushLocation</key>
+	<string>positionedAtTier</string>
+	<key>frameAlongPlatform</key>
+	<string>eventContextRotation</string>
+	<key>inheritedGridScale</key>
+	<string>constraintScopeDirection</string>
+	<key>modelFacadeSkewy</key>
+	<string>reactiveObserverTint</string>
+	<key>navigationOutsideOperation</key>
+	<string>bufferAtPlatform</string>
+</dict>
+</plist>

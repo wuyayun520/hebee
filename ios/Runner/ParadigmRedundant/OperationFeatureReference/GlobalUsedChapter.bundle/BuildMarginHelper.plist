@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionIncludeMemento</key>
+	<string>intermediateRowValidation</string>
+	<key>crudeOffsetFeedback</key>
+	<string>directlyChartFeedback</string>
+	<key>diffableTechniqueMargin</key>
+	<string>semanticsAboutOperation</string>
+	<key>injectionFunctionShape</key>
+	<string>navigationAroundCommand</string>
+	<key>interpolationContextForce</key>
+	<string>numericalAllocatorScale</string>
+	<key>invisibleMenuLeft</key>
+	<string>statelessMediatorOrigin</string>
+	<key>newestSinkTag</key>
+	<string>tensorStampFrequency</string>
+	<key>statelessNumberFormat</key>
+	<string>allocatorInsideType</string>
+</dict>
+</plist>

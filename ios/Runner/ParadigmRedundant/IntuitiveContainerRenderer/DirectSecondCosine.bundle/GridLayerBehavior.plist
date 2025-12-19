@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCycleFrequency</key>
+	<string>dependencyWithoutBridge</string>
+	<key>diffableLabelMode</key>
+	<string>symmetricAsyncDuration</string>
+	<key>mobileTabbarIndex</key>
+	<string>nibForType</string>
+	<key>particleByCommand</key>
+	<string>iconVersusBridge</string>
+	<key>requestAboutMemento</key>
+	<string>hashPerPlatform</string>
+	<key>signPlatformForce</key>
+	<string>sampleThanStrategy</string>
+	<key>singleGemStatus</key>
+	<string>symmetricSessionEdge</string>
+	<key>smartCapsuleCoord</key>
+	<string>histogramStateBound</string>
+	<key>workflowThanEnvironment</key>
+	<string>signatureOfState</string>
+</dict>
+</plist>

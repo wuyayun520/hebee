@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyFlyweightRotation</key>
+	<string>signatureWithoutComposite</string>
+	<key>mainCoordinatorPosition</key>
+	<string>resolverSingletonHue</string>
+	<key>sceneAwayPrototype</key>
+	<string>easyIndicatorTail</string>
+	<key>stepVersusPattern</key>
+	<string>greatEntityShade</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalStepAppearance</key>
+	<string>keyTextSkewx</string>
+	<key>deferredTimerPressure</key>
+	<string>localAwaitDuration</string>
+	<key>featureBeyondFramework</key>
+	<string>anchorTierBrightness</string>
+	<key>futureMediatorSaturation</key>
+	<string>newestPresenterDistance</string>
+	<key>gestureProcessInset</key>
+	<string>compositionalObserverCount</string>
+	<key>pinchableFutureTension</key>
+	<string>storageParamDuration</string>
+	<key>robustSinkContrast</key>
+	<string>discardedTimerBottom</string>
+	<key>unsortedHashStyle</key>
+	<string>imperativeBoxshadowDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchLevelShade</key>
+	<string>widgetStyleTint</string>
+	<key>futurePlatformTint</key>
+	<string>paddingUntilEnvironment</string>
+	<key>greatDescriptorAppearance</key>
+	<string>permanentCubeFlags</string>
+	<key>missedInstructionVelocity</key>
+	<string>webMethodTag</string>
+	<key>nativeMetadataSpacing</key>
+	<string>hierarchicalRichtextSpeed</string>
+	<key>observerThroughScope</key>
+	<string>consumerWithPlatform</string>
+	<key>storeOrBridge</key>
+	<string>viewBeyondLayer</string>
+</dict>
+</plist>

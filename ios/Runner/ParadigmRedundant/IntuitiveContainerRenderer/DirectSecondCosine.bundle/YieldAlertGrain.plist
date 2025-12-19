@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDependencyForce</key>
+	<string>histogramTierSize</string>
+	<key>factoryDuringPrototype</key>
+	<string>errorDuringMethod</string>
+	<key>queryVersusContext</key>
+	<string>injectionLikeContext</string>
+	<key>sliderIncludeSingleton</key>
+	<string>chartLevelTail</string>
+	<key>sliderWorkSkewy</key>
+	<string>playbackMethodTension</string>
+	<key>specifierSystemCenter</key>
+	<string>pointIncludePrototype</string>
+	<key>symmetricAppbarLocation</key>
+	<string>popupViaMethod</string>
+</dict>
+</plist>

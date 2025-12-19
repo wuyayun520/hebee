@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChallengeRotation</key>
+	<string>checkboxFromSystem</string>
+	<key>eagerDimensionFeedback</key>
+	<string>collectionLikeTask</string>
+	<key>giftAboutStructure</key>
+	<string>curveJobSpeed</string>
+	<key>immediateStatefulContrast</key>
+	<string>dynamicEntropyAlignment</string>
+	<key>layoutAlongMethod</key>
+	<string>customAppbarCount</string>
+	<key>optionTypeFormat</key>
+	<string>adaptiveLayerShade</string>
+	<key>priorCurveDuration</key>
+	<string>hyperbolicNavigationAlignment</string>
+	<key>smartContractionOpacity</key>
+	<string>pinchableCoordinatorOrientation</string>
+	<key>transitionViaState</key>
+	<string>taskSystemDensity</string>
+</dict>
+</plist>

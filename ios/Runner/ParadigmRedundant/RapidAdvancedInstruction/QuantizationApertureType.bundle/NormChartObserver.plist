@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTickerBorder</key>
+	<string>containerFromPrototype</string>
+	<key>blocAroundPattern</key>
+	<string>screenAndParameter</string>
+	<key>concreteViewLocation</key>
+	<string>independentPromiseShape</string>
+	<key>immutableInterpolationShade</key>
+	<string>crudeResourceAlignment</string>
+	<key>interactorAmongDecorator</key>
+	<string>projectionNearVar</string>
+	<key>localMethodAppearance</key>
+	<string>largeAccessoryTop</string>
+	<key>positionedFormFormat</key>
+	<string>groupParameterSpacing</string>
+	<key>rectLikeNumber</key>
+	<string>widgetInMethod</string>
+</dict>
+</plist>

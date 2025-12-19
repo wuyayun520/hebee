@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionDuringSystem</key>
+	<string>touchAtBridge</string>
+	<key>coordinatorProcessAcceleration</key>
+	<string>blocContextRotation</string>
+	<key>cupertinoAwaitTag</key>
+	<string>shaderChainBrightness</string>
+	<key>logBeyondPlatform</key>
+	<string>gateMethodOpacity</string>
+	<key>nextLayoutTag</key>
+	<string>typicalHandlerVisibility</string>
+	<key>sliderParamBrightness</key>
+	<string>extensionPrototypeCenter</string>
+	<key>textShapeStatus</key>
+	<string>swiftProxyBottom</string>
+</dict>
+</plist>

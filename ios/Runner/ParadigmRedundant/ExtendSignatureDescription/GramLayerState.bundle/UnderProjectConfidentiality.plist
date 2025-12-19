@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistVariableOrientation</key>
+	<string>mobxTempleLocation</string>
+	<key>localizationParamAppearance</key>
+	<string>navigatorStructureFeedback</string>
+	<key>normActionDepth</key>
+	<string>reducerWithoutVariable</string>
+	<key>titleMementoRight</key>
+	<string>allocatorByState</string>
+	<key>webSizeCenter</key>
+	<string>smallSliderInset</string>
+</dict>
+</plist>

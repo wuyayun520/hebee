@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTimerAppearance</key>
+	<string>controllerUntilValue</string>
+	<key>effectFunctionTag</key>
+	<string>statelessViaNumber</string>
+	<key>elasticCardHead</key>
+	<string>autoScrollLeft</string>
+	<key>grayscaleAsCommand</key>
+	<string>invisibleUtilSpeed</string>
+	<key>originalStampBehavior</key>
+	<string>spotThroughFlyweight</string>
+	<key>priorCompletionStatus</key>
+	<string>grainFormTransparency</string>
+	<key>serviceBridgeOrientation</key>
+	<string>tensorDimensionShape</string>
+	<key>tappableStampForce</key>
+	<string>textureTaskCount</string>
+</dict>
+</plist>

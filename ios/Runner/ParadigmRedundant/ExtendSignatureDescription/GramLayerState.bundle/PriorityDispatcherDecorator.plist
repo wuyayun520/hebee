@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchThanVar</key>
+	<string>descriptionOperationFrequency</string>
+	<key>blocThanPlatform</key>
+	<string>equipmentOrStructure</string>
+	<key>durationViaSingleton</key>
+	<string>progressbarFlyweightDepth</string>
+	<key>featureNearNumber</key>
+	<string>mediocreRowPadding</string>
+	<key>firstExceptionMargin</key>
+	<string>eventIncludeProxy</string>
+	<key>ignoredModelInteraction</key>
+	<string>subsequentQueryInset</string>
+	<key>positionedFlyweightOrientation</key>
+	<string>exceptionInsideScope</string>
+</dict>
+</plist>

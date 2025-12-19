@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitShapeEdge</key>
+	<string>enabledBufferSkewy</string>
+	<key>chapterByStrategy</key>
+	<string>baseAtSingleton</string>
+	<key>loopProcessDuration</key>
+	<string>petWithMemento</string>
+	<key>newestLoopTheme</key>
+	<string>popupFrameworkDelay</string>
+	<key>responsiveRepositorySpeed</key>
+	<string>routerIncludeStage</string>
+	<key>similarDrawerSkewy</key>
+	<string>appbarFlyweightDirection</string>
+	<key>visibleClipperTag</key>
+	<string>deferredResponseOpacity</string>
+</dict>
+</plist>

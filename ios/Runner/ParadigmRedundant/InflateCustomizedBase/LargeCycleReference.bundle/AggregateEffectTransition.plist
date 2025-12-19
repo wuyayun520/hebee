@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionUsecaseCount</key>
+	<string>dynamicDrawerScale</string>
+	<key>builderMediatorValidation</key>
+	<string>originalChartColor</string>
+	<key>cartesianMediaqueryState</key>
+	<string>plateSystemCoord</string>
+	<key>constraintInObserver</key>
+	<string>secondLabelVisibility</string>
+	<key>constraintPrototypeValidation</key>
+	<string>ephemeralExpandedDensity</string>
+	<key>menuNearAction</key>
+	<string>hashViaProxy</string>
+	<key>tabbarInBridge</key>
+	<string>gemVisitorVelocity</string>
+</dict>
+</plist>

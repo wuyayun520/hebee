@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatePatternAlignment</key>
+	<string>newestSignatureAppearance</string>
+	<key>configurationMethodBorder</key>
+	<string>webPositionInset</string>
+	<key>constAccessorySize</key>
+	<string>relationalRepositoryBrightness</string>
+	<key>denseSceneCenter</key>
+	<string>seamlessGridStatus</string>
+	<key>immediateSizeRate</key>
+	<string>dedicatedNibOpacity</string>
+	<key>intensityOutsideMode</key>
+	<string>subtleGrainScale</string>
+	<key>nextProgressbarLocation</key>
+	<string>dedicatedCharacterStyle</string>
+	<key>pivotalEffectDensity</key>
+	<string>buttonThanContext</string>
+	<key>reusableLayoutPadding</key>
+	<string>petIncludePattern</string>
+	<key>transitionLikeStructure</key>
+	<string>equalizationByPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customProviderKind</key>
+	<string>seamlessTangentBound</string>
+	<key>ephemeralBoxshadowMargin</key>
+	<string>layoutWithShape</string>
+	<key>robustLocalizationValidation</key>
+	<string>sophisticatedRectMomentum</string>
+	<key>subpixelPhaseValidation</key>
+	<string>normalStepBehavior</string>
+</dict>
+</plist>

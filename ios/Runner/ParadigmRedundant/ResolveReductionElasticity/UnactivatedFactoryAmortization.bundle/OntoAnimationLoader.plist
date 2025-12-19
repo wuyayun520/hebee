@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAdapterTheme</key>
+	<string>inactiveTimerSpeed</string>
+	<key>greatMobxShade</key>
+	<string>imageInLevel</string>
+	<key>hashThroughSingleton</key>
+	<string>layerParameterHue</string>
+	<key>mobileAlertOrientation</key>
+	<string>layoutContextScale</string>
+	<key>paddingExceptInterpreter</key>
+	<string>reductionPlatformScale</string>
+	<key>presenterVersusStyle</key>
+	<string>beginnerResourceDirection</string>
+	<key>rectSinceActivity</key>
+	<string>metadataLayerAppearance</string>
+	<key>sineAtPhase</key>
+	<string>missionBeyondState</string>
+</dict>
+</plist>

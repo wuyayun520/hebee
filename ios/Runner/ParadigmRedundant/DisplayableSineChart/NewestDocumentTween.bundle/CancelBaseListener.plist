@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvePhaseMode</key>
+	<string>effectWithBuffer</string>
+	<key>gridviewStrategyType</key>
+	<string>mediocreCoordinatorBorder</string>
+	<key>inactiveResourceFeedback</key>
+	<string>constOffsetVisibility</string>
+	<key>protocolAroundProcess</key>
+	<string>consumerAsVisitor</string>
+</dict>
+</plist>

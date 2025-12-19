@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionCompositeTheme</key>
+	<string>singletonWorkPosition</string>
+	<key>crudeSampleMargin</key>
+	<string>customizedEffectSkewx</string>
+	<key>curveInsideInterpreter</key>
+	<string>checklistMediatorDelay</string>
+	<key>deferredInterfaceLeft</key>
+	<string>projectionActionName</string>
+	<key>sampleStageStatus</key>
+	<string>reducerCycleTop</string>
+	<key>scrollableTabbarOrientation</key>
+	<string>dynamicChallengeAlignment</string>
+	<key>spriteSingletonInteraction</key>
+	<string>easyPlaybackVisibility</string>
+	<key>timerDecoratorSkewx</key>
+	<string>anchorIncludePattern</string>
+	<key>topicVersusPhase</key>
+	<string>techniqueCycleCoord</string>
+</dict>
+</plist>

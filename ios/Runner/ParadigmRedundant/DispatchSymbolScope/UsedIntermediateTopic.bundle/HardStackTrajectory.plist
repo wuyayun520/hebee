@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOffsetState</key>
+	<string>behaviorTierHue</string>
+	<key>declarativeSliderInterval</key>
+	<string>hashVarOffset</string>
+	<key>lostTransitionTop</key>
+	<string>fixedControllerTail</string>
+	<key>optionCommandCount</key>
+	<string>customIntegerKind</string>
+	<key>promiseSingletonOffset</key>
+	<string>sustainableOffsetMode</string>
+	<key>themePerChain</key>
+	<string>resolverLevelDistance</string>
+	<key>transformerInLayer</key>
+	<string>textStyleTail</string>
+</dict>
+</plist>

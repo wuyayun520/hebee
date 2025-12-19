@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOrNumber</key>
+	<string>flexibleDescriptionType</string>
+	<key>certificateStyleEdge</key>
+	<string>priorRequestBottom</string>
+	<key>controllerChainInset</key>
+	<string>accordionSlashVisibility</string>
+	<key>layoutByMode</key>
+	<string>protectedPlateTint</string>
+	<key>memberCommandPressure</key>
+	<string>menuTypeFeedback</string>
+	<key>requestOrType</key>
+	<string>missedReducerFeedback</string>
+	<key>taskKindVisible</key>
+	<string>statelessAmongContext</string>
+	<key>tickerDespiteFunction</key>
+	<string>scrollAdapterPadding</string>
+	<key>viewProcessContrast</key>
+	<string>consultativeRequestPressure</string>
+</dict>
+</plist>

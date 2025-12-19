@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationParamState</key>
+	<string>tappableTaskAppearance</string>
+	<key>arithmeticBeyondProxy</key>
+	<string>grayscaleStageInset</string>
+	<key>channelTaskMomentum</key>
+	<string>curvePrototypeTint</string>
+	<key>platePerStage</key>
+	<string>observerAwayBuffer</string>
+	<key>sizeProcessDistance</key>
+	<string>sceneFormBottom</string>
+	<key>tangentAwayCommand</key>
+	<string>specifyAspectInset</string>
+</dict>
+</plist>

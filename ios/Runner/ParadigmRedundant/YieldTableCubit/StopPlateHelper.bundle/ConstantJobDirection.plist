@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncQueryInteraction</key>
+	<string>signBeyondActivity</string>
+	<key>chartAndComposite</key>
+	<string>retainedLabelScale</string>
+	<key>consumerThroughState</key>
+	<string>dimensionTempleTransparency</string>
+	<key>delegateAndBridge</key>
+	<string>fragmentChainForce</string>
+	<key>effectPatternTransparency</key>
+	<string>dependencyStyleSpacing</string>
+	<key>nodeTaskTop</key>
+	<string>sceneIncludeSingleton</string>
+	<key>rectKindInterval</key>
+	<string>checkboxSinceActivity</string>
+	<key>smartAllocatorType</key>
+	<string>finalAspectScale</string>
+</dict>
+</plist>

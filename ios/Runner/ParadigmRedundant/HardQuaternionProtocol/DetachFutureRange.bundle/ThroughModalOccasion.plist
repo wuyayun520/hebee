@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFlyweightTail</key>
+	<string>responseSingletonVisible</string>
+	<key>animationIncludeStrategy</key>
+	<string>imperativeCatalystSkewx</string>
+	<key>basePhaseStyle</key>
+	<string>comprehensiveCycleRotation</string>
+	<key>containerNearStage</key>
+	<string>discardedGridAcceleration</string>
+	<key>greatTableFeedback</key>
+	<string>webQueryLeft</string>
+	<key>imageParamAppearance</key>
+	<string>clipperWithoutFramework</string>
+	<key>promiseDespiteValue</key>
+	<string>mobileObserverForce</string>
+	<key>remainderAndBuffer</key>
+	<string>precisionTaskRight</string>
+</dict>
+</plist>

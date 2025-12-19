@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialResultMode</key>
+	<string>resourceWithType</string>
+	<key>dedicatedMetadataCenter</key>
+	<string>equalizationContextHue</string>
+	<key>immutableProjectAppearance</key>
+	<string>tickerVarStyle</string>
+	<key>modelFacadeMargin</key>
+	<string>labelChainSkewx</string>
+	<key>storeAmongBuffer</key>
+	<string>sustainableSingletonSpacing</string>
+	<key>synchronousSingletonName</key>
+	<string>intensityInsideStage</string>
+</dict>
+</plist>

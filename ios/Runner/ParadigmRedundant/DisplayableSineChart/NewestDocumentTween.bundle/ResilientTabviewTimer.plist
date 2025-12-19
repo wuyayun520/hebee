@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterMementoDelay</key>
+	<string>spotAtLevel</string>
+	<key>desktopFrameBorder</key>
+	<string>particleInMode</string>
+	<key>flexibleEffectDirection</key>
+	<string>radiusOfComposite</string>
+	<key>progressbarLayerTop</key>
+	<string>containerVersusVariable</string>
+	<key>routeDecoratorHead</key>
+	<string>publicProviderLeft</string>
+</dict>
+</plist>

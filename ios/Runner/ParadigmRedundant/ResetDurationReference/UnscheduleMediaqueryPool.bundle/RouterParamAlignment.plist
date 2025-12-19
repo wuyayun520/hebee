@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolatePerFramework</key>
+	<string>sceneSinceBridge</string>
+	<key>labelPerState</key>
+	<string>popupFacadeDensity</string>
+	<key>loopUntilAction</key>
+	<string>futureAdapterCount</string>
+	<key>normalVariantBottom</key>
+	<string>diffableSwitchOrigin</string>
+	<key>overlayLikeFramework</key>
+	<string>resourceOfActivity</string>
+	<key>progressbarKindInteraction</key>
+	<string>deferredNibValidation</string>
+	<key>tappableSemanticsBottom</key>
+	<string>requestLevelOpacity</string>
+</dict>
+</plist>

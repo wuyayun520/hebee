@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstDescriptorMode</key>
+	<string>referenceVersusMode</string>
+	<key>fixedStorageFrequency</key>
+	<string>unsortedLoopPressure</string>
+	<key>gramNearFlyweight</key>
+	<string>widgetStrategyColor</string>
+	<key>interactiveAccessorySize</key>
+	<string>reusableSpriteDensity</string>
+	<key>largeVectorSize</key>
+	<string>directlyMobxColor</string>
+	<key>otherControllerBound</key>
+	<string>sizeAlongState</string>
+	<key>painterFacadeMode</key>
+	<string>errorDespiteParameter</string>
+	<key>unaryOrObserver</key>
+	<string>directConstraintForce</string>
+</dict>
+</plist>

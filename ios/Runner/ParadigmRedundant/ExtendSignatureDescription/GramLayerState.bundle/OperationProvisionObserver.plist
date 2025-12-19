@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFlyweightBorder</key>
+	<string>taskWorkTag</string>
+	<key>dialogsTaskTop</key>
+	<string>rectCommandTheme</string>
+	<key>riverpodOrCommand</key>
+	<string>disparatePaddingScale</string>
+	<key>significantZoneBrightness</key>
+	<string>precisionIncludeAdapter</string>
+	<key>singletonDuringPhase</key>
+	<string>spotContainKind</string>
+	<key>viewCommandLeft</key>
+	<string>activeHandlerBound</string>
+</dict>
+</plist>

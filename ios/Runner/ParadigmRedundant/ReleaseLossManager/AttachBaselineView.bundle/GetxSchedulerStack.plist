@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAtWork</key>
+	<string>protectedMediaquerySaturation</string>
+	<key>cubitChainFrequency</key>
+	<string>checklistOrComposite</string>
+	<key>dependencyFromTier</key>
+	<string>subpixelForActivity</string>
+	<key>documentSinceCycle</key>
+	<string>eventAndObserver</string>
+	<key>elasticFeatureTint</key>
+	<string>graphicThanFacade</string>
+	<key>grainBridgeDelay</key>
+	<string>fragmentAsParam</string>
+	<key>originalPositionedCoord</key>
+	<string>requiredChannelMode</string>
+	<key>sceneStageLeft</key>
+	<string>basicCaptionPosition</string>
+	<key>subtlePlaybackDelay</key>
+	<string>variantDuringTask</string>
+</dict>
+</plist>

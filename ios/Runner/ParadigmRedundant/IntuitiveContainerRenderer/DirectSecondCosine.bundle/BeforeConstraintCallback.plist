@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureActivityLocation</key>
+	<string>cacheWithActivity</string>
+	<key>chartCompositeContrast</key>
+	<string>queueAndStyle</string>
+	<key>clipperFromEnvironment</key>
+	<string>graphInsideParam</string>
+	<key>comprehensiveSliderState</key>
+	<string>curveAndProxy</string>
+	<key>inkwellOrBridge</key>
+	<string>activeControllerTag</string>
+	<key>nibAdapterCenter</key>
+	<string>arithmeticIsolateValidation</string>
+	<key>referenceKindMomentum</key>
+	<string>tickerAndAction</string>
+	<key>tabviewAtInterpreter</key>
+	<string>resizableCoordinatorShape</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerCycleType</key>
+	<string>decorationVarAlignment</string>
+	<key>expandedLevelState</key>
+	<string>euclideanAxisPadding</string>
+	<key>iterativeDescriptorTheme</key>
+	<string>repositoryFrameworkType</string>
+	<key>sortedPlaybackRight</key>
+	<string>textIncludePattern</string>
+	<key>statefulMementoOrigin</key>
+	<string>channelViaStage</string>
+	<key>touchPerEnvironment</key>
+	<string>drawerLikeContext</string>
+</dict>
+</plist>

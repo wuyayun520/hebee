@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMediatorInteraction</key>
+	<string>inkwellTypeVelocity</string>
+	<key>chartCommandDistance</key>
+	<string>sliderActionLocation</string>
+	<key>entityTypeLocation</key>
+	<string>usageVersusParam</string>
+	<key>grainAndTask</key>
+	<string>imperativeNotifierTail</string>
+	<key>modalAroundLevel</key>
+	<string>documentThroughPattern</string>
+	<key>profileAlongStyle</key>
+	<string>crudeLayoutScale</string>
+	<key>skirtLayerTension</key>
+	<string>associatedListviewOpacity</string>
+	<key>titleFromFunction</key>
+	<string>captionBufferPosition</string>
+</dict>
+</plist>

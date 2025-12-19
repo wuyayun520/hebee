@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBesideStyle</key>
+	<string>nextMenuFeedback</string>
+	<key>cubitStructureBehavior</key>
+	<string>temporaryEffectDirection</string>
+	<key>eagerRichtextScale</key>
+	<string>titleOutsideBuffer</string>
+	<key>musicBridgeBehavior</key>
+	<string>notifierStrategyLeft</string>
+	<key>nextCellBottom</key>
+	<string>sizedboxShapeDistance</string>
+	<key>stateBeyondBridge</key>
+	<string>handlerParameterRight</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorStructureFormat</key>
+	<string>interactivePetMode</string>
+	<key>asyncPaddingFormat</key>
+	<string>nibEnvironmentHue</string>
+	<key>builderActionStatus</key>
+	<string>sceneLikeEnvironment</string>
+	<key>effectWithFacade</key>
+	<string>grayscaleFormPadding</string>
+	<key>notificationFlyweightDirection</key>
+	<string>cartesianTextFormat</string>
+</dict>
+</plist>

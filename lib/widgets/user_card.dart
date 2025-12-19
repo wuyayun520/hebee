@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:hebee/models/user_model.dart';
 import 'package:hebee/screens/user_detail_screen.dart';
 import 'package:hebee/screens/hebee_ai_chat_screen.dart';
+import 'package:hebee/services/interaction_service.dart';
+import 'package:hebee/screens/hebee_wallet_screen.dart';
+import 'package:hebee/screens/hebee_vip_screen.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class UserCard extends StatelessWidget {
   final UserModel user;
@@ -13,6 +17,164 @@ class UserCard extends StatelessWidget {
     this.isJoined = false,
   });
 
+  static const int _unlockCost = 48;
+
+  Future<void> _handleRealUserTap(BuildContext context) async {
+    // Check if user is already unlocked
+    final isUnlocked = await InteractionService.isUserUnlocked(user.id);
+    
+    if (isUnlocked) {
+      // User is already unlocked, navigate directly
+      Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => UserDetailScreen(user: user),
+        ),
+      );
+      return;
+    }
+
+    // Get current coin balance
+    final prefs = await SharedPreferences.getInstance();
+    final coins = prefs.getInt('hebeeCoins') ?? 0;
+
+    // Check if user has enough coins
+    if (coins < _unlockCost) {
+      // Show confirmation dialog
+      final shouldRecharge = await showDialog<bool>(
+        context: context,
+        builder: (context) => AlertDialog(
+          title: const Text('Insufficient Coins'),
+          content: Text(
+            'You need $_unlockCost coins to unlock this user. You currently have $coins coins. Would you like to recharge?',
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text('Cancel'),
+            ),
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              style: TextButton.styleFrom(
+                foregroundColor: const Color(0xFFFF2E91),
+              ),
+              child: const Text('Recharge'),
+            ),
+          ],
+        ),
+      );
+
+      if (shouldRecharge == true) {
+        // Navigate to wallet screen
+        Navigator.of(context).push(
+          MaterialPageRoute(
+            builder: (context) => const WalletScreen(),
+          ),
+        );
+      }
+      return;
+    }
+
+    // User has enough coins, deduct and unlock
+    final newBalance = coins - _unlockCost;
+    await prefs.setInt('hebeeCoins', newBalance);
+    await InteractionService.unlockUser(user.id);
+
+    // Show success message
+    if (context.mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Unlocked! -$_unlockCost coins'),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
+
+    // Navigate to user detail screen
+    if (context.mounted) {
+      Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => UserDetailScreen(user: user),
+        ),
+      );
+    }
+  }
+
+  Future<bool> _checkVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    final isVip = prefs.getBool('hebeeIsVip') ?? false;
+    
+    // Check if VIP is expired
+    if (isVip) {
+      final expiryStr = prefs.getString('hebeeVipExpiry');
+      if (expiryStr != null) {
+        final expiry = DateTime.tryParse(expiryStr);
+        if (expiry != null && expiry.isBefore(DateTime.now())) {
+          // VIP expired, update status
+          await prefs.setBool('hebeeIsVip', false);
+          return false;
+        }
+      }
+    }
+    
+    return isVip;
+  }
+
+  Future<void> _handleAIUserTap(BuildContext context) async {
+    // Check VIP status before opening chat
+    final isVip = await _checkVipStatus();
+    
+    if (!isVip) {
+      // Show confirmation dialog
+      final shouldSubscribe = await showDialog<bool>(
+        context: context,
+        builder: (context) => AlertDialog(
+          title: const Text('VIP Required'),
+          content: const Text(
+            'You need to be a VIP member to chat with AI. Would you like to subscribe?',
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text('Cancel'),
+            ),
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              style: TextButton.styleFrom(
+                foregroundColor: const Color(0xFFFF2E91),
+              ),
+              child: const Text('Subscribe'),
+            ),
+          ],
+        ),
+      );
+
+      if (shouldSubscribe == true) {
+        // Navigate to VIP screen
+        Navigator.of(context).push(
+          MaterialPageRoute(
+            builder: (context) => const HebeeVipScreen(),
+          ),
+        );
+      }
+      return;
+    }
+
+    // User is VIP, proceed to chat
+    if (context.mounted) {
+      Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => HebeeAIChatScreen(
+            userId: user.id.toString(),
+            userName: user.name,
+            userAvatar: user.profilePic,
+            userBio: user.bio,
+            userSpecialties: user.specialties,
+          ),
+        ),
+      );
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     final screenWidth = MediaQuery.of(context).size.width;
@@ -20,27 +182,9 @@ class UserCard extends StatelessWidget {
     
     return GestureDetector(
       onTap: user.type == 'real'
-          ? () {
-              Navigator.of(context).push(
-                MaterialPageRoute(
-                  builder: (context) => UserDetailScreen(user: user),
-                ),
-              );
-            }
+          ? () => _handleRealUserTap(context)
           : user.type == 'ai'
-              ? () {
-                  Navigator.of(context).push(
-                    MaterialPageRoute(
-                      builder: (context) => HebeeAIChatScreen(
-                        userId: user.id.toString(),
-                        userName: user.name,
-                        userAvatar: user.profilePic,
-                        userBio: user.bio,
-                        userSpecialties: user.specialties,
-                      ),
-                    ),
-                  );
-                }
+              ? () => _handleAIUserTap(context)
               : null,
       child: Container(
         margin: EdgeInsets.symmetric(

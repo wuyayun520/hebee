@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartScopeShade</key>
+	<string>cycleAndStructure</string>
+	<key>commandPatternContrast</key>
+	<string>timerLikeSingleton</string>
+	<key>extensionPlatformSaturation</key>
+	<string>nibOperationTag</string>
+	<key>inkwellTaskDelay</key>
+	<string>subsequentAnimationType</string>
+	<key>mainDurationFlags</key>
+	<string>dependencySingletonInset</string>
+	<key>mediaMementoResponse</key>
+	<string>cubeStrategyAlignment</string>
+	<key>overlayBufferFrequency</key>
+	<string>certificateAboutWork</string>
+	<key>rectUntilAdapter</key>
+	<string>tweenProcessBehavior</string>
+	<key>referenceMementoResponse</key>
+	<string>scrollNearMediator</string>
+</dict>
+</plist>

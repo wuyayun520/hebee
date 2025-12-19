@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFunctionDensity</key>
+	<string>routeInSingleton</string>
+	<key>customStepFrequency</key>
+	<string>callbackAroundPrototype</string>
+	<key>fixedChecklistFlags</key>
+	<string>graphicLevelFeedback</string>
+	<key>fusedSliderContrast</key>
+	<string>checkboxForMode</string>
+	<key>gridviewActionKind</key>
+	<string>rapidMasterSpeed</string>
+	<key>mobxFlyweightBorder</key>
+	<string>labelFacadeTail</string>
+	<key>pivotalDescriptionFrequency</key>
+	<string>popupMethodSpacing</string>
+	<key>presenterStyleDelay</key>
+	<string>tickerEnvironmentCount</string>
+	<key>vectorValueTheme</key>
+	<string>lostStoryboardFlags</string>
+</dict>
+</plist>

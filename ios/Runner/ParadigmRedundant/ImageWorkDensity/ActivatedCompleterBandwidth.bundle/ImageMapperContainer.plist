@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionZoneStyle</key>
+	<string>currentNibVisibility</string>
+	<key>localizationTempleAppearance</key>
+	<string>interpolationNumberDirection</string>
+	<key>lossParamBound</key>
+	<string>grayscaleAroundStructure</string>
+	<key>offsetObserverInterval</key>
+	<string>memberCycleFeedback</string>
+	<key>seamlessCosineTransparency</key>
+	<string>completerProcessPosition</string>
+	<key>transformerInterpreterDelay</key>
+	<string>assetExceptFunction</string>
+</dict>
+</plist>

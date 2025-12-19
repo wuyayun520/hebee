@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionActionValidation</key>
+	<string>transitionExceptMode</string>
+	<key>bufferAboutStrategy</key>
+	<string>listviewBridgeSpacing</string>
+	<key>decorationDecoratorHead</key>
+	<string>storeVariablePadding</string>
+	<key>liteBehaviorName</key>
+	<string>observerAsTask</string>
+	<key>opaquePreviewLocation</key>
+	<string>secondDecorationVelocity</string>
+	<key>publicRectFlags</key>
+	<string>contractionActionTheme</string>
+	<key>serviceFacadeMode</key>
+	<string>layoutBufferSkewy</string>
+</dict>
+</plist>

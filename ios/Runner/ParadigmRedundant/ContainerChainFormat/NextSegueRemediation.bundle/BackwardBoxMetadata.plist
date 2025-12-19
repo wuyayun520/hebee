@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterBridgeColor</key>
+	<string>custompaintBridgeTail</string>
+	<key>checklistBufferOrientation</key>
+	<string>originalChecklistSpacing</string>
+	<key>currentRepositoryType</key>
+	<string>responseCycleIndex</string>
+	<key>protocolWorkEdge</key>
+	<string>associatedObserverLocation</string>
+	<key>stackBeyondWork</key>
+	<string>mapAgainstStyle</string>
+	<key>substantialUsecaseHead</key>
+	<string>skinForInterpreter</string>
+	<key>usecaseDuringFlyweight</key>
+	<string>smartResolverRate</string>
+</dict>
+</plist>

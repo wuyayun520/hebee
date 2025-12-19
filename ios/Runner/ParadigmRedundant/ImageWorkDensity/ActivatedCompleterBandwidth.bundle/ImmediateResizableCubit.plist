@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileViewSkewy</key>
+	<string>beginnerViewOrigin</string>
+	<key>beginnerStoreTag</key>
+	<string>flexibleTransitionTail</string>
+	<key>navigatorForState</key>
+	<string>dialogsOrPattern</string>
+	<key>signatureActivityOrientation</key>
+	<string>keyProfileTail</string>
+	<key>sinkWithoutShape</key>
+	<string>handlerContainMethod</string>
+</dict>
+</plist>

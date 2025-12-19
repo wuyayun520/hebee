@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateRectBound</key>
+	<string>eagerPositionedSpeed</string>
+	<key>dynamicHeroDensity</key>
+	<string>decorationThroughValue</string>
+	<key>interfaceOrStage</key>
+	<string>secondRowBrightness</string>
+	<key>queueTypeStyle</key>
+	<string>optionByParameter</string>
+	<key>staticHistogramFormat</key>
+	<string>semanticPaddingIndex</string>
+</dict>
+</plist>

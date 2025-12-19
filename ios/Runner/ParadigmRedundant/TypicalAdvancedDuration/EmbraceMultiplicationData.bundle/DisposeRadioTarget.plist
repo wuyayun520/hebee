@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushDuringNumber</key>
+	<string>responsiveAnchorDepth</string>
+	<key>capacitiesAdapterContrast</key>
+	<string>eventWithoutParameter</string>
+	<key>criticalContainerOpacity</key>
+	<string>progressbarBufferBrightness</string>
+	<key>currentPreviewBrightness</key>
+	<string>previewPerCycle</string>
+	<key>popupParamBehavior</key>
+	<string>touchStrategyOrigin</string>
+	<key>scrollableTableVisibility</key>
+	<string>themeUntilPrototype</string>
+	<key>tweenByVisitor</key>
+	<string>durationParamForce</string>
+	<key>tweenStageInterval</key>
+	<string>variantAwayBuffer</string>
+	<key>widgetNearKind</key>
+	<string>hardExceptionDelay</string>
+</dict>
+</plist>

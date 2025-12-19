@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateExceptEnvironment</key>
+	<string>normalGrayscaleValidation</string>
+	<key>descriptionLevelMargin</key>
+	<string>ternaryIncludePrototype</string>
+	<key>overlayOutsideActivity</key>
+	<string>singleRouteIndex</string>
+	<key>primaryTickerOpacity</key>
+	<string>dynamicVectorDensity</string>
+	<key>providerParamOpacity</key>
+	<string>heroWithoutStyle</string>
+	<key>visibleConsumerShade</key>
+	<string>tensorErrorDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBehaviorLocation</key>
+	<string>typicalImageOffset</string>
+	<key>associatedPointBottom</key>
+	<string>widgetContainFacade</string>
+	<key>extensionExceptPlatform</key>
+	<string>skirtObserverLeft</string>
+	<key>inactiveTransformerCenter</key>
+	<string>textureOperationDensity</string>
+	<key>independentStateFlags</key>
+	<string>constEffectOrigin</string>
+	<key>modulusMediatorSkewy</key>
+	<string>mediocreApertureDelay</string>
+	<key>opaqueLayoutName</key>
+	<string>buttonCycleBound</string>
+	<key>rowValueRotation</key>
+	<string>imageFromVisitor</string>
+</dict>
+</plist>

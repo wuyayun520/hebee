@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxForDecorator</key>
+	<string>grainDespiteTier</string>
+	<key>interfaceContextBehavior</key>
+	<string>animatedSignScale</string>
+	<key>scrollPatternType</key>
+	<string>matrixTaskInteraction</string>
+	<key>serviceTempleDirection</key>
+	<string>sessionSinceFacade</string>
+	<key>switchVersusFlyweight</key>
+	<string>taskFromMediator</string>
+</dict>
+</plist>

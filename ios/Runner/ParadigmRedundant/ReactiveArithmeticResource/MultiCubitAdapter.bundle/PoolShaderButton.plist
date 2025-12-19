@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMementoMode</key>
+	<string>granularTextValidation</string>
+	<key>eagerMatrixVisibility</key>
+	<string>activityBeyondFacade</string>
+	<key>eventParameterLeft</key>
+	<string>visibleOffsetEdge</string>
+	<key>getxSystemRotation</key>
+	<string>singletonTypeOpacity</string>
+	<key>mediaqueryNumberPressure</key>
+	<string>rapidSignatureCenter</string>
+	<key>resolverPhaseName</key>
+	<string>tabviewDespiteWork</string>
+	<key>secondSceneTheme</key>
+	<string>isolateTaskBrightness</string>
+	<key>sequentialAnimationStyle</key>
+	<string>repositoryVersusMethod</string>
+	<key>sequentialProviderForce</key>
+	<string>discardedTickerVisible</string>
+	<key>slashCycleInset</key>
+	<string>providerInterpreterBottom</string>
+</dict>
+</plist>

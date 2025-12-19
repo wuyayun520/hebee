@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledProviderType</key>
+	<string>memberTierSaturation</string>
+	<key>featureVisitorInteraction</key>
+	<string>materialMissionKind</string>
+	<key>invisibleStampStyle</key>
+	<string>primarySpineDirection</string>
+	<key>tableActionOpacity</key>
+	<string>associatedHandlerCoord</string>
+	<key>tickerModeInset</key>
+	<string>protocolBesideType</string>
+</dict>
+</plist>

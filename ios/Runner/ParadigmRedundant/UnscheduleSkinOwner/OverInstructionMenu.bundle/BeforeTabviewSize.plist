@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientSingletonPressure</key>
+	<string>columnCommandLeft</string>
+	<key>lazyCompositionRate</key>
+	<string>newestFeatureTheme</string>
+	<key>nativeDurationInteraction</key>
+	<string>promiseDuringStyle</string>
+	<key>normalAlignmentCoord</key>
+	<string>boxTaskShape</string>
+	<key>riverpodJobInteraction</key>
+	<string>resourceStageCenter</string>
+	<key>riverpodUntilJob</key>
+	<string>rectWithoutState</string>
+	<key>semanticContainerOrientation</key>
+	<string>beginnerScaleSkewx</string>
+</dict>
+</plist>

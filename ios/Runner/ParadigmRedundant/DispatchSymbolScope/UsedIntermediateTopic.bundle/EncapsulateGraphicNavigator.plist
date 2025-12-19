@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonGridviewMode</key>
+	<string>streamBesideShape</string>
+	<key>convolutionAroundNumber</key>
+	<string>configurationTempleSaturation</string>
+	<key>progressbarPrototypeInterval</key>
+	<string>switchAmongJob</string>
+	<key>smartDurationShape</key>
+	<string>resizableGrainCount</string>
+	<key>storyboardAtWork</key>
+	<string>referenceTaskOrigin</string>
+	<key>transformerPrototypeContrast</key>
+	<string>histogramTempleSpacing</string>
+</dict>
+</plist>

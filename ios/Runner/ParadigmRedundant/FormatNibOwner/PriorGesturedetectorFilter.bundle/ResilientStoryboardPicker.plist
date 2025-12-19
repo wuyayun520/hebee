@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchNearProcess</key>
+	<string>fixedMissionTension</string>
+	<key>builderThroughPhase</key>
+	<string>fixedDurationPosition</string>
+	<key>immutableTimerMargin</key>
+	<string>parallelGraphForce</string>
+	<key>keyPainterLeft</key>
+	<string>storageAtFlyweight</string>
+	<key>multiplicationOfFacade</key>
+	<string>arithmeticTaskAcceleration</string>
+	<key>stackProxyVisibility</key>
+	<string>activatedResourceHue</string>
+</dict>
+</plist>

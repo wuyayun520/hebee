@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTaskMode</key>
+	<string>durationNumberTint</string>
+	<key>featureCycleBorder</key>
+	<string>projectThroughObserver</string>
+	<key>mediumQueueContrast</key>
+	<string>dedicatedAnimationOpacity</string>
+	<key>metadataPerOperation</key>
+	<string>presenterAwayFlyweight</string>
+	<key>missionOutsideState</key>
+	<string>hierarchicalBlocBottom</string>
+	<key>repositoryDespitePattern</key>
+	<string>completerInterpreterCenter</string>
+	<key>textDespiteFacade</key>
+	<string>publicPrioritySkewy</string>
+</dict>
+</plist>

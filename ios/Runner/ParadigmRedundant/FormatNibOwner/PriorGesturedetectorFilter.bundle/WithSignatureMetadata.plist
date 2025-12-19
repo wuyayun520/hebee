@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTransitionDensity</key>
+	<string>awaitByParameter</string>
+	<key>cupertinoLikeObserver</key>
+	<string>hardUnaryAlignment</string>
+	<key>cupertinoNotificationState</key>
+	<string>dropdownbuttonTempleOpacity</string>
+	<key>exceptionWorkTop</key>
+	<string>enabledTickerSize</string>
+	<key>granularMovementLeft</key>
+	<string>navigationForMediator</string>
+	<key>materialEnvironmentFeedback</key>
+	<string>tappablePromiseVisible</string>
+	<key>radiusOutsideScope</key>
+	<string>constProfileColor</string>
+	<key>subtleEntityInset</key>
+	<string>segueAroundParam</string>
+</dict>
+</plist>

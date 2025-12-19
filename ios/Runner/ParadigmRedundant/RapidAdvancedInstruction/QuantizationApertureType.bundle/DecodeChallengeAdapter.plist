@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratePerStyle</key>
+	<string>shaderBridgeDepth</string>
+	<key>invisibleDimensionDuration</key>
+	<string>routerMediatorCoord</string>
+	<key>opaqueProgressbarFormat</key>
+	<string>navigatorPatternMargin</string>
+	<key>sliderUntilTier</key>
+	<string>cardPrototypeDuration</string>
+	<key>tappableCardBorder</key>
+	<string>touchWithVariable</string>
+</dict>
+</plist>

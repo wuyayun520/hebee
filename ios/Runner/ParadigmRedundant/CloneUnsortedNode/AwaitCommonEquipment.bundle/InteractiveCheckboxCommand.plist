@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPatternLocation</key>
+	<string>textCommandCount</string>
+	<key>borderModeHue</key>
+	<string>particleInterpreterEdge</string>
+	<key>collectionParamColor</key>
+	<string>mediumMonsterFeedback</string>
+	<key>missedSceneLeft</key>
+	<string>requiredCanvasMargin</string>
+	<key>rectOutsideNumber</key>
+	<string>certificateProcessBehavior</string>
+	<key>slashEnvironmentScale</key>
+	<string>nodeFrameworkLeft</string>
+</dict>
+</plist>

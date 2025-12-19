@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directTabviewFormat</key>
+	<string>fragmentAroundShape</string>
+	<key>interactorProcessVisibility</key>
+	<string>dependencyDuringFacade</string>
+	<key>largeIntensityTop</key>
+	<string>diversifiedGridviewAlignment</string>
+	<key>sequentialColumnDirection</key>
+	<string>compositionIncludeProcess</string>
+</dict>
+</plist>

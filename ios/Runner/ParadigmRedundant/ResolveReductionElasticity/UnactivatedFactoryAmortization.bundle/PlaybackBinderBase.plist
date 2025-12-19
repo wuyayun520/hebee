@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateStoreInset</key>
+	<string>movementOrBridge</string>
+	<key>intuitiveAlignmentOrientation</key>
+	<string>desktopDrawerScale</string>
+	<key>navigationStatePosition</key>
+	<string>buttonAlongEnvironment</string>
+	<key>notificationAdapterOrientation</key>
+	<string>mediaBeyondParameter</string>
+	<key>timerNearLevel</key>
+	<string>topicParamAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentLikeEnvironment</key>
+	<string>activityAtKind</string>
+	<key>directlyPrecisionAcceleration</key>
+	<string>pivotalPositionedCenter</string>
+	<key>labelFlyweightFormat</key>
+	<string>vectorViaStyle</string>
+	<key>symmetricLocalizationVisibility</key>
+	<string>projectBeyondProxy</string>
+	<key>taskIncludeEnvironment</key>
+	<string>symmetricRadioFlags</string>
+</dict>
+</plist>

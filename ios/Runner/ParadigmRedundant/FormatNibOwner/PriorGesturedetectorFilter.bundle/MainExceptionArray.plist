@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedZoneRotation</key>
+	<string>usecaseMediatorBottom</string>
+	<key>asyncTickerVisible</key>
+	<string>pivotalStatePadding</string>
+	<key>behaviorAgainstComposite</key>
+	<string>requiredPreviewBottom</string>
+	<key>indicatorStrategyTail</key>
+	<string>commandActionVisible</string>
+	<key>statefulAlignmentContrast</key>
+	<string>containerAndInterpreter</string>
+</dict>
+</plist>

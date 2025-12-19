@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMediaPadding</key>
+	<string>tappableCommandDirection</string>
+	<key>managerStrategyPosition</key>
+	<string>multiplicationPlatformScale</string>
+	<key>navigationBufferInteraction</key>
+	<string>crucialSineFlags</string>
+	<key>routerMementoBottom</key>
+	<string>unsortedVectorTint</string>
+	<key>tabbarWithoutLevel</key>
+	<string>frameInsideStyle</string>
+</dict>
+</plist>

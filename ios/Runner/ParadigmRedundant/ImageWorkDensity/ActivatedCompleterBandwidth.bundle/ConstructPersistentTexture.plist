@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerThanFlyweight</key>
+	<string>decorationDuringComposite</string>
+	<key>fusedShaderTransparency</key>
+	<string>spotPerPattern</string>
+	<key>missedBoxshadowOffset</key>
+	<string>descriptorThroughOperation</string>
+	<key>popupLayerFrequency</key>
+	<string>autoCaptionStatus</string>
+	<key>sliderEnvironmentOffset</key>
+	<string>constraintSingletonBehavior</string>
+	<key>variantInCycle</key>
+	<string>intensityAroundObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseOutsideOperation</key>
+	<string>dynamicTabbarDistance</string>
+	<key>collectionSinceStrategy</key>
+	<string>visibleNavigatorTint</string>
+	<key>easyFeatureDelay</key>
+	<string>anchorVarName</string>
+	<key>explicitTickerAlignment</key>
+	<string>optionDuringAdapter</string>
+	<key>fixedFutureDirection</key>
+	<string>containerForFlyweight</string>
+	<key>modelExceptSystem</key>
+	<string>featureAtInterpreter</string>
+	<key>optimizerAwayMethod</key>
+	<string>finalVariantValidation</string>
+</dict>
+</plist>

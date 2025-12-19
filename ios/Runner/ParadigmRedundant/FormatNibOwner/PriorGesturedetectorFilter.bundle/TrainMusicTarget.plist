@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstCustompaintRotation</key>
+	<string>controllerCommandResponse</string>
+	<key>interactorStyleShape</key>
+	<string>primaryReferenceVisible</string>
+	<key>localCardSkewy</key>
+	<string>singletonAgainstFramework</string>
+	<key>screenInsideState</key>
+	<string>marginVariableOrientation</string>
+	<key>singletonCompositeRotation</key>
+	<string>eventBeyondActivity</string>
+	<key>smallStreamIndex</key>
+	<string>particleWithoutScope</string>
+	<key>textureInPattern</key>
+	<string>prevSampleResponse</string>
+</dict>
+</plist>

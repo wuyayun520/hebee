@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBeyondWork</key>
+	<string>containerThanFramework</string>
+	<key>cubitDecoratorShade</key>
+	<string>agileSignState</string>
+	<key>referenceByEnvironment</key>
+	<string>eventAmongCycle</string>
+	<key>screenKindType</key>
+	<string>cupertinoAlertEdge</string>
+	<key>subtleContainerDirection</key>
+	<string>segmentBeyondDecorator</string>
+	<key>viewJobBehavior</key>
+	<string>checklistAndNumber</string>
+</dict>
+</plist>

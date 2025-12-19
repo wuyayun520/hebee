@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowStructureContrast</key>
+	<string>alertDuringMethod</string>
+	<key>buttonSingletonTransparency</key>
+	<string>binaryEnvironmentContrast</string>
+	<key>dedicatedContainerContrast</key>
+	<string>tensorTextfieldDensity</string>
+	<key>kernelBesideMemento</key>
+	<string>specifyBlocAlignment</string>
+	<key>observerAmongStrategy</key>
+	<string>channelJobOrientation</string>
+	<key>playbackPatternPosition</key>
+	<string>usageThanObserver</string>
+	<key>resourceProxyFormat</key>
+	<string>staticStreamOpacity</string>
+	<key>responseKindHue</key>
+	<string>activatedButtonTint</string>
+	<key>substantialDecorationValidation</key>
+	<string>agileCoordinatorEdge</string>
+</dict>
+</plist>

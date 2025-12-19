@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAroundJob</key>
+	<string>textContainEnvironment</string>
+	<key>buttonOutsideStructure</key>
+	<string>memberActionBorder</string>
+	<key>constTweenFrequency</key>
+	<string>utilNearBuffer</string>
+	<key>popupLayerDirection</key>
+	<string>compositionContextColor</string>
+	<key>requestViaParameter</key>
+	<string>relationalPriorityStyle</string>
+	<key>storePrototypeLeft</key>
+	<string>relationalMusicValidation</string>
+</dict>
+</plist>

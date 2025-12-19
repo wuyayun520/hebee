@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryJobShade</key>
+	<string>kernelPatternTransparency</string>
+	<key>animationWithoutEnvironment</key>
+	<string>behaviorWithPlatform</string>
+	<key>behaviorContainScope</key>
+	<string>pageviewForPlatform</string>
+	<key>criticalAssetState</key>
+	<string>specifierLayerIndex</string>
+	<key>offsetDecoratorAppearance</key>
+	<string>agileTextureDistance</string>
+	<key>utilFacadePosition</key>
+	<string>immutableAwaitBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentKernelAlignment</key>
+	<string>queueAtStage</string>
+	<key>drawerAtActivity</key>
+	<string>consumerJobForce</string>
+	<key>dropdownbuttonProcessBorder</key>
+	<string>backwardCanvasCenter</string>
+	<key>granularInjectionValidation</key>
+	<string>protectedCallbackDelay</string>
+	<key>modelStyleValidation</key>
+	<string>listenerParamPadding</string>
+	<key>semanticLayerDirection</key>
+	<string>positionedVisitorBehavior</string>
+	<key>threadOfDecorator</key>
+	<string>composablePriorityAppearance</string>
+</dict>
+</plist>

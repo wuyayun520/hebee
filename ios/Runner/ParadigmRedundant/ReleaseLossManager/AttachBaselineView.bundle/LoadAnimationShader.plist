@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentActivityBrightness</key>
+	<string>titlePlatformDensity</string>
+	<key>captionContainStage</key>
+	<string>priorityBeyondActivity</string>
+	<key>durationWithEnvironment</key>
+	<string>activatedRouteSkewy</string>
+	<key>lastCoordinatorBrightness</key>
+	<string>respectiveTextureLocation</string>
+	<key>layoutCommandHead</key>
+	<string>blocPerActivity</string>
+	<key>normalPaddingSkewx</key>
+	<string>alphaByPhase</string>
+</dict>
+</plist>

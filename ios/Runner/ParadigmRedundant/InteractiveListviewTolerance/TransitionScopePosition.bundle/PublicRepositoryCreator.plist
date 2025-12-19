@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationIncludeNumber</key>
+	<string>tensorCoordinatorFormat</string>
+	<key>gridOfChain</key>
+	<string>unaryTierValidation</string>
+	<key>largeSymbolDistance</key>
+	<string>singleDurationDistance</string>
+	<key>multiplicationOperationTheme</key>
+	<string>asynchronousKernelRate</string>
+	<key>numericalDrawerAppearance</key>
+	<string>prismaticStreamAppearance</string>
+	<key>opaqueInstructionFlags</key>
+	<string>effectFrameworkForce</string>
+	<key>signatureFrameworkIndex</key>
+	<string>crucialConstraintContrast</string>
+	<key>transformerWithoutStyle</key>
+	<string>constraintStructureBound</string>
+	<key>viewAgainstStrategy</key>
+	<string>grainUntilProcess</string>
+</dict>
+</plist>

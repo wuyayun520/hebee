@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintStyleValidation</key>
+	<string>lastAnimatedcontainerAcceleration</string>
+	<key>previewAwayPlatform</key>
+	<string>navigatorAndJob</string>
+	<key>repositoryActivityTheme</key>
+	<string>providerMethodDelay</string>
+	<key>resolverAndMemento</key>
+	<string>progressbarAgainstProxy</string>
+	<key>scaleVisitorPressure</key>
+	<string>handlerByStructure</string>
+</dict>
+</plist>

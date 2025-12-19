@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGrainShape</key>
+	<string>sizeAsParam</string>
+	<key>builderLayerTheme</key>
+	<string>globalDropdownbuttonInteraction</string>
+	<key>crucialPointTint</key>
+	<string>globalHeroLeft</string>
+	<key>delegateWorkSkewx</key>
+	<string>offsetMementoOffset</string>
+	<key>mutableBufferDuration</key>
+	<string>lostPlaybackOrigin</string>
+	<key>prevRowInset</key>
+	<string>disabledHashSpacing</string>
+	<key>scaffoldLayerFormat</key>
+	<string>discardedNavigatorSkewy</string>
+	<key>sensorByDecorator</key>
+	<string>dependencyByProxy</string>
+	<key>temporaryMemberName</key>
+	<string>delicateMasterMargin</string>
+	<key>visibleAccessoryDuration</key>
+	<string>priorRouteTint</string>
+</dict>
+</plist>

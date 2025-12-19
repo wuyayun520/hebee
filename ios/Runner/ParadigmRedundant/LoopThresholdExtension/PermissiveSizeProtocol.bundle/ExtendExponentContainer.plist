@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackForParam</key>
+	<string>mediaFlyweightInset</string>
+	<key>containerThroughAdapter</key>
+	<string>futureLevelSkewx</string>
+	<key>criticalCanvasAppearance</key>
+	<string>significantManagerDensity</string>
+	<key>curveOperationContrast</key>
+	<string>priorityLayerPadding</string>
+	<key>graphNumberFlags</key>
+	<string>memberNearFacade</string>
+	<key>independentObserverValidation</key>
+	<string>intuitiveCycleTag</string>
+	<key>remainderFunctionBorder</key>
+	<string>relationalOptionDelay</string>
+	<key>shaderTaskScale</key>
+	<string>assetFormBrightness</string>
+	<key>sizeViaState</key>
+	<string>overlayAdapterVelocity</string>
+</dict>
+</plist>

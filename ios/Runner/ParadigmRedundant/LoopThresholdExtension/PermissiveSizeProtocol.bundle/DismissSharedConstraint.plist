@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleContainerCenter</key>
+	<string>permissiveIsolateTransparency</string>
+	<key>explicitExponentFrequency</key>
+	<string>permanentNavigatorHue</string>
+	<key>mobxLikeActivity</key>
+	<string>reactiveUnaryBottom</string>
+	<key>offsetNearStrategy</key>
+	<string>cycleInsideLevel</string>
+	<key>opaqueStoryboardVisibility</key>
+	<string>functionalStateScale</string>
+	<key>signKindPadding</key>
+	<string>sessionEnvironmentInset</string>
+	<key>visibleInkwellRotation</key>
+	<string>texturePerFunction</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEqualizationOffset</key>
+	<string>gramSinceObserver</string>
+	<key>behaviorMethodDistance</key>
+	<string>protectedStatefulContrast</string>
+	<key>groupForCommand</key>
+	<string>pointAtJob</string>
+	<key>oldVariantStyle</key>
+	<string>interfaceMediatorDirection</string>
+	<key>paddingCycleTension</key>
+	<string>cupertinoSemanticsOpacity</string>
+</dict>
+</plist>

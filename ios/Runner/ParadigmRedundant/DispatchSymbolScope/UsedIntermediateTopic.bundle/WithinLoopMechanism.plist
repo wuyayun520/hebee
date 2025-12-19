@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryProcessSpeed</key>
+	<string>activityKindDistance</string>
+	<key>baseContextPosition</key>
+	<string>configurationOperationFeedback</string>
+	<key>integerDecoratorHue</key>
+	<string>activeConstraintCount</string>
+	<key>publicLocalizationValidation</key>
+	<string>chapterIncludeType</string>
+	<key>scrollableLabelStyle</key>
+	<string>blocWithoutMode</string>
+	<key>sizeThroughInterpreter</key>
+	<string>buttonActivityFeedback</string>
+	<key>skirtUntilTemple</key>
+	<string>mobileBridgeBrightness</string>
+	<key>usedBinaryPadding</key>
+	<string>deferredMemberKind</string>
+</dict>
+</plist>

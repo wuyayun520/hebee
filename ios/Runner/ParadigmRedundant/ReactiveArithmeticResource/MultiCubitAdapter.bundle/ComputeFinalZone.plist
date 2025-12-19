@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAspectShade</key>
+	<string>prevViewPosition</string>
+	<key>ephemeralChartPosition</key>
+	<string>accessibleTableMargin</string>
+	<key>navigationOutsideTask</key>
+	<string>channelCyclePosition</string>
+	<key>routerActionOpacity</key>
+	<string>utilFormTop</string>
+	<key>statefulCapsuleAlignment</key>
+	<string>textureExceptLayer</string>
+	<key>tappableLocalizationFrequency</key>
+	<string>beginnerResolverTransparency</string>
+</dict>
+</plist>

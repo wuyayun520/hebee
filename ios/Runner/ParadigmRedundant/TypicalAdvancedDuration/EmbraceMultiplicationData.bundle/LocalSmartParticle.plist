@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperNearPhase</key>
+	<string>concurrentRichtextHue</string>
+	<key>denseMethodInteraction</key>
+	<string>screenPlatformPressure</string>
+	<key>responseCycleState</key>
+	<string>alertStateCount</string>
+	<key>seamlessMenuHue</key>
+	<string>compositionFlyweightDepth</string>
+	<key>tickerScopeOrigin</key>
+	<string>entropyScopePosition</string>
+	<key>timerMementoForce</key>
+	<string>iterativeSubscriptionTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOverlayAppearance</key>
+	<string>listviewChainIndex</string>
+	<key>checklistByContext</key>
+	<string>semanticFutureType</string>
+	<key>commandIncludeState</key>
+	<string>widgetMediatorFrequency</string>
+	<key>frameOperationShade</key>
+	<string>behaviorMethodBorder</string>
+	<key>futureForLevel</key>
+	<string>aspectLevelRight</string>
+	<key>groupNearPlatform</key>
+	<string>labelPlatformSaturation</string>
+	<key>masterAdapterFlags</key>
+	<string>semanticQueryOffset</string>
+	<key>mediaqueryIncludeTier</key>
+	<string>statefulEventTag</string>
+	<key>sequentialGraphBorder</key>
+	<string>webWidgetValidation</string>
+	<key>tappableEventTail</key>
+	<string>hashStructureInterval</string>
+</dict>
+</plist>

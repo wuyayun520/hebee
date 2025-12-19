@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorNearStrategy</key>
+	<string>cubitFrameworkType</string>
+	<key>lostTransformerSpacing</key>
+	<string>shaderFacadeHue</string>
+	<key>playbackThroughCycle</key>
+	<string>signatureParamInset</string>
+	<key>precisionDecoratorOffset</key>
+	<string>permanentResponseMomentum</string>
+	<key>resolverPlatformTheme</key>
+	<string>stackViaFunction</string>
+	<key>smallExponentSaturation</key>
+	<string>specifyProviderSpacing</string>
+	<key>spotWorkType</key>
+	<string>futurePerNumber</string>
+	<key>unactivatedMobileSpacing</key>
+	<string>currentTimerBound</string>
+	<key>unsortedZoneOrientation</key>
+	<string>crudeResultOffset</string>
+</dict>
+</plist>

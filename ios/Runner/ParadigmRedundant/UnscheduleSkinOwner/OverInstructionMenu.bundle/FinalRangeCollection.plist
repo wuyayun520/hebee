@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorWorkPosition</key>
+	<string>tabbarInLevel</string>
+	<key>dependencyThroughBuffer</key>
+	<string>sequentialBlocLocation</string>
+	<key>dimensionOperationFormat</key>
+	<string>streamCycleDirection</string>
+	<key>exceptionFormCoord</key>
+	<string>desktopGridInteraction</string>
+	<key>layoutInPrototype</key>
+	<string>injectionAndFacade</string>
+	<key>sceneDecoratorAppearance</key>
+	<string>projectObserverIndex</string>
+	<key>spriteNearMode</key>
+	<string>usecaseInsideObserver</string>
+	<key>sustainableSpriteScale</key>
+	<string>draggableTexturePressure</string>
+</dict>
+</plist>

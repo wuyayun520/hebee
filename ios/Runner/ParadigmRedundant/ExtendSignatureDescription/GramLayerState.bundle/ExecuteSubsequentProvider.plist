@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAsyncSpeed</key>
+	<string>permissiveOffsetSkewy</string>
+	<key>cycleBridgeRight</key>
+	<string>catalystShapeDirection</string>
+	<key>ephemeralEffectDepth</key>
+	<string>hyperbolicTabviewBrightness</string>
+	<key>integerOrAdapter</key>
+	<string>popupLevelResponse</string>
+	<key>interactiveRoleVisible</key>
+	<string>coordinatorFunctionBottom</string>
+	<key>navigatorForInterpreter</key>
+	<string>completerAroundAction</string>
+	<key>specifyCallbackState</key>
+	<string>streamValueIndex</string>
+	<key>staticLabelLeft</key>
+	<string>uniformWidgetInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAndNumber</key>
+	<string>accordionSpotOffset</string>
+	<key>dependencyStrategyVisibility</key>
+	<string>pageviewVisitorDepth</string>
+	<key>finalRouterInset</key>
+	<string>secondButtonState</string>
+	<key>firstPreviewInteraction</key>
+	<string>symbolVersusDecorator</string>
+	<key>immutableListviewBottom</key>
+	<string>graphicWithSingleton</string>
+	<key>lostFrameSize</key>
+	<string>compositionalRiverpodMomentum</string>
+	<key>mediumCellRate</key>
+	<string>widgetOfLayer</string>
+	<key>modelProcessTransparency</key>
+	<string>baseShapeFormat</string>
+	<key>resultOrStructure</key>
+	<string>protocolModeHead</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorModeMomentum</key>
+	<string>momentumTierTint</string>
+	<key>composableCosineShape</key>
+	<string>menuSingletonTint</string>
+	<key>intensityOfChain</key>
+	<string>tweenStageBound</string>
+	<key>methodStrategySpeed</key>
+	<string>indicatorVisitorScale</string>
+	<key>overlaySinceInterpreter</key>
+	<string>criticalTextMargin</string>
+	<key>presenterJobState</key>
+	<string>buttonMediatorRate</string>
+	<key>resolverAsFunction</key>
+	<string>providerAgainstDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedContainerIndex</key>
+	<string>workflowByKind</string>
+	<key>commonBlocTail</key>
+	<string>effectFunctionHead</string>
+	<key>concreteChartTail</key>
+	<string>standaloneGraphAppearance</string>
+	<key>declarativeLayoutInteraction</key>
+	<string>delegateLikeActivity</string>
+	<key>futureFromProcess</key>
+	<string>draggableMediaTail</string>
+	<key>gradientParamDirection</key>
+	<string>localSymbolLocation</string>
+	<key>particleContainFacade</key>
+	<string>musicViaProcess</string>
+	<key>playbackStyleFrequency</key>
+	<string>logarithmAtVariable</string>
+	<key>statelessIndicatorSize</key>
+	<string>masterVersusLevel</string>
+	<key>symbolChainPosition</key>
+	<string>riverpodThanWork</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVersusObserver</key>
+	<string>movementMethodAppearance</string>
+	<key>gridDuringChain</key>
+	<string>sortedChallengeFrequency</string>
+	<key>interpolationStrategyDensity</key>
+	<string>baseContextName</string>
+	<key>optionBridgeShape</key>
+	<string>resilientSkirtVisible</string>
+	<key>optionContainWork</key>
+	<string>navigatorFlyweightDepth</string>
+	<key>seamlessConsumerName</key>
+	<string>lazyContainerOrientation</string>
+	<key>semanticsJobVisibility</key>
+	<string>backwardMobileShade</string>
+</dict>
+</plist>

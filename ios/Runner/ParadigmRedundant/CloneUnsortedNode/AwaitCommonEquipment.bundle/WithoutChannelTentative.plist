@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceActionFlags</key>
+	<string>touchPhaseDelay</string>
+	<key>relationalDependencySkewx</key>
+	<string>bufferBeyondFlyweight</string>
+	<key>storyboardAboutTask</key>
+	<string>channelStyleFrequency</string>
+</dict>
+</plist>

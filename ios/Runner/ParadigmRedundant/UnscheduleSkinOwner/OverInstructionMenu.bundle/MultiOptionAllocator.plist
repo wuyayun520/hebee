@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBatchFormat</key>
+	<string>widgetOrStructure</string>
+	<key>sortedInterpolationBehavior</key>
+	<string>subpixelAmongFramework</string>
+	<key>tickerMethodMomentum</key>
+	<string>resourceAndVisitor</string>
+</dict>
+</plist>

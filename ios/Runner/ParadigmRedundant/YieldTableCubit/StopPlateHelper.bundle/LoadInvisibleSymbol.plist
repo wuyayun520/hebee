@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletForAction</key>
+	<string>buttonPerForm</string>
+	<key>compositionScopeAlignment</key>
+	<string>grainAndLayer</string>
+	<key>difficultMasterStyle</key>
+	<string>topicVisitorAppearance</string>
+	<key>labelAsStructure</key>
+	<string>documentThanState</string>
+	<key>parallelDelegateTransparency</key>
+	<string>positionedOperationInteraction</string>
+	<key>publicPriorityResponse</key>
+	<string>gateMediatorShape</string>
+	<key>queryAmongNumber</key>
+	<string>blocPerSystem</string>
+	<key>queueWorkResponse</key>
+	<string>cupertinoEnvironmentRotation</string>
+	<key>singletonThroughAction</key>
+	<string>labelValueOpacity</string>
+</dict>
+</plist>

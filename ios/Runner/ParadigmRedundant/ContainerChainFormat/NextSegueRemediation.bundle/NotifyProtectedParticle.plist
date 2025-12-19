@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralDelegateAcceleration</key>
+	<string>primaryQueueMode</string>
+	<key>heapWithState</key>
+	<string>alignmentCycleTail</string>
+	<key>mobileHistogramDelay</key>
+	<string>baseThroughSingleton</string>
+	<key>presenterUntilProcess</key>
+	<string>taskModeAlignment</string>
+	<key>routeThroughPattern</key>
+	<string>instructionProcessCenter</string>
+	<key>sensorAboutStrategy</key>
+	<string>fusedLocalizationRight</string>
+</dict>
+</plist>

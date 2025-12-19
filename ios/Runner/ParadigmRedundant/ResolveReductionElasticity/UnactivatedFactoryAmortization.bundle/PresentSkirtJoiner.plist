@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAlongKind</key>
+	<string>actionTierVisibility</string>
+	<key>cycleAlongType</key>
+	<string>singletonContainInterpreter</string>
+	<key>gramProxyDepth</key>
+	<string>stateThroughType</string>
+	<key>invisibleDelegateHead</key>
+	<string>decorationOutsidePhase</string>
+	<key>materialGestureCoord</key>
+	<string>featureCompositeBrightness</string>
+	<key>particleAroundMediator</key>
+	<string>materialViaBridge</string>
+	<key>transitionViaFlyweight</key>
+	<string>secondSizeSaturation</string>
+</dict>
+</plist>

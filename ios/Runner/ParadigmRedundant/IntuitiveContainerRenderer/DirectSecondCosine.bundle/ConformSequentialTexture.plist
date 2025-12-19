@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedBaselineSpeed</key>
+	<string>observerContainInterpreter</string>
+	<key>gateMediatorTint</key>
+	<string>baseValueSaturation</string>
+	<key>interfaceMethodEdge</key>
+	<string>projectInsideMode</string>
+	<key>spotContextEdge</key>
+	<string>typicalHeroVisibility</string>
+</dict>
+</plist>

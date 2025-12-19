@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRemainderInterval</key>
+	<string>screenDuringAction</string>
+	<key>asyncFlyweightType</key>
+	<string>mediumWidgetTheme</string>
+	<key>exceptionProcessDistance</key>
+	<string>dynamicGraphName</string>
+	<key>fragmentWorkOrientation</key>
+	<string>controllerBufferTransparency</string>
+	<key>imperativeProviderShape</key>
+	<string>cartesianStoreInteraction</string>
+	<key>mutableObserverMomentum</key>
+	<string>rectChainInteraction</string>
+	<key>rowAtMethod</key>
+	<string>respectiveTransitionHue</string>
+	<key>tabbarBufferOrientation</key>
+	<string>grayscaleFormSize</string>
+</dict>
+</plist>

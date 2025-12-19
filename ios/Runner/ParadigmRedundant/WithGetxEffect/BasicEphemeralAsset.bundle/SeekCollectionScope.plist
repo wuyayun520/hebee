@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationParamAlignment</key>
+	<string>usedSymbolAlignment</string>
+	<key>interfaceBesideTask</key>
+	<string>modalEnvironmentTop</string>
+	<key>optimizerIncludeFlyweight</key>
+	<string>associatedCheckboxHue</string>
+	<key>pointAsOperation</key>
+	<string>factoryStateKind</string>
+	<key>resourceLikeCommand</key>
+	<string>lazySwitchVelocity</string>
+	<key>scaleChainTint</key>
+	<string>curveActionTransparency</string>
+	<key>sessionAgainstOperation</key>
+	<string>retainedRadioDuration</string>
+</dict>
+</plist>

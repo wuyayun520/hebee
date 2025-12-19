@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorCommandVelocity</key>
+	<string>modulusWithSystem</string>
+	<key>largeViewStyle</key>
+	<string>modelAsMediator</string>
+	<key>layerPhaseInset</key>
+	<string>blocByAction</string>
+	<key>permissiveGraphCoord</key>
+	<string>significantToolCoord</string>
+</dict>
+</plist>

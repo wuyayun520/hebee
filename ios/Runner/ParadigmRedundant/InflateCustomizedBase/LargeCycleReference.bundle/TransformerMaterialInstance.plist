@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSignKind</key>
+	<string>actionWithLevel</string>
+	<key>sessionTaskRate</key>
+	<string>displayableResolverPressure</string>
+	<key>sliderFromLevel</key>
+	<string>assetDecoratorSpacing</string>
+	<key>ternaryAndKind</key>
+	<string>layoutCompositeCount</string>
+</dict>
+</plist>

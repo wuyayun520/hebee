@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCubitOrientation</key>
+	<string>shaderBeyondParam</string>
+	<key>cellInterpreterDistance</key>
+	<string>stampTierSpacing</string>
+	<key>durationWithoutActivity</key>
+	<string>allocatorMediatorOrientation</string>
+	<key>hashFlyweightTransparency</key>
+	<string>matrixStructureBorder</string>
+	<key>materialCompletionEdge</key>
+	<string>sceneUntilNumber</string>
+	<key>resilientTangentRotation</key>
+	<string>difficultHashFlags</string>
+	<key>responsiveBaselineResponse</key>
+	<string>getxAwayKind</string>
+	<key>textureProcessShape</key>
+	<string>axisMementoSkewx</string>
+</dict>
+</plist>

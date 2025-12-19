@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorByShape</key>
+	<string>descriptorExceptWork</string>
+	<key>navigationFormDirection</key>
+	<string>captionBufferForce</string>
+	<key>normMethodOrigin</key>
+	<string>synchronousModelCount</string>
+	<key>reusableAnimationKind</key>
+	<string>beginnerCubeMode</string>
+	<key>viewAroundMode</key>
+	<string>sineFunctionLeft</string>
+</dict>
+</plist>

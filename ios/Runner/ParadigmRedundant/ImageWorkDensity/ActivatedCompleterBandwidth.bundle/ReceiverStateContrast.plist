@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationFormKind</key>
+	<string>dynamicDrawerVisible</string>
+	<key>descriptionChainKind</key>
+	<string>graphInsideLevel</string>
+	<key>errorCommandBorder</key>
+	<string>navigatorAsProxy</string>
+	<key>petContainPhase</key>
+	<string>prevModelInteraction</string>
+	<key>subsequentGrainTail</key>
+	<string>actionOperationSkewy</string>
+	<key>usecaseObserverDistance</key>
+	<string>priorityStateBorder</string>
+</dict>
+</plist>

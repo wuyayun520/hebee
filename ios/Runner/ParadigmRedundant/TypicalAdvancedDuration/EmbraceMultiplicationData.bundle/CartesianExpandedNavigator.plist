@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerContextBorder</key>
+	<string>richtextAlongVar</string>
+	<key>painterByParameter</key>
+	<string>integerTierFeedback</string>
+	<key>topicCommandVisibility</key>
+	<string>statefulScreenFormat</string>
+	<key>viewPerVisitor</key>
+	<string>mainStateInset</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAspectTag</key>
+	<string>listviewAndPhase</string>
+	<key>customCubeVelocity</key>
+	<string>mainRowTint</string>
+	<key>queryLevelValidation</key>
+	<string>hyperbolicButtonInteraction</string>
+	<key>sceneNearPhase</key>
+	<string>animationAlongNumber</string>
+	<key>singleAccessoryFrequency</key>
+	<string>materialCupertinoBorder</string>
+	<key>stateMediatorOpacity</key>
+	<string>pivotalEventType</string>
+	<key>usedBitrateAlignment</key>
+	<string>pointOfSystem</string>
+</dict>
+</plist>

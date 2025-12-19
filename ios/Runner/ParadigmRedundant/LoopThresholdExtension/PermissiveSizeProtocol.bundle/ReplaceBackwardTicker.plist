@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionFlyweightRotation</key>
+	<string>serviceAlongNumber</string>
+	<key>drawerLikeParam</key>
+	<string>containerAndFacade</string>
+	<key>ignoredLogLocation</key>
+	<string>unsortedMovementHue</string>
+	<key>mapAdapterFormat</key>
+	<string>durationEnvironmentOpacity</string>
+	<key>sceneJobSize</key>
+	<string>protocolLayerSize</string>
+</dict>
+</plist>

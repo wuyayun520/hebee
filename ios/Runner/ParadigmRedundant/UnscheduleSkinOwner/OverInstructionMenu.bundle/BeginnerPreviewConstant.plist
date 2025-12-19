@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>overlayAndPhase</key>
+	<string>textAwayParam</string>
+	<key>particleByMediator</key>
+	<string>viewTypePosition</string>
+	<key>roleOutsideInterpreter</key>
+	<string>backwardTweenAppearance</string>
+	<key>specifyThemeDuration</key>
+	<string>titleFromStyle</string>
+	<key>storageWithSingleton</key>
+	<string>observerStrategyCenter</string>
+	<key>tabbarFlyweightDuration</key>
+	<string>semanticCallbackTransparency</string>
+</dict>
+</plist>

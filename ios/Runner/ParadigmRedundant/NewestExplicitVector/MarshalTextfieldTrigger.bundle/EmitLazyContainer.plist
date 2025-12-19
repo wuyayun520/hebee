@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateViewScale</key>
+	<string>smallMediaInterval</string>
+	<key>exceptionTypeVelocity</key>
+	<string>arithmeticStateTransparency</string>
+	<key>groupUntilActivity</key>
+	<string>robustLabelVisible</string>
+	<key>retainedManagerBorder</key>
+	<string>similarFactoryRight</string>
+	<key>routeLevelBorder</key>
+	<string>memberPerSystem</string>
+	<key>sinkSingletonRate</key>
+	<string>stateScopeSkewy</string>
+</dict>
+</plist>

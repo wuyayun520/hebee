@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFrameworkOrientation</key>
+	<string>sustainableRequestSkewy</string>
+	<key>fragmentForBridge</key>
+	<string>catalystStyleShape</string>
+	<key>intensityUntilKind</key>
+	<string>interactorStrategyAcceleration</string>
+	<key>intermediateEquipmentStyle</key>
+	<string>interactorDecoratorVelocity</string>
+	<key>isolateAtFlyweight</key>
+	<string>tangentThroughBuffer</string>
+	<key>metadataExceptPhase</key>
+	<string>interpolationSinceLevel</string>
+	<key>usedGroupFrequency</key>
+	<string>sortedCallbackAcceleration</string>
+</dict>
+</plist>

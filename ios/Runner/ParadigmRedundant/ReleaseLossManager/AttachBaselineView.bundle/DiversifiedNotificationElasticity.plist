@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncNavigatorTag</key>
+	<string>dependencyCyclePadding</string>
+	<key>inactiveStreamAcceleration</key>
+	<string>deferredCardEdge</string>
+	<key>invisibleTickerSkewx</key>
+	<string>popupExceptProcess</string>
+	<key>navigationAsDecorator</key>
+	<string>agileQueryForce</string>
+</dict>
+</plist>

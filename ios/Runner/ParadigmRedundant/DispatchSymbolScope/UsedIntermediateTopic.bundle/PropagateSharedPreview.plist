@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletInterpreterDistance</key>
+	<string>pointAboutShape</string>
+	<key>delegateOfFramework</key>
+	<string>screenDuringFacade</string>
+	<key>storyboardStrategyVisibility</key>
+	<string>bitrateByMemento</string>
+	<key>transitionInterpreterOrigin</key>
+	<string>aspectratioParameterSkewy</string>
+	<key>widgetVarTop</key>
+	<string>geometricHashRotation</string>
+</dict>
+</plist>

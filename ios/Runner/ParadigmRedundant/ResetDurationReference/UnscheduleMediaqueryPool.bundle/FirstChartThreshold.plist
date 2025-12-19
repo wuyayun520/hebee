@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationPerPlatform</key>
+	<string>publicLabelFlags</string>
+	<key>delegateFormFormat</key>
+	<string>popupFacadeContrast</string>
+	<key>layerTaskEdge</key>
+	<string>logAroundBuffer</string>
+	<key>taskOperationOrientation</key>
+	<string>sequentialChartMargin</string>
+	<key>uniformActionScale</key>
+	<string>eagerBehaviorBottom</string>
+</dict>
+</plist>

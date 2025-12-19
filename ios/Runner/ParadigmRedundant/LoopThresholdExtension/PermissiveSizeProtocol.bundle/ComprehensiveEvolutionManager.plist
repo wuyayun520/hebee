@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentPopupState</key>
+	<string>persistentMethodFeedback</string>
+	<key>isolateFromComposite</key>
+	<string>normVisitorIndex</string>
+	<key>logFromType</key>
+	<string>dependencyBesideStyle</string>
+	<key>responsiveFactoryShade</key>
+	<string>builderOutsideFramework</string>
+	<key>sequentialProgressbarRight</key>
+	<string>prevAnimationFlags</string>
+	<key>sineLikePattern</key>
+	<string>capsuleStateMode</string>
+	<key>titleJobDistance</key>
+	<string>compositionalEventDuration</string>
+</dict>
+</plist>

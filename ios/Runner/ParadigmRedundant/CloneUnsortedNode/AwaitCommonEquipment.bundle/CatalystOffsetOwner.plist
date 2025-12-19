@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFacadeStyle</key>
+	<string>tickerStateBrightness</string>
+	<key>iterativeErrorStyle</key>
+	<string>hyperbolicMissionHead</string>
+	<key>riverpodSinceKind</key>
+	<string>constraintActionFormat</string>
+	<key>sustainableScaleStyle</key>
+	<string>durationPhaseName</string>
+</dict>
+</plist>

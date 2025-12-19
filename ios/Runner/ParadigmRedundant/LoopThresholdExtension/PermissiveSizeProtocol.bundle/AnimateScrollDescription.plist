@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetMethodSpeed</key>
+	<string>borderForVisitor</string>
+	<key>effectCommandPadding</key>
+	<string>buttonShapeRight</string>
+	<key>granularSliderStyle</key>
+	<string>resourceMementoContrast</string>
+	<key>heroNearState</key>
+	<string>gateAtAction</string>
+	<key>tableCycleInterval</key>
+	<string>rowByShape</string>
+	<key>tabviewPlatformInset</key>
+	<string>optionFunctionLocation</string>
+	<key>themePhaseTransparency</key>
+	<string>entropyModeVisibility</string>
+</dict>
+</plist>

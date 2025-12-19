@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedStatelessCoord</key>
+	<string>granularResponseAcceleration</string>
+	<key>cellAboutMode</key>
+	<string>pinchableFutureTail</string>
+	<key>clipperCompositeHue</key>
+	<string>pinchableExtensionLeft</string>
+	<key>configurationContextSkewy</key>
+	<string>agileMenuFrequency</string>
+	<key>gestureNumberOpacity</key>
+	<string>fixedCursorKind</string>
+	<key>providerDespiteFlyweight</key>
+	<string>compositionalCoordinatorDistance</string>
+	<key>resizableZoneBorder</key>
+	<string>customizedAnimationOpacity</string>
+	<key>stackForComposite</key>
+	<string>unsortedPreviewLeft</string>
+	<key>timerScopeInset</key>
+	<string>sceneAroundWork</string>
+</dict>
+</plist>

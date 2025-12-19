@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineIncludeOperation</key>
+	<string>resourceTypeLocation</string>
+	<key>bitrateInFlyweight</key>
+	<string>statefulLocalizationVelocity</string>
+	<key>flexibleMetadataInteraction</key>
+	<string>subtlePresenterBrightness</string>
+	<key>giftFlyweightVelocity</key>
+	<string>descriptionEnvironmentScale</string>
+	<key>oldLabelAppearance</key>
+	<string>usedFutureSkewy</string>
+	<key>providerAroundFacade</key>
+	<string>checklistWorkColor</string>
+	<key>scrollableTernarySize</key>
+	<string>streamProxyHue</string>
+	<key>subpixelStructureShade</key>
+	<string>transitionProxyTop</string>
+	<key>tickerInStructure</key>
+	<string>fixedCommandInterval</string>
+</dict>
+</plist>

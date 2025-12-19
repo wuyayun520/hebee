@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVersusShape</key>
+	<string>handlerPhaseSaturation</string>
+	<key>declarativeTaskLocation</key>
+	<string>viewTaskShade</string>
+	<key>difficultChartCount</key>
+	<string>numericalNavigatorCoord</string>
+	<key>fusedMobxDirection</key>
+	<string>singleThreadVisibility</string>
+	<key>missionObserverBorder</key>
+	<string>declarativeIndicatorName</string>
+	<key>originalChecklistCount</key>
+	<string>gridPlatformDelay</string>
+	<key>standaloneCheckboxSkewx</key>
+	<string>declarativeHashCount</string>
+	<key>subpixelThanLevel</key>
+	<string>statelessOffsetState</string>
+	<key>timerAmongFramework</key>
+	<string>prismaticProgressbarRate</string>
+</dict>
+</plist>

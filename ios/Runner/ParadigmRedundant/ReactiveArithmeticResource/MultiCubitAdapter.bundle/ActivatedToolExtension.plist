@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeSingletonBound</key>
+	<string>touchMethodTransparency</string>
+	<key>channelsLikeStrategy</key>
+	<string>groupWithEnvironment</string>
+	<key>constraintOutsideDecorator</key>
+	<string>granularViewTheme</string>
+	<key>futureAndLayer</key>
+	<string>spotMethodOffset</string>
+	<key>gridviewVisitorForce</key>
+	<string>dependencyContainKind</string>
+	<key>iconForFacade</key>
+	<string>factoryVersusSystem</string>
+	<key>optionInsideStrategy</key>
+	<string>euclideanBuilderBottom</string>
+</dict>
+</plist>

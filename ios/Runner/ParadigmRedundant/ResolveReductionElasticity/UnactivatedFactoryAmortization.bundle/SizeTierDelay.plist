@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitIncludeMode</key>
+	<string>draggableListenerForce</string>
+	<key>decorationActionVisible</key>
+	<string>profileWorkInset</string>
+	<key>ephemeralSkinValidation</key>
+	<string>decorationStateMode</string>
+	<key>localMenuFrequency</key>
+	<string>stepAgainstWork</string>
+	<key>mutableNotificationVelocity</key>
+	<string>materialModeBottom</string>
+	<key>publicIntensityFrequency</key>
+	<string>gridviewFlyweightDepth</string>
+	<key>reactiveExceptionAppearance</key>
+	<string>transformerAroundChain</string>
+	<key>switchVariableFrequency</key>
+	<string>responsiveTweenValidation</string>
+	<key>tableStateBehavior</key>
+	<string>optimizerForPlatform</string>
+	<key>variantInterpreterState</key>
+	<string>integerContainCommand</string>
+</dict>
+</plist>

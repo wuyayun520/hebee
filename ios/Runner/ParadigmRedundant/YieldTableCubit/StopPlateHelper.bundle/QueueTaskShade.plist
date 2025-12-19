@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePrecisionStyle</key>
+	<string>listviewTempleInteraction</string>
+	<key>channelBeyondStrategy</key>
+	<string>inactiveChapterDensity</string>
+	<key>lostGraphAlignment</key>
+	<string>sizedboxFromPlatform</string>
+	<key>mainMediaqueryDirection</key>
+	<string>diversifiedSizedboxDensity</string>
+	<key>mapStructureCenter</key>
+	<string>topicDuringPrototype</string>
+	<key>queueAdapterFrequency</key>
+	<string>semanticPositionedShape</string>
+	<key>scaleNumberScale</key>
+	<string>utilInterpreterVelocity</string>
+	<key>semanticsBeyondStructure</key>
+	<string>newestStepInteraction</string>
+</dict>
+</plist>

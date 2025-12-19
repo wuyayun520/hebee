@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTextTransparency</key>
+	<string>normalCommandIndex</string>
+	<key>coordinatorNearTemple</key>
+	<string>riverpodActivityTint</string>
+	<key>previewOrSingleton</key>
+	<string>histogramForChain</string>
+	<key>protectedDecorationSpeed</key>
+	<string>resultSingletonTheme</string>
+	<key>routerFrameworkInterval</key>
+	<string>customizedAnchorSpacing</string>
+	<key>semanticsFromEnvironment</key>
+	<string>metadataViaSingleton</string>
+</dict>
+</plist>

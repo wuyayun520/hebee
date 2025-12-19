@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityKindEdge</key>
+	<string>materialTextPressure</string>
+	<key>operationExceptMode</key>
+	<string>exceptionOperationPressure</string>
+	<key>plateObserverRight</key>
+	<string>alignmentOperationTension</string>
+	<key>tickerVersusSystem</key>
+	<string>injectionDuringStyle</string>
+	<key>usecaseWithoutProxy</key>
+	<string>listenerParamTint</string>
+</dict>
+</plist>

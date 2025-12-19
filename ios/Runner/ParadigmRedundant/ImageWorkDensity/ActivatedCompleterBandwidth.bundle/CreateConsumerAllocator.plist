@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSwiftTag</key>
+	<string>buttonAndVar</string>
+	<key>beginnerResourceLeft</key>
+	<string>directlyNormTag</string>
+	<key>curveLevelRotation</key>
+	<string>storyboardDecoratorMomentum</string>
+	<key>dependencyAdapterPadding</key>
+	<string>dependencyProxyShade</string>
+	<key>effectCommandEdge</key>
+	<string>sizeEnvironmentShade</string>
+	<key>elasticRemainderLeft</key>
+	<string>viewFlyweightRotation</string>
+	<key>flexPatternInset</key>
+	<string>mediaqueryContextShade</string>
+	<key>notifierBufferBottom</key>
+	<string>menuFlyweightName</string>
+	<key>reusableSizedboxBorder</key>
+	<string>concreteContainerRight</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLossFeedback</key>
+	<string>custompaintVarTag</string>
+	<key>awaitBufferSkewx</key>
+	<string>declarativeChallengeDepth</string>
+	<key>builderActivityValidation</key>
+	<string>reducerProxyCenter</string>
+	<key>cardCycleBound</key>
+	<string>ignoredWidgetTheme</string>
+	<key>granularActionSpacing</key>
+	<string>mediumThemePosition</string>
+	<key>protectedInterfaceRotation</key>
+	<string>sequentialAccessoryTension</string>
+	<key>publicStackTop</key>
+	<string>pageviewCompositeMode</string>
+	<key>storeAboutPattern</key>
+	<string>crudeExpandedLeft</string>
+	<key>subsequentUsagePadding</key>
+	<string>protocolStageSaturation</string>
+	<key>unsortedAnimationColor</key>
+	<string>futureVariableMode</string>
+</dict>
+</plist>

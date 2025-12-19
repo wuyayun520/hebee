@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandLayerSize</key>
+	<string>parallelControllerScale</string>
+	<key>easyPriorityEdge</key>
+	<string>subsequentDelegateAcceleration</string>
+	<key>labelContainDecorator</key>
+	<string>descriptionIncludeInterpreter</string>
+	<key>masterAroundProxy</key>
+	<string>graphAndParameter</string>
+	<key>responsiveInterfaceRight</key>
+	<string>permanentStateDistance</string>
+</dict>
+</plist>

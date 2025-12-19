@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerActionSaturation</key>
+	<string>tappableMenuResponse</string>
+	<key>eventObserverRate</key>
+	<string>precisionAndMode</string>
+	<key>nodeBridgeState</key>
+	<string>projectStageInset</string>
+	<key>routerCycleBound</key>
+	<string>protectedLabelStatus</string>
+	<key>samplePlatformFeedback</key>
+	<string>animationOfVar</string>
+	<key>transformerContextCount</key>
+	<string>semanticCoordinatorBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+#import "LabelOperationDuration.h"
+#import "DivideLogBuilder.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface OntoDescriptorObserver : NSObject
+
+
+- (void) detachPublicAlpha;
+
+- (void) keepNormalScaffold;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

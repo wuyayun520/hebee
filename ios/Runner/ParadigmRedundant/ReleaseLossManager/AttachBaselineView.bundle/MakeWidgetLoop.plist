@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureStyleCount</key>
+	<string>interfaceCommandValidation</string>
+	<key>kernelAsAction</key>
+	<string>nativeDialogsPressure</string>
+	<key>layoutContainVar</key>
+	<string>sessionModeBrightness</string>
+	<key>modelStageContrast</key>
+	<string>batchFlyweightRate</string>
+	<key>multiDurationTheme</key>
+	<string>modulusFrameworkName</string>
+</dict>
+</plist>

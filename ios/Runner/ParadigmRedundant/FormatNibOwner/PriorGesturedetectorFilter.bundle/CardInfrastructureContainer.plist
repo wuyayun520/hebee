@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartBeyondShape</key>
+	<string>animationStrategyTransparency</string>
+	<key>explicitBaselineDistance</key>
+	<string>textFacadeDelay</string>
+	<key>featureProcessScale</key>
+	<string>menuBeyondMediator</string>
+	<key>heroPatternAppearance</key>
+	<string>rectWithVariable</string>
+	<key>kernelFromPlatform</key>
+	<string>routePatternColor</string>
+	<key>modelBridgeMargin</key>
+	<string>respectiveKernelInteraction</string>
+	<key>stackBeyondTier</key>
+	<string>fusedQueueDepth</string>
+	<key>standaloneEventColor</key>
+	<string>gestureAmongActivity</string>
+	<key>swiftOutsideVariable</key>
+	<string>navigatorFromCommand</string>
+</dict>
+</plist>

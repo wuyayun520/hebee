@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSubscriptionShade</key>
+	<string>labelInterpreterShape</string>
+	<key>animationBesideBuffer</key>
+	<string>aspectBufferAlignment</string>
+	<key>futureEnvironmentEdge</key>
+	<string>activeModulusHue</string>
+	<key>iconStyleStatus</key>
+	<string>errorInterpreterTop</string>
+	<key>previewUntilBridge</key>
+	<string>channelsPerComposite</string>
+	<key>responseFunctionOffset</key>
+	<string>currentHandlerEdge</string>
+	<key>unsortedLabelBottom</key>
+	<string>requestProxyColor</string>
+</dict>
+</plist>

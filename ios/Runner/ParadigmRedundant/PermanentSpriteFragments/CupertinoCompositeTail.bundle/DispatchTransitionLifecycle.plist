@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyCommandFrequency</key>
+	<string>easyMapInterval</string>
+	<key>grainNearType</key>
+	<string>compositionParamAppearance</string>
+	<key>granularBaselineDistance</key>
+	<string>accessoryInsideSingleton</string>
+	<key>granularImageDepth</key>
+	<string>keyTransformerMomentum</string>
+	<key>resizableLayoutDirection</key>
+	<string>sizedboxAwayProxy</string>
+	<key>responsivePositionOpacity</key>
+	<string>dependencyNumberBottom</string>
+	<key>sampleThanPrototype</key>
+	<string>textBufferDirection</string>
+	<key>spriteOfStage</key>
+	<string>standaloneOffsetBehavior</string>
+</dict>
+</plist>

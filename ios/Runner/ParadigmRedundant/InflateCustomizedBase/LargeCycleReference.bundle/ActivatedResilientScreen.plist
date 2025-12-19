@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxCycleDelay</key>
+	<string>subtleRouterAcceleration</string>
+	<key>controllerSingletonOffset</key>
+	<string>functionalPageviewOffset</string>
+	<key>convolutionActivityBorder</key>
+	<string>iterativeViewMargin</string>
+	<key>layoutBeyondProcess</key>
+	<string>texturePrototypeTint</string>
+	<key>menuWithStrategy</key>
+	<string>normalActionColor</string>
+	<key>permanentRequestInset</key>
+	<string>utilVersusFacade</string>
+	<key>serviceCommandMode</key>
+	<string>standaloneStatefulStatus</string>
+</dict>
+</plist>

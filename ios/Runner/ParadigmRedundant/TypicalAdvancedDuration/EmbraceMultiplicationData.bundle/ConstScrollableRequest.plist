@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLogAcceleration</key>
+	<string>serviceDuringTask</string>
+	<key>managerVersusSystem</key>
+	<string>controllerSinceNumber</string>
+	<key>methodMediatorStyle</key>
+	<string>delegateThanStrategy</string>
+	<key>painterStageSpeed</key>
+	<string>inheritedCoordinatorInterval</string>
+	<key>sceneTaskEdge</key>
+	<string>cellAgainstJob</string>
+	<key>semanticsCompositeSaturation</key>
+	<string>queryBeyondKind</string>
+	<key>widgetOfObserver</key>
+	<string>invisibleStorageOffset</string>
+</dict>
+</plist>

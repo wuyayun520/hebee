@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorySingletonDistance</key>
+	<string>associatedFeatureOrientation</string>
+	<key>asyncActionTag</key>
+	<string>firstPreviewScale</string>
+	<key>containerIncludeMemento</key>
+	<string>cellPrototypeCount</string>
+	<key>memberOutsideWork</key>
+	<string>futureThanFacade</string>
+	<key>pageviewVariableLocation</key>
+	<string>transitionForParam</string>
+	<key>robustAxisColor</key>
+	<string>secondGroupKind</string>
+	<key>tweenViaAction</key>
+	<string>featureNumberBound</string>
+</dict>
+</plist>

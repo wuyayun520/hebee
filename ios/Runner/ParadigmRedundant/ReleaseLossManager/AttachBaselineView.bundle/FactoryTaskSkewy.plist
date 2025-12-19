@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicParticleContrast</key>
+	<string>durationJobOpacity</string>
+	<key>gridviewObserverFrequency</key>
+	<string>subpixelDuringStage</string>
+	<key>retainedIntensityDirection</key>
+	<string>particleStateShade</string>
+	<key>semanticIntensityFeedback</key>
+	<string>semanticMethodHue</string>
+	<key>subsequentWidgetAcceleration</key>
+	<string>mobxStateName</string>
+</dict>
+</plist>

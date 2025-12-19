@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintStrategyScale</key>
+	<string>utilDuringPattern</string>
+	<key>documentIncludeMethod</key>
+	<string>layoutVersusCycle</string>
+	<key>elasticInterpolationBound</key>
+	<string>effectForChain</string>
+	<key>localizationChainTail</key>
+	<string>skirtDuringProxy</string>
+	<key>nibWithoutDecorator</key>
+	<string>errorStageForce</string>
+	<key>offsetFormTag</key>
+	<string>radioIncludeCommand</string>
+	<key>prismaticOptimizerDistance</key>
+	<string>asynchronousRepositoryInterval</string>
+	<key>storageWithoutKind</key>
+	<string>exponentActivityPosition</string>
+	<key>timerContainCommand</key>
+	<string>fragmentLikeFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBufferHue</key>
+	<string>transitionCycleInterval</string>
+	<key>borderThroughShape</key>
+	<string>methodCompositeDelay</string>
+	<key>deferredScaleSpeed</key>
+	<string>coordinatorOrType</string>
+	<key>effectCycleSpeed</key>
+	<string>desktopTangentCount</string>
+	<key>inkwellBesideFunction</key>
+	<string>dedicatedEffectOrientation</string>
+	<key>mobileLikeContext</key>
+	<string>isolateActivityRotation</string>
+	<key>queryAroundMemento</key>
+	<string>permissiveRouteKind</string>
+	<key>spineAmongPattern</key>
+	<string>labelPerProcess</string>
+</dict>
+</plist>

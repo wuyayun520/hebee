@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDecoratorBehavior</key>
+	<string>animationCycleStatus</string>
+	<key>denseSkinInteraction</key>
+	<string>flexVariableHead</string>
+	<key>methodPlatformType</key>
+	<string>delicateMobileHue</string>
+	<key>presenterChainAlignment</key>
+	<string>descriptionVersusTier</string>
+	<key>publicCosineValidation</key>
+	<string>sliderNearAdapter</string>
+	<key>zoneValueSpacing</key>
+	<string>missedActionMode</string>
+</dict>
+</plist>

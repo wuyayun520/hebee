@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalInjectionOrientation</key>
+	<string>usageIncludeMode</string>
+	<key>consultativeNavigatorName</key>
+	<string>behaviorThroughBridge</string>
+	<key>inheritedAlphaVisibility</key>
+	<string>logAsOperation</string>
+	<key>tappableSliderTension</key>
+	<string>overlayWithInterpreter</string>
+</dict>
+</plist>

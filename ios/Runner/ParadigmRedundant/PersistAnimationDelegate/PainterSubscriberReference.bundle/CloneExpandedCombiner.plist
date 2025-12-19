@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerOutsidePattern</key>
+	<string>transitionAlongCommand</string>
+	<key>iterativeColumnCoord</key>
+	<string>capsuleWithWork</string>
+	<key>previewOutsideActivity</key>
+	<string>modalStyleType</string>
+	<key>storyboardLayerShape</key>
+	<string>captionBufferSaturation</string>
+</dict>
+</plist>

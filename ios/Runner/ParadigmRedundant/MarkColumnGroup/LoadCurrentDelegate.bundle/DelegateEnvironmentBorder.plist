@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnContainKind</key>
+	<string>handlerAroundComposite</string>
+	<key>eventActivitySpeed</key>
+	<string>lossUntilTier</string>
+	<key>graphicTaskStatus</key>
+	<string>concurrentButtonFrequency</string>
+	<key>interpolationObserverStyle</key>
+	<string>operationVisitorSaturation</string>
+	<key>metadataCommandTail</key>
+	<string>finalRadiusTheme</string>
+	<key>mobileTimerBottom</key>
+	<string>lostPointContrast</string>
+	<key>sinkActivityVisible</key>
+	<string>columnInsidePattern</string>
+	<key>smallTitleSpacing</key>
+	<string>integerByFlyweight</string>
+</dict>
+</plist>

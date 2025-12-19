@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubePerVar</key>
+	<string>dialogsAdapterOpacity</string>
+	<key>easyPopupAppearance</key>
+	<string>fixedProjectDistance</string>
+	<key>enabledImageInterval</key>
+	<string>semanticTransformerOrientation</string>
+	<key>factoryPlatformShade</key>
+	<string>tweenAsDecorator</string>
+	<key>materialThanContext</key>
+	<string>labelVariableSize</string>
+	<key>mutableNodeInset</key>
+	<string>materialBufferSaturation</string>
+	<key>plateObserverOrigin</key>
+	<string>awaitAmongVariable</string>
+	<key>tensorBehaviorMomentum</key>
+	<string>decorationDuringMediator</string>
+	<key>unactivatedCellShape</key>
+	<string>dialogsInVisitor</string>
+</dict>
+</plist>

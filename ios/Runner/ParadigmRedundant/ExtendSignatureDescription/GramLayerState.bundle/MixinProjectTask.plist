@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetPrototypeFeedback</key>
+	<string>semanticCharacterLocation</string>
+	<key>boxPhaseCoord</key>
+	<string>bufferBesideFramework</string>
+	<key>cartesianStreamSpeed</key>
+	<string>standaloneVectorInset</string>
+	<key>coordinatorEnvironmentPressure</key>
+	<string>cupertinoPerStage</string>
+	<key>injectionFromLevel</key>
+	<string>significantResourceKind</string>
+	<key>offsetBesideFramework</key>
+	<string>remainderOfType</string>
+	<key>scaffoldCompositeTheme</key>
+	<string>roleTierType</string>
+	<key>sizeLayerSkewy</key>
+	<string>usecaseScopeOrigin</string>
+</dict>
+</plist>

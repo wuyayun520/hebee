@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableBuilderOpacity</key>
+	<string>grayscaleMediatorRight</string>
+	<key>customReferenceLocation</key>
+	<string>commandAtFacade</string>
+	<key>dialogsAsMode</key>
+	<string>segueTempleResponse</string>
+	<key>observerSingletonHead</key>
+	<string>previewActivityScale</string>
+	<key>semanticDependencyBrightness</key>
+	<string>reducerInsideTier</string>
+	<key>timerWithoutPattern</key>
+	<string>touchContainTemple</string>
+	<key>titleAtFunction</key>
+	<string>errorThanBuffer</string>
+</dict>
+</plist>

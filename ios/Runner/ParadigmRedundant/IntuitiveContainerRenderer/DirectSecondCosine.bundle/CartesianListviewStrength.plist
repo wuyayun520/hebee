@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionForBridge</key>
+	<string>concreteHeroSpeed</string>
+	<key>basicRepositoryVisible</key>
+	<string>ignoredEqualizationRate</string>
+	<key>easyZonePressure</key>
+	<string>viewKindFeedback</string>
+	<key>granularVectorRotation</key>
+	<string>observerMementoName</string>
+	<key>independentObserverBehavior</key>
+	<string>taskEnvironmentOrigin</string>
+	<key>intuitiveAspectRotation</key>
+	<string>positionedAlongTemple</string>
+	<key>protocolActivityEdge</key>
+	<string>radiusScopeFormat</string>
+	<key>providerAroundFlyweight</key>
+	<string>nodeForOperation</string>
+	<key>storeScopeTop</key>
+	<string>blocFunctionOffset</string>
+</dict>
+</plist>

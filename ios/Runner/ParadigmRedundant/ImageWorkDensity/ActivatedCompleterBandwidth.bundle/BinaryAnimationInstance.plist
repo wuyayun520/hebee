@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxInFlyweight</key>
+	<string>heapFlyweightScale</string>
+	<key>configurationAmongScope</key>
+	<string>pivotalEventAppearance</string>
+	<key>cubitNearFlyweight</key>
+	<string>imperativeTextHue</string>
+	<key>disparateCubitSize</key>
+	<string>dropdownbuttonLikeVariable</string>
+	<key>previewActivityShade</key>
+	<string>positionBeyondAdapter</string>
+	<key>resilientBinaryCount</key>
+	<string>shaderOperationAcceleration</string>
+	<key>synchronousErrorDistance</key>
+	<string>agileTangentOpacity</string>
+</dict>
+</plist>

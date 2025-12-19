@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStageBrightness</key>
+	<string>publicLabelShade</string>
+	<key>declarativeGramVisible</key>
+	<string>metadataPatternSpeed</string>
+	<key>inactiveExceptionName</key>
+	<string>alignmentSinceNumber</string>
+	<key>reusableSceneDirection</key>
+	<string>priorityIncludeChain</string>
+	<key>statelessAsFramework</key>
+	<string>tickerAboutVariable</string>
+	<key>storeVisitorTint</key>
+	<string>sizeCycleFeedback</string>
+</dict>
+</plist>

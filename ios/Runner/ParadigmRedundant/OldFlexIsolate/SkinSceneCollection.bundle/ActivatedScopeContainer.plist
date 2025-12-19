@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentContainPattern</key>
+	<string>unsortedOffsetScale</string>
+	<key>animationVarName</key>
+	<string>extensionPatternLocation</string>
+	<key>chartContextOrientation</key>
+	<string>localSegueFrequency</string>
+	<key>containerMementoDuration</key>
+	<string>significantGroupStatus</string>
+	<key>expandedAsProxy</key>
+	<string>currentModalOrientation</string>
+	<key>extensionValueFrequency</key>
+	<string>sequentialTaskShape</string>
+	<key>instructionWithStyle</key>
+	<string>concreteGrainStatus</string>
+	<key>prevGraphInset</key>
+	<string>descriptionContainFlyweight</string>
+	<key>sizeWithAdapter</key>
+	<string>drawerPlatformScale</string>
+	<key>sizedboxBesideStrategy</key>
+	<string>cartesianCommandTheme</string>
+</dict>
+</plist>

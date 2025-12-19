@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionFunctionInset</key>
+	<string>lossPatternSpacing</string>
+	<key>convolutionMethodSpeed</key>
+	<string>disabledMediaShape</string>
+	<key>graphThroughStrategy</key>
+	<string>singleCellSize</string>
+	<key>interpolationFunctionBorder</key>
+	<string>factoryInStage</string>
+	<key>projectFrameworkFormat</key>
+	<string>animationShapeDensity</string>
+	<key>taskDuringComposite</key>
+	<string>gateVersusSystem</string>
+	<key>textureFacadeSpacing</key>
+	<string>interactiveRadiusOpacity</string>
+</dict>
+</plist>

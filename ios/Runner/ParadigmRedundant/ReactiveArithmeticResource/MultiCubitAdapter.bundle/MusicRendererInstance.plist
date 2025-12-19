@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorPlatformName</key>
+	<string>iconOperationKind</string>
+	<key>directCurveRotation</key>
+	<string>buttonAlongScope</string>
+	<key>nativeGradientVisible</key>
+	<string>constNavigatorCenter</string>
+	<key>operationAsTask</key>
+	<string>localFeatureContrast</string>
+	<key>textureStyleDensity</key>
+	<string>convolutionAgainstOperation</string>
+</dict>
+</plist>

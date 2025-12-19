@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandStrategyAlignment</key>
+	<string>radiusAsFunction</string>
+	<key>contractionFormDelay</key>
+	<string>cubitAndFramework</string>
+	<key>crucialPopupOrientation</key>
+	<string>progressbarExceptChain</string>
+	<key>delegateVersusProxy</key>
+	<string>resourceIncludeSystem</string>
+	<key>errorByFacade</key>
+	<string>relationalAssetDelay</string>
+	<key>getxWithMode</key>
+	<string>transitionModeTag</string>
+	<key>kernelWithoutMediator</key>
+	<string>interactorAlongBuffer</string>
+	<key>routerSinceContext</key>
+	<string>delegateLevelTheme</string>
+	<key>sizeWithParameter</key>
+	<string>constCapsuleMargin</string>
+</dict>
+</plist>

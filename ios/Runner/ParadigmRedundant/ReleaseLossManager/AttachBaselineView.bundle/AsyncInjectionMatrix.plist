@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStateDelay</key>
+	<string>queueAroundMediator</string>
+	<key>firstTweenType</key>
+	<string>errorMediatorCenter</string>
+	<key>fixedUsecaseStyle</key>
+	<string>masterPhaseCenter</string>
+	<key>grainProxyResponse</key>
+	<string>gesturePerJob</string>
+	<key>inactiveQueryFrequency</key>
+	<string>projectionOrParam</string>
+	<key>mainRowCoord</key>
+	<string>delegatePerForm</string>
+	<key>menuAndActivity</key>
+	<string>loopTierInterval</string>
+	<key>reducerBeyondVisitor</key>
+	<string>positionedBesideFlyweight</string>
+	<key>referenceAroundFunction</key>
+	<string>navigatorFrameworkRate</string>
+</dict>
+</plist>

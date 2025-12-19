@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInkwellTint</key>
+	<string>notifierVisitorContrast</string>
+	<key>cupertinoKernelRotation</key>
+	<string>titleTaskBound</string>
+	<key>pinchableMaterialSpeed</key>
+	<string>invisibleHashVisibility</string>
+	<key>requiredDependencyColor</key>
+	<string>cupertinoVectorShape</string>
+	<key>spriteIncludeMode</key>
+	<string>iconLikeBuffer</string>
+	<key>storeTypeDelay</key>
+	<string>liteDurationDistance</string>
+	<key>temporaryMemberOpacity</key>
+	<string>delegateActivityStyle</string>
+	<key>usedRectSpeed</key>
+	<string>specifyStoreShape</string>
+</dict>
+</plist>

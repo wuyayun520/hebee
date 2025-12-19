@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyFormHead</key>
+	<string>firstScrollTransparency</string>
+	<key>dynamicCatalystStatus</key>
+	<string>containerBesideSingleton</string>
+	<key>histogramVariableInterval</key>
+	<string>boxshadowBufferSaturation</string>
+	<key>rectContextVisible</key>
+	<string>fixedQueryTheme</string>
+	<key>rowDuringStage</key>
+	<string>euclideanLossSize</string>
+	<key>widgetBeyondSystem</key>
+	<string>signContextLocation</string>
+</dict>
+</plist>

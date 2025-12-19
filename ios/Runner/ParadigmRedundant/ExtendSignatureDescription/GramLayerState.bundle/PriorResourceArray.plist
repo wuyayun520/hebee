@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaVariableScale</key>
+	<string>tickerUntilVariable</string>
+	<key>decorationBridgeEdge</key>
+	<string>cursorByStructure</string>
+	<key>gridShapeAppearance</key>
+	<string>masterOrCommand</string>
+	<key>immutableAnimationCount</key>
+	<string>transitionAroundActivity</string>
+	<key>pinchableListviewAlignment</key>
+	<string>routeAndKind</string>
+	<key>sizeProxyAcceleration</key>
+	<string>movementAmongBridge</string>
+</dict>
+</plist>

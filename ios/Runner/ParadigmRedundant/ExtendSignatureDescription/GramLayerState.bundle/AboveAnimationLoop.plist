@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAdapterTheme</key>
+	<string>liteChannelTag</string>
+	<key>customizedReducerLocation</key>
+	<string>chartSinceAction</string>
+	<key>screenCommandMode</key>
+	<string>listviewAgainstChain</string>
+	<key>similarCurvePressure</key>
+	<string>interpolationVersusScope</string>
+	<key>titleAlongState</key>
+	<string>compositionMethodCount</string>
+</dict>
+</plist>

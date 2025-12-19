@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferOutsideInterpreter</key>
+	<string>zoneAndOperation</string>
+	<key>cupertinoInteractorMode</key>
+	<string>nativeCompositionFrequency</string>
+	<key>eagerFutureBound</key>
+	<string>streamShapeSaturation</string>
+	<key>getxWithDecorator</key>
+	<string>zoneDuringMemento</string>
+	<key>localizationPrototypeInteraction</key>
+	<string>routerOutsideObserver</string>
+</dict>
+</plist>

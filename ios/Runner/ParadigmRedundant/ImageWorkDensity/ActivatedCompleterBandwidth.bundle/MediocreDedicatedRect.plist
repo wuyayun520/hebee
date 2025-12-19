@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTypeSpacing</key>
+	<string>seamlessIntegerFlags</string>
+	<key>arithmeticPresenterBehavior</key>
+	<string>fixedStoryboardFeedback</string>
+	<key>compositionalSceneAcceleration</key>
+	<string>lostTextDistance</string>
+	<key>customizedChannelDistance</key>
+	<string>gesturedetectorMediatorDelay</string>
+	<key>otherContainerResponse</key>
+	<string>oldAwaitOpacity</string>
+	<key>playbackVariableDelay</key>
+	<string>blocLevelFlags</string>
+	<key>richtextExceptFlyweight</key>
+	<string>roleWithProxy</string>
+	<key>storageMethodAlignment</key>
+	<string>gesturedetectorContainObserver</string>
+	<key>subpixelAwayJob</key>
+	<string>completerPrototypeIndex</string>
+	<key>webHashVisible</key>
+	<string>routerOfChain</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitScopeVisible</key>
+	<string>boxPatternTint</string>
+	<key>disparateNavigatorOpacity</key>
+	<string>responsiveConstraintStyle</string>
+	<key>functionalTitleStyle</key>
+	<string>chapterAtActivity</string>
+	<key>skinStageColor</key>
+	<string>usageOfTier</string>
+</dict>
+</plist>

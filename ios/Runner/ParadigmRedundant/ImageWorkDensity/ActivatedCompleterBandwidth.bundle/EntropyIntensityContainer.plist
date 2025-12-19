@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTextureTag</key>
+	<string>missionIncludeSystem</string>
+	<key>buttonLevelRight</key>
+	<string>precisionMediatorTint</string>
+	<key>constraintProcessStyle</key>
+	<string>petThroughFunction</string>
+	<key>indicatorWorkDuration</key>
+	<string>builderAgainstFlyweight</string>
+	<key>labelOfStructure</key>
+	<string>fixedAssetBottom</string>
+	<key>mobileIncludeForm</key>
+	<string>singletonParamBound</string>
+	<key>positionLikeMediator</key>
+	<string>animationCommandType</string>
+	<key>positionParameterIndex</key>
+	<string>asynchronousVariantStatus</string>
+	<key>sinkInProcess</key>
+	<string>reducerInKind</string>
+</dict>
+</plist>

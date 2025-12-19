@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioDuringActivity</key>
+	<string>signIncludePlatform</string>
+	<key>completionLevelStatus</key>
+	<string>entropyAgainstChain</string>
+	<key>dialogsStateFeedback</key>
+	<string>protectedCycleMode</string>
+	<key>modulusMethodInterval</key>
+	<string>queryDuringScope</string>
+	<key>primaryCurveAcceleration</key>
+	<string>textfieldByMemento</string>
+	<key>sliderNearMode</key>
+	<string>opaqueHistogramTransparency</string>
+	<key>widgetCompositeVisibility</key>
+	<string>sizeCompositeIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonDecoratorOrientation</key>
+	<string>completionVarLocation</string>
+	<key>decorationJobHue</key>
+	<string>swiftContainCycle</string>
+	<key>delegateCommandResponse</key>
+	<string>buttonAtFunction</string>
+	<key>dependencyAlongPrototype</key>
+	<string>keyReductionCoord</string>
+	<key>hierarchicalStreamSaturation</key>
+	<string>routeAboutStructure</string>
+	<key>secondNavigatorRight</key>
+	<string>entityMediatorRotation</string>
+	<key>smallDurationPressure</key>
+	<string>reducerStrategyDistance</string>
+</dict>
+</plist>

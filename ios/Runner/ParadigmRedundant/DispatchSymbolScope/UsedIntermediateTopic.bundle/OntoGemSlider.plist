@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicLabelBehavior</key>
+	<string>respectiveDelegateLeft</string>
+	<key>effectByLayer</key>
+	<string>interactorChainResponse</string>
+	<key>grainOrAction</key>
+	<string>gradientIncludeActivity</string>
+	<key>permanentMediaSize</key>
+	<string>criticalConstraintSaturation</string>
+</dict>
+</plist>

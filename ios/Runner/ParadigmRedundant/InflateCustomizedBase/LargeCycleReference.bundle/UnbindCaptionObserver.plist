@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletSinceBridge</key>
+	<string>playbackFormAlignment</string>
+	<key>disparateSliderInteraction</key>
+	<string>completionIncludeOperation</string>
+	<key>graphicIncludeProxy</key>
+	<string>synchronousConstraintType</string>
+	<key>inheritedSliderBrightness</key>
+	<string>eagerFutureAlignment</string>
+	<key>resilientPainterSkewx</key>
+	<string>symmetricCallbackValidation</string>
+	<key>signWorkLocation</key>
+	<string>cycleOutsideFacade</string>
+	<key>usecaseWithoutVisitor</key>
+	<string>resizableGraphDepth</string>
+</dict>
+</plist>

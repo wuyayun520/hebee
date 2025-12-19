@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTabviewOrientation</key>
+	<string>hierarchicalDecorationSpeed</string>
+	<key>immutableFactoryFrequency</key>
+	<string>controllerKindMomentum</string>
+	<key>inheritedDocumentState</key>
+	<string>advancedStoreOffset</string>
+	<key>intensityActivityFeedback</key>
+	<string>resourceBesideProcess</string>
+	<key>mediaqueryAdapterFrequency</key>
+	<string>animationExceptValue</string>
+	<key>reusableBaseSpeed</key>
+	<string>staticCallbackSpeed</string>
+	<key>transitionSystemEdge</key>
+	<string>localizationWithState</string>
+</dict>
+</plist>

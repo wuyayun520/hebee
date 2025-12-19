@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateUntilBuffer</key>
+	<string>persistentLabelContrast</string>
+	<key>euclideanSliderOpacity</key>
+	<string>listenerTaskTransparency</string>
+	<key>greatTextureSkewx</key>
+	<string>curveForAdapter</string>
+	<key>interpolationValueShade</key>
+	<string>skirtValueColor</string>
+	<key>labelPlatformBrightness</key>
+	<string>sizeAgainstSystem</string>
+	<key>logarithmEnvironmentRotation</key>
+	<string>exceptionLikeStage</string>
+	<key>resultExceptDecorator</key>
+	<string>resourceTempleMode</string>
+	<key>storeShapeStyle</key>
+	<string>largeOverlayVisible</string>
+</dict>
+</plist>

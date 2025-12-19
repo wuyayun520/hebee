@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveLevelKind</key>
+	<string>awaitAndVar</string>
+	<key>numericalSignBehavior</key>
+	<string>cubitLikeNumber</string>
+	<key>secondCollectionInteraction</key>
+	<string>controllerAlongPhase</string>
+	<key>stampWithOperation</key>
+	<string>temporaryPointTint</string>
+</dict>
+</plist>

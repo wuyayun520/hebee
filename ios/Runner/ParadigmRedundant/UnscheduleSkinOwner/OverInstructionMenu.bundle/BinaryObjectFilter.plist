@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBeyondForm</key>
+	<string>viewVarAcceleration</string>
+	<key>brushBeyondSystem</key>
+	<string>boxParamInterval</string>
+	<key>eventInCycle</key>
+	<string>menuUntilObserver</string>
+	<key>menuThanInterpreter</key>
+	<string>eagerConstraintMode</string>
+	<key>pointForObserver</key>
+	<string>reactiveSessionResponse</string>
+	<key>responsiveWidgetDepth</key>
+	<string>disabledDurationOrientation</string>
+	<key>singletonAmongWork</key>
+	<string>queryWithObserver</string>
+</dict>
+</plist>

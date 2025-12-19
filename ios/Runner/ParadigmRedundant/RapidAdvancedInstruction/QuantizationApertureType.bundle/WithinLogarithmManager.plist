@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSensorInteraction</key>
+	<string>playbackAboutProcess</string>
+	<key>buttonThroughMemento</key>
+	<string>ignoredTickerBound</string>
+	<key>channelsIncludeStrategy</key>
+	<string>blocMementoRotation</string>
+	<key>contractionJobSize</key>
+	<string>reactiveSensorPosition</string>
+	<key>controllerPerFacade</key>
+	<string>frameScopeTail</string>
+	<key>modelMethodIndex</key>
+	<string>alphaActivityCenter</string>
+	<key>permanentCoordinatorRight</key>
+	<string>featureOrFramework</string>
+	<key>playbackPrototypeDuration</key>
+	<string>operationStyleSaturation</string>
+	<key>requestAgainstActivity</key>
+	<string>oldTransitionFrequency</string>
+</dict>
+</plist>

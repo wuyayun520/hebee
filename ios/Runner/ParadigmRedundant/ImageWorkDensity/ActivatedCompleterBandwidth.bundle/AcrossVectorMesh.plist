@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashObserverHue</key>
+	<string>binaryViaProxy</string>
+	<key>listviewAsInterpreter</key>
+	<string>tappableFactoryRight</string>
+	<key>textBufferInteraction</key>
+	<string>activatedCurveTheme</string>
+</dict>
+</plist>

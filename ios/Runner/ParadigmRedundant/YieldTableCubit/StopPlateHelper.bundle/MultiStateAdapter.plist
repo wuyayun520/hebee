@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackProxyDensity</key>
+	<string>hyperbolicPrecisionHue</string>
+	<key>composableMobileAcceleration</key>
+	<string>integerFromComposite</string>
+	<key>contractionNumberTint</key>
+	<string>clipperSingletonScale</string>
+	<key>entropyFlyweightRotation</key>
+	<string>cupertinoTextType</string>
+	<key>metadataAndStage</key>
+	<string>stepFacadeIndex</string>
+	<key>metadataFlyweightOffset</key>
+	<string>transitionIncludeState</string>
+	<key>responseFacadeEdge</key>
+	<string>actionOrBridge</string>
+	<key>topicFormValidation</key>
+	<string>signInsideParameter</string>
+</dict>
+</plist>

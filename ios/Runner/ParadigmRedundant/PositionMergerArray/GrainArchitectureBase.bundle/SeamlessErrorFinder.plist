@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonKernelAcceleration</key>
+	<string>managerAlongBridge</string>
+	<key>currentCallbackHead</key>
+	<string>requestTempleFeedback</string>
+	<key>desktopSensorCenter</key>
+	<string>declarativeSubpixelVisible</string>
+	<key>diffableGrayscalePressure</key>
+	<string>euclideanRouteType</string>
+	<key>isolateInKind</key>
+	<string>displayableHandlerVelocity</string>
+	<key>memberOutsideEnvironment</key>
+	<string>captionThroughParameter</string>
+	<key>modelWorkKind</key>
+	<string>sinkStrategyMargin</string>
+	<key>prismaticResourceSkewy</key>
+	<string>descriptionVersusProcess</string>
+	<key>sliderPerPhase</key>
+	<string>brushWorkDepth</string>
+</dict>
+</plist>

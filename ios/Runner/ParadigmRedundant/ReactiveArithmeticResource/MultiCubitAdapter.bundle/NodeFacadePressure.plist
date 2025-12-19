@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaqueryContextDirection</key>
+	<string>easyStampContrast</string>
+	<key>mobxObserverDensity</key>
+	<string>persistentLayoutSize</string>
+	<key>offsetPlatformAppearance</key>
+	<string>topicLevelTail</string>
+	<key>scrollableAlignmentHue</key>
+	<string>prismaticGridFrequency</string>
+	<key>semanticsKindVelocity</key>
+	<string>sensorStageSkewy</string>
+	<key>statelessListenerDepth</key>
+	<string>specifierKindTension</string>
+	<key>substantialObserverInset</key>
+	<string>explicitChannelTop</string>
+</dict>
+</plist>

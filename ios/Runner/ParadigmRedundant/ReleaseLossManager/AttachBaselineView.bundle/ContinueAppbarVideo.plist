@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticAnimationTag</key>
+	<string>captionAtValue</string>
+	<key>inheritedUtilKind</key>
+	<string>seamlessPetTheme</string>
+	<key>marginOrSingleton</key>
+	<string>segueInMediator</string>
+	<key>pivotalPriorityAlignment</key>
+	<string>interfaceOperationDepth</string>
+	<key>transitionInsideComposite</key>
+	<string>integerAwayForm</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialTextAppearance</key>
+	<string>radiusPhaseCoord</string>
+	<key>draggableRouteBottom</key>
+	<string>cellInProxy</string>
+	<key>extensionCommandSpacing</key>
+	<string>asyncMementoHue</string>
+	<key>granularTabbarDuration</key>
+	<string>scrollableRowDepth</string>
+	<key>independentCharacterTop</key>
+	<string>adaptiveGramResponse</string>
+	<key>vectorFlyweightHue</key>
+	<string>standaloneCubeIndex</string>
+	<key>webQuerySaturation</key>
+	<string>musicInMemento</string>
+</dict>
+</plist>

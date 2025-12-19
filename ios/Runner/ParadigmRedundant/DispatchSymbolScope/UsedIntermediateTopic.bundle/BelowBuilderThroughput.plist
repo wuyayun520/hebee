@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertIncludeState</key>
+	<string>euclideanExceptionContrast</string>
+	<key>dependencyFrameworkName</key>
+	<string>positionBridgeSpeed</string>
+	<key>effectByPlatform</key>
+	<string>protectedAlignmentScale</string>
+	<key>hierarchicalMediaSkewx</key>
+	<string>lazySkirtValidation</string>
+	<key>masterInLayer</key>
+	<string>inactiveBoxRate</string>
+	<key>pinchableDocumentDensity</key>
+	<string>fusedHashEdge</string>
+	<key>referenceLevelDepth</key>
+	<string>buttonAtFramework</string>
+	<key>storyboardBeyondEnvironment</key>
+	<string>containerContainMemento</string>
+	<key>topicInComposite</key>
+	<string>projectionOperationMargin</string>
+</dict>
+</plist>

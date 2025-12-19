@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitThroughDecorator</key>
+	<string>pinchableChallengeValidation</string>
+	<key>denseAlertIndex</key>
+	<string>hardTableFeedback</string>
+	<key>flexibleSingletonTheme</key>
+	<string>arithmeticExpandedFeedback</string>
+	<key>indicatorPerEnvironment</key>
+	<string>significantEventFeedback</string>
+	<key>listenerContextCenter</key>
+	<string>vectorKindRight</string>
+	<key>resizableCurveColor</key>
+	<string>substantialTweenHead</string>
+	<key>subscriptionVersusKind</key>
+	<string>imperativeCompletionMode</string>
+	<key>symmetricCapacitiesForce</key>
+	<string>cupertinoExceptFlyweight</string>
+	<key>transitionOutsideTier</key>
+	<string>sceneBeyondStructure</string>
+</dict>
+</plist>

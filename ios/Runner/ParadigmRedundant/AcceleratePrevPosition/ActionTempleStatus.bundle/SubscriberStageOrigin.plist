@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTierShade</key>
+	<string>completerWorkFlags</string>
+	<key>arithmeticAlongObserver</key>
+	<string>errorForVariable</string>
+	<key>completerForProxy</key>
+	<string>allocatorBridgeValidation</string>
+	<key>criticalStampName</key>
+	<string>viewWithObserver</string>
+	<key>cubitFlyweightFormat</key>
+	<string>relationalTabviewMargin</string>
+	<key>promiseForTier</key>
+	<string>channelNearFramework</string>
+	<key>protectedMethodSize</key>
+	<string>containerAsType</string>
+	<key>resourceVarContrast</key>
+	<string>builderAsProxy</string>
+</dict>
+</plist>

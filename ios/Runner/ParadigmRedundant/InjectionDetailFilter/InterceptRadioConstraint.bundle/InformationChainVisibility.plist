@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFunctionScale</key>
+	<string>modelCompositeVisibility</string>
+	<key>aspectModeBound</key>
+	<string>anchorNumberSpeed</string>
+	<key>heroAroundAction</key>
+	<string>mediaqueryDecoratorCenter</string>
+	<key>managerFormBehavior</key>
+	<string>mediaqueryPlatformVisible</string>
+	<key>projectionAroundVariable</key>
+	<string>composableAllocatorDirection</string>
+	<key>sequentialTextDuration</key>
+	<string>responsiveStreamBrightness</string>
+	<key>sliderModeType</key>
+	<string>musicInDecorator</string>
+	<key>spotSingletonIndex</key>
+	<string>cursorPhaseMomentum</string>
+</dict>
+</plist>

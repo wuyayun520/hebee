@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSensorOpacity</key>
+	<string>sensorVarStatus</string>
+	<key>containerLikeChain</key>
+	<string>cartesianCurveBrightness</string>
+	<key>difficultOptimizerCoord</key>
+	<string>matrixCommandVisibility</string>
+	<key>paddingContainCycle</key>
+	<string>visibleObserverBrightness</string>
+	<key>particleSystemSaturation</key>
+	<string>channelAlongContext</string>
+	<key>signTempleTension</key>
+	<string>statefulByStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopChapterPressure</key>
+	<string>localizationOutsideTask</string>
+	<key>oldSymbolName</key>
+	<string>sliderOutsideProcess</string>
+	<key>reactiveStreamState</key>
+	<string>graphEnvironmentBehavior</string>
+	<key>rowInsidePhase</key>
+	<string>skinStagePosition</string>
+	<key>screenOutsideAdapter</key>
+	<string>scrollableDelegateCount</string>
+	<key>storageFrameworkContrast</key>
+	<string>memberAwayType</string>
+</dict>
+</plist>

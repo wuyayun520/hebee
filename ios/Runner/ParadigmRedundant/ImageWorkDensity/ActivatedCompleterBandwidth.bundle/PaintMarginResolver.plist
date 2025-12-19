@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackContainProcess</key>
+	<string>materialActivityVisible</string>
+	<key>constraintFacadeMode</key>
+	<string>awaitModeSkewy</string>
+	<key>cubitAndDecorator</key>
+	<string>requiredAlignmentContrast</string>
+	<key>decorationPatternMargin</key>
+	<string>loopVersusFlyweight</string>
+	<key>resourceScopeAlignment</key>
+	<string>scaffoldDecoratorEdge</string>
+	<key>routeNearValue</key>
+	<string>isolateAndTier</string>
+	<key>storyboardOutsideStrategy</key>
+	<string>storageAndType</string>
+</dict>
+</plist>

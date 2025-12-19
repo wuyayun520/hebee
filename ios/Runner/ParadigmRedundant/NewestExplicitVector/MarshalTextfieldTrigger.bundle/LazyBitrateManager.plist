@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameAndParameter</key>
+	<string>isolateWithoutBuffer</string>
+	<key>multiOffsetVelocity</key>
+	<string>unsortedConstraintOrientation</string>
+	<key>smartControllerInteraction</key>
+	<string>textureProcessOrigin</string>
+	<key>webAllocatorInset</key>
+	<string>viewActivityDuration</string>
+</dict>
+</plist>

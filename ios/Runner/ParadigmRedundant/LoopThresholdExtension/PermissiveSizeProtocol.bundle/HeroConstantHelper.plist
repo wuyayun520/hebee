@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelNearType</key>
+	<string>playbackFormAppearance</string>
+	<key>navigationBeyondShape</key>
+	<string>assetFromPhase</string>
+	<key>reductionEnvironmentDuration</key>
+	<string>isolateWithoutState</string>
+	<key>sensorProxyValidation</key>
+	<string>constraintVisitorCoord</string>
+	<key>sineBridgeSkewy</key>
+	<string>heapAmongAdapter</string>
+</dict>
+</plist>

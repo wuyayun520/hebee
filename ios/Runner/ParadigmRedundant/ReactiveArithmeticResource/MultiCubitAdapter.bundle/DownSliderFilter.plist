@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerParamValidation</key>
+	<string>grainPhaseTension</string>
+	<key>coordinatorActivityFormat</key>
+	<string>spriteDuringMode</string>
+	<key>lossLikeProcess</key>
+	<string>histogramAdapterKind</string>
+	<key>profileAwayComposite</key>
+	<string>grainObserverShape</string>
+	<key>requestAdapterMode</key>
+	<string>commandBesidePrototype</string>
+	<key>textfieldAdapterShape</key>
+	<string>animationShapeTint</string>
+	<key>tweenBesideMemento</key>
+	<string>persistentTouchAcceleration</string>
+</dict>
+</plist>

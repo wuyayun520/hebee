@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateInterpreterStyle</key>
+	<string>resizableRequestDensity</string>
+	<key>interactiveCycleName</key>
+	<string>smartPromiseTail</string>
+	<key>loopParameterMode</key>
+	<string>captionCycleTail</string>
+	<key>managerSinceForm</key>
+	<string>finalZoneVelocity</string>
+	<key>smallRouteSpacing</key>
+	<string>providerAboutType</string>
+</dict>
+</plist>

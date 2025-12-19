@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyBesideShape</key>
+	<string>sizeViaKind</string>
+	<key>entropyKindTag</key>
+	<string>blocAmongDecorator</string>
+	<key>hashOrFramework</key>
+	<string>mobxActivityHue</string>
+	<key>singletonForForm</key>
+	<string>dynamicMediaqueryCount</string>
+	<key>textMediatorShape</key>
+	<string>webMethodTint</string>
+	<key>themeThanMethod</key>
+	<string>gestureBufferInteraction</string>
+	<key>usageAlongOperation</key>
+	<string>borderThanPhase</string>
+	<key>vectorAroundOperation</key>
+	<string>tensorGraphKind</string>
+</dict>
+</plist>

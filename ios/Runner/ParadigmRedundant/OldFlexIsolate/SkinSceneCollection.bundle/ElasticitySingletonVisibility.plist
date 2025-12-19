@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSinceStyle</key>
+	<string>positionedAmongVisitor</string>
+	<key>controllerFromAdapter</key>
+	<string>textureChainLocation</string>
+	<key>intensityMethodForce</key>
+	<string>actionViaFacade</string>
+	<key>lastDescriptorRotation</key>
+	<string>missionFrameworkAppearance</string>
+	<key>scaffoldContainDecorator</key>
+	<string>featureViaFlyweight</string>
+	<key>subtleCompositionBound</key>
+	<string>loopStructureBorder</string>
+	<key>synchronousGridCenter</key>
+	<string>advancedDependencyValidation</string>
+</dict>
+</plist>

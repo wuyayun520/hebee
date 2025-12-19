@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventSingletonEdge</key>
+	<string>resourceSingletonRight</string>
+	<key>queueAlongDecorator</key>
+	<string>rectOperationInset</string>
+	<key>robustTaskInteraction</key>
+	<string>segueVersusFunction</string>
+	<key>secondHistogramCount</key>
+	<string>resultCycleMargin</string>
+	<key>ternaryForWork</key>
+	<string>responseAroundTask</string>
+	<key>unactivatedInjectionRate</key>
+	<string>builderBesideTask</string>
+</dict>
+</plist>

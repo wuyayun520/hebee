@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionPhaseHead</key>
+	<string>spriteParameterDensity</string>
+	<key>featureParamInset</key>
+	<string>fusedAllocatorOrientation</string>
+	<key>listenerNearScope</key>
+	<string>featureAgainstStyle</string>
+	<key>oldActivityTransparency</key>
+	<string>workflowVariableScale</string>
+	<key>semanticsFlyweightContrast</key>
+	<string>flexibleTweenMode</string>
+	<key>viewWithPrototype</key>
+	<string>materialOptimizerTop</string>
+</dict>
+</plist>

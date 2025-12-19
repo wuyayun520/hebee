@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstRequestEdge</key>
+	<string>commonProgressbarRate</string>
+	<key>reducerChainSpeed</key>
+	<string>captionLevelPadding</string>
+	<key>seamlessResultValidation</key>
+	<string>disabledPresenterVisible</string>
+	<key>sliderValueAcceleration</key>
+	<string>transitionJobInteraction</string>
+	<key>stepMethodCoord</key>
+	<string>modulusDuringFacade</string>
+	<key>subtleStorageInset</key>
+	<string>inheritedQueueBehavior</string>
+	<key>titleParamDuration</key>
+	<string>layoutInsideScope</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateWithPattern</key>
+	<string>ternaryViaComposite</string>
+	<key>boxMethodShape</key>
+	<string>transitionMethodState</string>
+	<key>effectDuringActivity</key>
+	<string>metadataExceptParameter</string>
+	<key>exceptionFacadeBehavior</key>
+	<string>secondTransitionColor</string>
+	<key>hardPlatePadding</key>
+	<string>layerStructureTint</string>
+	<key>mobileHashAlignment</key>
+	<string>statelessAssetTag</string>
+	<key>prismaticDecorationFormat</key>
+	<string>loopAndObserver</string>
+	<key>routerInObserver</key>
+	<string>nodeNearValue</string>
+	<key>sessionByNumber</key>
+	<string>advancedBaseAcceleration</string>
+	<key>staticSubscriptionBrightness</key>
+	<string>navigatorCompositeLeft</string>
+</dict>
+</plist>

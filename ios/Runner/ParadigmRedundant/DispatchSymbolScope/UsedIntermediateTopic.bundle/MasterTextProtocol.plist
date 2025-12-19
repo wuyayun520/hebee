@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalResourceEdge</key>
+	<string>crucialZoneDelay</string>
+	<key>parallelOverlayStyle</key>
+	<string>uniformResolverLeft</string>
+	<key>presenterTierSpeed</key>
+	<string>titleViaLayer</string>
+	<key>scaffoldInterpreterShape</key>
+	<string>sizeCommandInset</string>
+	<key>semanticsWorkTag</key>
+	<string>radiusThroughStyle</string>
+</dict>
+</plist>

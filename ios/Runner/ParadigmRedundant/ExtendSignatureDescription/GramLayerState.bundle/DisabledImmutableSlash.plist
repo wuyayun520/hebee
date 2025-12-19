@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheAdapterBorder</key>
+	<string>lazyInteractorResponse</string>
+	<key>completerExceptShape</key>
+	<string>difficultSubpixelTheme</string>
+	<key>imperativeMethodSkewy</key>
+	<string>mediocreObserverTheme</string>
+	<key>priorityStrategyTint</key>
+	<string>pageviewSinceStructure</string>
+	<key>projectMethodSpeed</key>
+	<string>basicPageviewDelay</string>
+	<key>projectionMementoState</key>
+	<string>interpolationNumberBound</string>
+	<key>reducerFacadeShape</key>
+	<string>customizedStoryboardState</string>
+	<key>reducerMethodShade</key>
+	<string>sophisticatedCubitKind</string>
+</dict>
+</plist>

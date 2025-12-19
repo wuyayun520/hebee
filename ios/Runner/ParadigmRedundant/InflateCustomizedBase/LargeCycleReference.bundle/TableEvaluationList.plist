@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAdapterMargin</key>
+	<string>constraintFromActivity</string>
+	<key>gemDecoratorFlags</key>
+	<string>associatedRectValidation</string>
+	<key>globalChannelCoord</key>
+	<string>directBoxshadowStyle</string>
+	<key>hardQueueHue</key>
+	<string>factoryPatternFrequency</string>
+	<key>layoutTaskAppearance</key>
+	<string>advancedTitleCoord</string>
+	<key>remainderAmongKind</key>
+	<string>pinchableOperationPressure</string>
+</dict>
+</plist>

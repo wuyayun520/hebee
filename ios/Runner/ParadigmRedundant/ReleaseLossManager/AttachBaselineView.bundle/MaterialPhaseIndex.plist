@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureDuringShape</key>
+	<string>euclideanSlashDirection</string>
+	<key>composableEffectFrequency</key>
+	<string>multiNotificationShade</string>
+	<key>keyCheckboxLocation</key>
+	<string>groupAgainstSystem</string>
+	<key>lazyProviderTint</key>
+	<string>buttonMementoTint</string>
+	<key>materialBuilderMomentum</key>
+	<string>topicIncludeCommand</string>
+	<key>progressbarBufferForce</key>
+	<string>variantLayerDistance</string>
+	<key>toolOfStructure</key>
+	<string>hashMediatorPressure</string>
+</dict>
+</plist>

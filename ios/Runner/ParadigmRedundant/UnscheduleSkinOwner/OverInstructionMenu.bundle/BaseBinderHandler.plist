@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardStrategyOrientation</key>
+	<string>activatedFutureOrientation</string>
+	<key>crucialBrushValidation</key>
+	<string>movementBeyondWork</string>
+	<key>disabledFrameOrigin</key>
+	<string>richtextCycleSkewy</string>
+	<key>equipmentBesideMediator</key>
+	<string>cubitVersusStyle</string>
+	<key>factoryLikeSingleton</key>
+	<string>gradientPerJob</string>
+	<key>opaqueViewInterval</key>
+	<string>tabbarVariableFormat</string>
+	<key>progressbarStrategyContrast</key>
+	<string>symbolKindInteraction</string>
+	<key>standaloneEntityHue</key>
+	<string>dedicatedAnimationBrightness</string>
+	<key>storeTierInset</key>
+	<string>blocDespiteType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAtActivity</key>
+	<string>hashForNumber</string>
+	<key>immediateStorageDepth</key>
+	<string>nibTierLocation</string>
+	<key>inheritedStreamAcceleration</key>
+	<string>heapStrategyType</string>
+	<key>keyReducerTag</key>
+	<string>seamlessControllerMargin</string>
+	<key>notifierInterpreterName</key>
+	<string>queryAmongVisitor</string>
+	<key>robustTimerShade</key>
+	<string>capsuleOperationScale</string>
+</dict>
+</plist>

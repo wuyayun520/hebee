@@ -5,6 +5,8 @@ import 'package:hebee/services/user_service.dart';
 import 'package:hebee/services/interaction_service.dart';
 import 'package:hebee/widgets/background_wrapper.dart';
 import 'package:hebee/screens/challenge_video_fullscreen.dart';
+import 'package:hebee/screens/hebee_vip_screen.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class ChallengeScreen extends StatefulWidget {
   const ChallengeScreen({super.key});
@@ -244,28 +246,90 @@ class _ChallengeScreenState extends State<ChallengeScreen> {
     );
   }
 
+  Future<bool> _checkVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    final isVip = prefs.getBool('hebeeIsVip') ?? false;
+    
+    // Check if VIP is expired
+    if (isVip) {
+      final expiryStr = prefs.getString('hebeeVipExpiry');
+      if (expiryStr != null) {
+        final expiry = DateTime.tryParse(expiryStr);
+        if (expiry != null && expiry.isBefore(DateTime.now())) {
+          // VIP expired, update status
+          await prefs.setBool('hebeeIsVip', false);
+          return false;
+        }
+      }
+    }
+    
+    return isVip;
+  }
+
+  Future<void> _handleVideoTap(UserModel user) async {
+    // Check VIP status before playing video
+    final isVip = await _checkVipStatus();
+    
+    if (!isVip) {
+      // Show confirmation dialog
+      final shouldSubscribe = await showDialog<bool>(
+        context: context,
+        builder: (context) => AlertDialog(
+          title: const Text('VIP Required'),
+          content: const Text(
+            'You need to be a VIP member to watch videos. Would you like to subscribe?',
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text('Cancel'),
+            ),
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              style: TextButton.styleFrom(
+                foregroundColor: const Color(0xFFFF2E91),
+              ),
+              child: const Text('Subscribe'),
+            ),
+          ],
+        ),
+      );
+
+      if (shouldSubscribe == true) {
+        // Navigate to VIP screen
+        Navigator.of(context).push(
+          MaterialPageRoute(
+            builder: (context) => const HebeeVipScreen(),
+          ),
+        );
+      }
+      return;
+    }
+
+    // User is VIP, proceed to video playback
+    final result = await Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => ChallengeVideoFullscreen(
+          user: user,
+          videoPath: user.voiceDemo.video,
+          isLiked: _isLiked[user.id] ?? false,
+        ),
+      ),
+    );
+    
+    // If video was hidden, refresh the list
+    if (result == true) {
+      await _filterUsers(_allUsers);
+      setState(() {});
+    }
+  }
+
   Widget _buildVideoCard(UserModel user) {
     // Initialize video when card is built
     _initializeVideo(user.id, user.voiceDemo.video);
 
     return GestureDetector(
-      onTap: () async {
-        final result = await Navigator.of(context).push(
-          MaterialPageRoute(
-            builder: (context) => ChallengeVideoFullscreen(
-              user: user,
-              videoPath: user.voiceDemo.video,
-              isLiked: _isLiked[user.id] ?? false,
-            ),
-          ),
-        );
-        
-        // If video was hidden, refresh the list
-        if (result == true) {
-          await _filterUsers(_allUsers);
-          setState(() {});
-        }
-      },
+      onTap: () => _handleVideoTap(user),
       child: Container(
         width: double.infinity,
         decoration: BoxDecoration(

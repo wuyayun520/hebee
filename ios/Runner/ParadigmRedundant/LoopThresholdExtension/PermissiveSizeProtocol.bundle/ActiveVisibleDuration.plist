@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAboutShape</key>
+	<string>effectByFlyweight</string>
+	<key>elasticInstructionStatus</key>
+	<string>nativeRouteFrequency</string>
+	<key>ignoredAlertInset</key>
+	<string>viewPlatformMargin</string>
+	<key>inactiveBaselineOpacity</key>
+	<string>callbackTypeCount</string>
+	<key>layoutProcessContrast</key>
+	<string>sampleStateDistance</string>
+	<key>persistentInjectionSpacing</key>
+	<string>tangentViaBuffer</string>
+	<key>rapidCallbackSkewx</key>
+	<string>declarativeRequestRotation</string>
+	<key>repositoryDuringState</key>
+	<string>canvasOfComposite</string>
+	<key>substantialMediaEdge</key>
+	<string>priorityOperationPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedCursorAlignment</key>
+	<string>textureLevelVisible</string>
+	<key>kernelOperationTheme</key>
+	<string>cardCompositeSkewx</string>
+	<key>providerExceptMode</key>
+	<string>mediumSwiftTint</string>
+	<key>statelessThemeSpeed</key>
+	<string>promiseInsideParam</string>
+</dict>
+</plist>

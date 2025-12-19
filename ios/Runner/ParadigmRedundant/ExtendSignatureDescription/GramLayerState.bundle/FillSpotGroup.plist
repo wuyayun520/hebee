@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBridgeForce</key>
+	<string>tappableIsolateSkewy</string>
+	<key>characterPerStage</key>
+	<string>statelessFromProcess</string>
+	<key>crudeManagerShade</key>
+	<string>newestTopicRight</string>
+	<key>enabledLoopSkewx</key>
+	<string>fusedNormStyle</string>
+	<key>imperativeLayoutLocation</key>
+	<string>offsetNearShape</string>
+	<key>instructionCommandTint</key>
+	<string>riverpodStyleDistance</string>
+	<key>numericalCapacitiesColor</key>
+	<string>pointAdapterOrientation</string>
+	<key>serviceStateSpeed</key>
+	<string>plateAmongValue</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationExceptTask</key>
+	<string>protectedStorageTint</string>
+	<key>composableLossCenter</key>
+	<string>segueForTask</string>
+	<key>customFeatureStatus</key>
+	<string>sizeBufferTail</string>
+	<key>exceptionVarStyle</key>
+	<string>baselineWithoutFunction</string>
+	<key>inheritedDelegateOrigin</key>
+	<string>coordinatorBeyondPattern</string>
+</dict>
+</plist>

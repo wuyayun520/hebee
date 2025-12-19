@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleSinceShape</key>
+	<string>permanentCommandIndex</string>
+	<key>flexibleProviderShape</key>
+	<string>interactorActionFlags</string>
+	<key>normFunctionSkewx</key>
+	<string>getxFacadeSize</string>
+	<key>normIncludeMethod</key>
+	<string>constWidgetInset</string>
+	<key>singletonUntilCommand</key>
+	<string>lastDurationAlignment</string>
+	<key>textfieldAndType</key>
+	<string>movementChainPressure</string>
+</dict>
+</plist>

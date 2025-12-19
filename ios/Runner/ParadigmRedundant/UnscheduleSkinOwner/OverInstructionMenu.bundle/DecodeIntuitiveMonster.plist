@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWithoutShape</key>
+	<string>responsiveSineEdge</string>
+	<key>assetExceptVar</key>
+	<string>loopWithSingleton</string>
+	<key>delicateGridType</key>
+	<string>directRouterShade</string>
+	<key>dependencyPhaseAcceleration</key>
+	<string>storeOutsideInterpreter</string>
+	<key>dropdownbuttonPhaseVisible</key>
+	<string>resilientGroupBrightness</string>
+	<key>euclideanBuilderInset</key>
+	<string>gesturedetectorCycleOpacity</string>
+	<key>graphDecoratorTint</key>
+	<string>factoryNumberCoord</string>
+	<key>providerActionForce</key>
+	<string>serviceScopeShade</string>
+	<key>sophisticatedDurationDensity</key>
+	<string>functionalButtonCoord</string>
+</dict>
+</plist>

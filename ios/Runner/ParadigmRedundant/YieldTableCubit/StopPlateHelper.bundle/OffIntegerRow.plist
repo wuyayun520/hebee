@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleZoneAlignment</key>
+	<string>interactorDecoratorFrequency</string>
+	<key>characterUntilSystem</key>
+	<string>singletonEnvironmentSkewy</string>
+	<key>coordinatorAlongStructure</key>
+	<string>progressbarTempleDuration</string>
+	<key>cursorAtStructure</key>
+	<string>subscriptionFormName</string>
+	<key>customizedTabviewBottom</key>
+	<string>painterSingletonOffset</string>
+	<key>finalVectorHue</key>
+	<string>compositionalContainerBorder</string>
+	<key>labelAboutTask</key>
+	<string>opaqueMaterialMode</string>
+	<key>liteViewSpeed</key>
+	<string>methodContainFunction</string>
+	<key>paddingMediatorRate</key>
+	<string>topicVersusChain</string>
+</dict>
+</plist>

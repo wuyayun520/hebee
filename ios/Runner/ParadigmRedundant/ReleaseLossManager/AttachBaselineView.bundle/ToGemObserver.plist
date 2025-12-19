@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoCompositeInteraction</key>
+	<string>actionPhaseMomentum</string>
+	<key>intuitiveStreamOffset</key>
+	<string>pinchableMobileStatus</string>
+	<key>numericalMobileFeedback</key>
+	<string>collectionOrOperation</string>
+	<key>pinchableOperationRotation</key>
+	<string>tabviewDespiteProxy</string>
+	<key>resilientTextState</key>
+	<string>discardedDurationColor</string>
+	<key>sustainableMusicDepth</key>
+	<string>timerPlatformBottom</string>
+	<key>transitionForOperation</key>
+	<string>textureAgainstBuffer</string>
+	<key>usedCallbackDistance</key>
+	<string>cartesianStateFlags</string>
+	<key>viewProxyFrequency</key>
+	<string>explicitSpotPosition</string>
+</dict>
+</plist>

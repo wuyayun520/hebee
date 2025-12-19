@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAspectSaturation</key>
+	<string>queryStructureAlignment</string>
+	<key>coordinatorNearStrategy</key>
+	<string>labelFromVar</string>
+	<key>equalizationViaChain</key>
+	<string>grainBesideFlyweight</string>
+	<key>futureProcessAlignment</key>
+	<string>smallStoreTint</string>
+	<key>imperativeCupertinoVisibility</key>
+	<string>handlerFromStyle</string>
+	<key>taskVariableFlags</key>
+	<string>featureDecoratorVelocity</string>
+</dict>
+</plist>

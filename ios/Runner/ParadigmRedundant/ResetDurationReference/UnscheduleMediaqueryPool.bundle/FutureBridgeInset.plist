@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonPlaybackFormat</key>
+	<string>buttonThanObserver</string>
+	<key>equalizationPlatformContrast</key>
+	<string>lazyNotificationInset</string>
+	<key>gridCommandRight</key>
+	<string>coordinatorViaCommand</string>
+	<key>independentScaffoldStatus</key>
+	<string>tickerInsideStyle</string>
+	<key>navigatorAroundVisitor</key>
+	<string>storeParamFlags</string>
+	<key>protocolOfAdapter</key>
+	<string>cosineContainStructure</string>
+	<key>requestActionMode</key>
+	<string>reductionCompositePressure</string>
+	<key>resizableIntensityRate</key>
+	<string>durationObserverSkewy</string>
+	<key>transitionNearActivity</key>
+	<string>streamVariableTransparency</string>
+</dict>
+</plist>

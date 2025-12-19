@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandScopePressure</key>
+	<string>widgetCommandBottom</string>
+	<key>enabledStatelessLocation</key>
+	<string>contractionMethodIndex</string>
+	<key>fusedGridSaturation</key>
+	<string>staticCompleterIndex</string>
+	<key>optimizerExceptComposite</key>
+	<string>constraintObserverAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAtParam</key>
+	<string>baseStyleAlignment</string>
+	<key>controllerVersusMediator</key>
+	<string>cardBridgeSkewy</string>
+	<key>cubitAsState</key>
+	<string>publicAnimationFeedback</string>
+	<key>modelIncludeStyle</key>
+	<string>seamlessRequestSkewy</string>
+	<key>notifierBeyondParam</key>
+	<string>symbolAsEnvironment</string>
+	<key>rapidZoneCoord</key>
+	<string>semanticsContextType</string>
+</dict>
+</plist>

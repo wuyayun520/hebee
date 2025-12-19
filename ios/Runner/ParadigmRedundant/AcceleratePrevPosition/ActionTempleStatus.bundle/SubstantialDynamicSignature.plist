@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorSingletonMargin</key>
+	<string>agileContractionDuration</string>
+	<key>capacitiesStateContrast</key>
+	<string>cupertinoVersusTask</string>
+	<key>navigationBeyondParameter</key>
+	<string>signFlyweightIndex</string>
+	<key>permissiveStateSkewx</key>
+	<string>sessionBufferResponse</string>
+	<key>robustConfigurationTheme</key>
+	<string>hashStateSaturation</string>
+</dict>
+</plist>

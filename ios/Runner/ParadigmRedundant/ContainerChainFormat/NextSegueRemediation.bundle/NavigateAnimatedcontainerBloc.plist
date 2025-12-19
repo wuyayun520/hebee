@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitLayerRate</key>
+	<string>heapThroughSingleton</string>
+	<key>hardInstructionEdge</key>
+	<string>cacheInVisitor</string>
+	<key>queryDespiteParam</key>
+	<string>mediaqueryVisitorTint</string>
+	<key>usecaseVarHue</key>
+	<string>temporaryInjectionColor</string>
+</dict>
+</plist>

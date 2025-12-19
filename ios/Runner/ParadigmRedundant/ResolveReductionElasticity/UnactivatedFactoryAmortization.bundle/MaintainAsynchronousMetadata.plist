@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxThroughComposite</key>
+	<string>transitionShapeDuration</string>
+	<key>builderWithoutLayer</key>
+	<string>reactiveBufferSkewy</string>
+	<key>checkboxProcessAcceleration</key>
+	<string>customTextBound</string>
+	<key>injectionObserverTail</key>
+	<string>typicalCompletionInteraction</string>
+</dict>
+</plist>

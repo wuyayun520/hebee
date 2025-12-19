@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateBesideDecorator</key>
+	<string>chartDecoratorValidation</string>
+	<key>cycleAlongMode</key>
+	<string>tensorTextureOffset</string>
+	<key>finalPreviewOrigin</key>
+	<string>statefulCubeValidation</string>
+	<key>spineStrategyTension</key>
+	<string>rowFlyweightLeft</string>
+	<key>spritePlatformVisibility</key>
+	<string>criticalFactoryFrequency</string>
+	<key>symbolIncludeOperation</key>
+	<string>positionPerNumber</string>
+</dict>
+</plist>

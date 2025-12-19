@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorWorkType</key>
+	<string>keyEqualizationBound</string>
+	<key>rectAgainstFunction</key>
+	<string>nodeFunctionDepth</string>
+	<key>seamlessCanvasDistance</key>
+	<string>webLoopFormat</string>
+	<key>spotEnvironmentDuration</key>
+	<string>intermediateSwiftValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorSystemTint</key>
+	<string>columnPerProcess</string>
+	<key>custompaintCommandStatus</key>
+	<string>behaviorStructureVisible</string>
+	<key>grainOutsideShape</key>
+	<string>constraintStageIndex</string>
+	<key>mediumResultMargin</key>
+	<string>compositionalCompleterLocation</string>
+	<key>methodLevelState</key>
+	<string>ignoredControllerTint</string>
+	<key>offsetExceptMemento</key>
+	<string>lossBeyondFunction</string>
+	<key>protectedRoleRate</key>
+	<string>modelAgainstFlyweight</string>
+	<key>resilientTimerPadding</key>
+	<string>positionedIncludeVariable</string>
+	<key>secondMarginOffset</key>
+	<string>queryDuringComposite</string>
+	<key>specifierAndNumber</key>
+	<string>parallelManagerAppearance</string>
+</dict>
+</plist>

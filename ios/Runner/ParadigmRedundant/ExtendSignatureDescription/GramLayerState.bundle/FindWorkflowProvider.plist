@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOperationTransparency</key>
+	<string>mediaFlyweightSkewy</string>
+	<key>constraintSinceActivity</key>
+	<string>interfaceAmongMediator</string>
+	<key>disparateTabbarHead</key>
+	<string>intuitiveObserverAppearance</string>
+	<key>exceptionAwayBuffer</key>
+	<string>referenceAlongContext</string>
+	<key>labelAwayMediator</key>
+	<string>desktopCompositionSize</string>
+	<key>observerVersusDecorator</key>
+	<string>dependencyOrMemento</string>
+	<key>singletonContextShade</key>
+	<string>variantFrameworkName</string>
+</dict>
+</plist>

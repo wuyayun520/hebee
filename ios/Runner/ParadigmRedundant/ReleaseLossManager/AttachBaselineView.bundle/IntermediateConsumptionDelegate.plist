@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionOutsideSingleton</key>
+	<string>hierarchicalMapFlags</string>
+	<key>observerPerStyle</key>
+	<string>builderViaLevel</string>
+	<key>requiredRowBrightness</key>
+	<string>immediateBinarySpeed</string>
+	<key>resolverInsideStyle</key>
+	<string>radiusInterpreterForce</string>
+	<key>respectivePreviewPadding</key>
+	<string>channelProcessCenter</string>
+	<key>scrollableRequestSkewy</key>
+	<string>featureAwayPattern</string>
+</dict>
+</plist>
